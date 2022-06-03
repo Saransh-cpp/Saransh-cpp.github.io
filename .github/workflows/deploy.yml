@@ -47,7 +47,7 @@ jobs:
         echo "::set-output name=DEPLOY_BRANCH::gh-pages"
     - name: Fix permission
       run: |
-        chmod a+x bin/*
+        chmod a+x ./*
         git commit -am "Add execute permission to bin/deploy"
     - name: Deploy website 
       run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
