@@ -49,6 +49,10 @@ jobs:
       run: |
         chmod a+x bin/*
         chmod a+x _site/*
+        chmod a+x ./assets/*
+        chmod a+x ./blog/*
+        chmod a+x ./blog
+        chmod a+x ./assets
         git commit -am "Add execute permission to bin/deploy"
     - name: Deploy website 
       run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
