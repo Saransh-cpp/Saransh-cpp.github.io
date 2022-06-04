@@ -233,6 +233,35 @@ blockquote {
   }
 }
 
+.news table td {
+  font-size: 1rem;
+  color: var(--global-text-color);
+}
+
+table.table-sm th, table.table-sm td {
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+
+table.table th, table.table td {
+  padding-top: 1.1rem;
+  padding-bottom: 1rem;
+}
+
+.table-sm td, .table-sm th {
+  padding: 2rem;
+}
+
+.table-sm th {
+  white-space:nowrap;
+}
+
+// .news table th {
+//   font-size: 0.9rem;
+//   color: var(--global-text-color);
+// }
+
+
 // Social (bottom)
 
 .social {

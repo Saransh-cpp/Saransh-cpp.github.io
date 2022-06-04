@@ -6,6 +6,11 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
+div.clearfix {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 @import
   "variables",
   "themes",
