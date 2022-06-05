@@ -25,7 +25,20 @@ I have previously worked as a **[Google Summer of Code](https://summerofcode.wit
 
 The organisations, institutes, and programs I am currently working for (or under), or have worked for in the past.
 
-<figure>
-  <img src="/assets/img/affiliations-no-transparent.png" style="width: 75%; display: block; margin: 0 auto">
-  <figcaption> </figcaption>
-</figure>
+<!-- <p align="center">
+  <img src="assets/img/pybamm-logo.png" style="width: 500px"/>
+  <img src="assets/img/flux-logo.png" style="width: 350px"/>
+  <img src="assets/img/iris-hep-logo.png" style="width: 300px"/>
+  <img src="assets/img/scikit-hep-logo.png" style="width: 270px"/>
+  <img src="assets/img/julia-logo.png" style="width: 350px"/>
+  <img src="assets/img/gsoc-logo.png" style="width: 350px"/>
+</p> -->
+
+<p align="center">
+  <img src="assets/img/pybamm-logo.png" style="width: 30%"/>
+  <img src="assets/img/flux-logo.png" style="width: 25%"/>
+  <img src="assets/img/iris-hep-logo.png" style="width: 25%"/>
+  <img src="assets/img/scikit-hep-logo.png" style="width: 25%"/>
+  <img src="assets/img/julia-logo.png" style="width: 25%"/>
+  <img src="assets/img/gsoc-logo.png" style="width: 25%"/>
+</p>
