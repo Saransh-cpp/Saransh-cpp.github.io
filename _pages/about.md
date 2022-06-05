@@ -26,6 +26,6 @@ I have previously worked as a **[Google Summer of Code](https://summerofcode.wit
 The organisations, institutes, and programs I am currently working for (or under), or have worked for in the past.
 
 <figure>
-  <img src="/assets/img/affiliations-no-transparent.png" style="width:55%; display: block; margin: 0 auto">
+  <img src="/assets/img/affiliations-no-transparent.png" style="width: 75%; display: block; margin: 0 auto">
   <figcaption> </figcaption>
 </figure>
