@@ -37,8 +37,9 @@ The organisations, institutes, and programs I am currently working for (or under
 <p align="center">
   <img src="assets/img/pybamm-logo.png" style="width: 30%"/>
   <img src="assets/img/flux-logo.png" style="width: 25%"/>
-  <img src="assets/img/iris-hep-logo.png" style="width: 25%"/>
-  <img src="assets/img/scikit-hep-logo.png" style="width: 25%"/>
-  <img src="assets/img/julia-logo.png" style="width: 25%"/>
+  <img src="assets/img/iris-hep-logo.png" style="width: 20%"/>
+  <img src="assets/img/scikit-hep-logo.png" style="width: 15%"/>
+  <img src="assets/img/julia-logo.png" style="width: 20%"/>
   <img src="assets/img/gsoc-logo.png" style="width: 25%"/>
+  <img src="assets/img/numfocus-logo.png" style="width: 25%"/>
 </p>
