@@ -2,7 +2,7 @@
 layout: page
 title: open source
 permalink: /open_source/
-description: I like open source research software. (page under construction)
+description: I like open source research software.
 nav: true
 nav_order: 1
 # display_categories: [maintainer, core-developer, contibutor]
@@ -15,7 +15,7 @@ My contributions are scattered all over GitHub. I usually contribute to research
 
 ---
 
-### PyBaMM (Python Battery Mathematical Modeling)
+### [PyBaMM (Python Battery Mathematical Modeling)](https://github.com/pybamm-team/PyBaMM)
 
 <table>
   <colgroup>
@@ -33,7 +33,7 @@ My contributions are scattered all over GitHub. I usually contribute to research
 </table>
 
 
-### BattBot
+### [BattBot](https://github.com/pybamm-team/BattBot)
 
 <table>
   <colgroup>
@@ -54,7 +54,7 @@ My contributions are scattered all over GitHub. I usually contribute to research
 
 ---
 
-### liionpack
+### [liionpack](https://github.com/pybamm-team/liionpack)
 
 <table>
   <colgroup>
@@ -72,7 +72,7 @@ My contributions are scattered all over GitHub. I usually contribute to research
   </tr>
 </table>
 
-### Vector
+### [Vector](https://github.com/scikit-hep/vector)
 
 <table>
   <colgroup>
@@ -93,7 +93,7 @@ My contributions are scattered all over GitHub. I usually contribute to research
 
 ---
 
-### FluxML
+### [FluxML](https://github.com/FluxML/Flux.jl)
 
 <table>
   <colgroup>

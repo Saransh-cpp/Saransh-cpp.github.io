@@ -2,14 +2,32 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Fun experiments. (page under construction)
+description: Fun experiments.
 nav: true
 nav_order: 1
 # display_categories: [work, fun]
 horizontal: false
 ---
 
-### ChaoticEncryption.jl 
+### [ForMente](https://github.com/Saransh-cpp/ForMente)
+Natural Language Processing, Android, Dart, Flutter, Python, FastAPI, Firebase, Firestore, Heroku, GitHub Actions, CI/CD
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 65%;">
+       <col span="1" style="width: 35%;">
+  </colgroup>
+  <tr>
+    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">By harnessing the power of Natural Language Processing, ForMente lets you diagnose what you are feeling in the form of a safe and secure personal diary. <br> <br>
+    ForMente is a personal diary built using Flutter and Dart that allows users to write down their minds every day. These texts are stored securely in Firestore, and users can visit them whenever they want. The application runs natural language processing on the texts written by a user and shows them how they are feeling in real-time using an API deployed on Heroku. This API has been developed using FastAPI and it hosts the trained Naive Bayes model for emotion classification. <br> <br>
+    The first person that someone usually talks to about their mental health is themselves. This usually buries the person with self-doubt that becomes hard to cure. ForMente comes in between to diagnose a person's feelings through Natural Language Processing. 
+  </td>
+    <td style="text-align: center"><img style="float: middle; width:80%" src="../assets/img/formente-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+### [ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl) 
 Julia Package, ODEs, Pseudo-Random Number Generators, Encryption-Decryption
 
 ---
@@ -20,7 +38,7 @@ Julia Package, ODEs, Pseudo-Random Number Generators, Encryption-Decryption
        <col span="1" style="width: 35%;">
   </colgroup>
   <tr>
-    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">Encrypt and decrypt image files using Pseudo-Random Number Generators and various encryption techniques! ChaoticEncryption.jl is a Julia package that comes loaded with Pseudo-Random Number Generators and various encryption techniques, which can be used to encrypt and decrypt any image file. The package is under active development, but the existing API is stable and might not change significantly. <br> <br>
+    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">ChaoticEncryption.jl is a Julia package that comes loaded with Pseudo-Random Number Generators and various encryption techniques, which can be used to encrypt and decrypt any image file. The package is under active development, but the existing API is stable and might not change significantly. <br> <br>
     The algorithms, with the help of Julia's optimisation techniques and multiple dispatch, have been vectorised to run 5-10 times faster than ordinary nested-for implementations. The package can be installed using Julia's package manager Pkg.jl - <br>
     <code> julia> ] add ChaoticEncryption </code> <br> <br>
     The complete infrastructure, documentation, code, and CI/CD pipeline of the package have been built/written by me. The package has been starred 23 times on <a href="https://github.com/Saransh-cpp/ChaoticEncryption.jl">GitHub</a> and is available on JuliaHub <a href="https://juliahub.com/ui/Packages/ChaoticEncryption/dtMkN">here</a> (11 downloads). The documentation for the package is hosted by GitHub Pages and is available <a href="https://saransh-cpp.github.io/ChaoticEncryption.jl/stable">here</a> (stable/latest tagged version).
@@ -32,7 +50,7 @@ Julia Package, ODEs, Pseudo-Random Number Generators, Encryption-Decryption
 
 <br>
 
-### SceneNet
+### [SceneNet](https://github.com/Saransh-cpp/SceneNet)
 Transfer Learning, VGG19, Python, Flutter, Dart, FastAPI, Heroku
 
 ---
@@ -43,16 +61,19 @@ Transfer Learning, VGG19, Python, Flutter, Dart, FastAPI, Heroku
        <col span="1" style="width: 35%;">
   </colgroup>
   <tr>
-    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">User-facing scenery detection using transfer learning. <br> <br>
+    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">User-facing scenery detection using transfer learning. SceneNet allows a user to take a picture of their surrounding to know where they are (could be for fun, could be for emergency, could be for visually impaired people). <br> <br>
+    The app uploads the image file to <a href="https://github.com/Saransh-cpp/SceneNet-Backend">SceneNet_Backend</a>, which is trained, using transfer learning, on a dataset of 10,000+ indoor images.
+    The API returns a specific category which is then either, only displayed, or, displayed and spoken (text to speech).
+    The user can easily select if they want the app to speak or not.
   </td>
-    <td><img style="float: right; width:100%" src="" alt="Under construction"></td>
+    <td style="text-align: center"><img style="float: middle; width:80%" src="../assets/img/scenenet-logo.png"></td>
     <td></td>
   </tr>
 </table>
 
 <br>
 
-### PopItUp
+### [PopItUp](https://github.com/Saransh-cpp/PopItUp)
 Android, Kotlin, Firebase, Firestore, Google Sceneform SDK, Google ARCore SDK
 
 ---
@@ -64,6 +85,9 @@ Android, Kotlin, Firebase, Firestore, Google Sceneform SDK, Google ARCore SDK
   </colgroup>
   <tr>
     <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">An Augmented Reality shooting game, built with Google ARCore SDK and Google Sceneform SDK. <br> <br>
+    The sceneform SDK was injected externally in the app (due to the deprecation) and hence, this repository has more Java code than the Kotlin code. A lot if changes were made to the sceneform SDK itself, to make it compatible with AndroidX and other new updates. <br> <br>
+    The game spawns 20 spheroids in the real world which the users can shoot with an AR bullet.
+    LeaderBoard. It also provides a real-time leaderboard to all the users. FirestoreRecyyclerView is used to bind all the live data into a RecyclerView.
   </td>
     <td><img style="float: right; width:100%" src="../assets/img/popitup-logo-not-transparent.png"></td>
     <td></td>
@@ -72,7 +96,7 @@ Android, Kotlin, Firebase, Firestore, Google Sceneform SDK, Google ARCore SDK
 
 <br>
 
-### MemeTastic
+### [MemeTastic](https://github.com/Saransh-cpp/MemeTastic)
 Flutter, Dart, NodeJS, Elasticsearch, Kibana, CI/CD, Google Cloud, Reddit API, Ngram Analyser
 
 ---
@@ -84,8 +108,10 @@ Flutter, Dart, NodeJS, Elasticsearch, Kibana, CI/CD, Google Cloud, Reddit API, N
   </colgroup>
   <tr>
     <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">Summon and search Reddit memes from anywhere and at anytime!<br> <br>
+    The Flutter application summons a random meme from the top 100 memes on the memes subreddit. The backend uses elasticsearch to achieve this and then the frontend displays it with a clean UI. A user can also search for any meme using any string, given that I have implemented the ngram analyzer, the user will automatically be prompted with various suggestions on the basis of the string they enter. <br> <br>
+    Finally, the user can also share these memes with anyone.
   </td>
-    <td><img style="float: right; width:100%" src="" alt="Under construction"></td>
+    <td style="text-align: center"><img style="float: center; width:50%" src="../assets/img/memetastic-logo.png"></td>
     <td></td>
   </tr>
 </table>

@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Under construction.
-years: [1956, 1950, 1935, 1905]
+description: Working on them.
+years: [2022]
 nav: true
 nav_order: 2
 ---
