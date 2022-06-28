@@ -15,7 +15,7 @@ My contributions are scattered all over GitHub. I usually contribute to research
 
 ---
 
-### [PyBaMM (Python Battery Mathematical Modeling)](https://github.com/pybamm-team/PyBaMM)
+### [PyBaMM (Python Battery Mathematical Modeling)](https://github.com/pybamm-team/PyBaMM){:target="_blank"}
 
 <table>
   <colgroup>
@@ -33,7 +33,7 @@ My contributions are scattered all over GitHub. I usually contribute to research
 </table>
 
 
-### [BattBot](https://github.com/pybamm-team/BattBot)
+### [BattBot](https://github.com/pybamm-team/BattBot){:target="_blank"}
 
 <table>
   <colgroup>
@@ -50,7 +50,7 @@ My contributions are scattered all over GitHub. I usually contribute to research
   </tr>
 </table>
 
-### [Vector](https://github.com/scikit-hep/vector)
+### [Vector](https://github.com/scikit-hep/vector){:target="_blank"}
 
 <table>
   <colgroup>
@@ -71,7 +71,7 @@ My contributions are scattered all over GitHub. I usually contribute to research
 
 ---
 
-### [liionpack](https://github.com/pybamm-team/liionpack)
+### [liionpack](https://github.com/pybamm-team/liionpack){:target="_blank"}
 
 <table>
   <colgroup>
@@ -89,7 +89,7 @@ My contributions are scattered all over GitHub. I usually contribute to research
   </tr>
 </table>
 
-### [FluxML](https://github.com/FluxML/Flux.jl)
+### [FluxML](https://github.com/FluxML/Flux.jl){:target="_blank"}
 
 <table>
   <colgroup>

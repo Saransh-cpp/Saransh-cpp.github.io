@@ -9,7 +9,7 @@ nav_order: 1
 horizontal: false
 ---
 
-### [ForMente](https://github.com/Saransh-cpp/ForMente)
+### [ForMente](https://github.com/Saransh-cpp/ForMente){:target="_blank"}
 Natural Language Processing, Android, Dart, Flutter, Python, FastAPI, Firebase, Firestore, Heroku, GitHub Actions, CI/CD
 
 <table>
@@ -27,7 +27,7 @@ Natural Language Processing, Android, Dart, Flutter, Python, FastAPI, Firebase, 
   </tr>
 </table>
 
-### [ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl) 
+### [ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl){:target="_blank"}
 Julia Package, ODEs, Pseudo-Random Number Generators, Encryption-Decryption
 
 ---
@@ -50,7 +50,7 @@ Julia Package, ODEs, Pseudo-Random Number Generators, Encryption-Decryption
 
 <br>
 
-### [SceneNet](https://github.com/Saransh-cpp/SceneNet)
+### [SceneNet](https://github.com/Saransh-cpp/SceneNet){:target="_blank"}
 Transfer Learning, VGG19, Python, Flutter, Dart, FastAPI, Heroku
 
 ---
@@ -73,7 +73,7 @@ Transfer Learning, VGG19, Python, Flutter, Dart, FastAPI, Heroku
 
 <br>
 
-### [PopItUp](https://github.com/Saransh-cpp/PopItUp)
+### [PopItUp](https://github.com/Saransh-cpp/PopItUp){:target="_blank"}
 Android, Kotlin, Firebase, Firestore, Google Sceneform SDK, Google ARCore SDK
 
 ---
@@ -96,7 +96,7 @@ Android, Kotlin, Firebase, Firestore, Google Sceneform SDK, Google ARCore SDK
 
 <br>
 
-### [MemeTastic](https://github.com/Saransh-cpp/MemeTastic)
+### [MemeTastic](https://github.com/Saransh-cpp/MemeTastic){:target="_blank"}
 Flutter, Dart, NodeJS, Elasticsearch, Kibana, CI/CD, Google Cloud, Reddit API, Ngram Analyser
 
 ---
