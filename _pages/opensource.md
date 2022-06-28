@@ -50,6 +50,23 @@ My contributions are scattered all over GitHub. I usually contribute to research
   </tr>
 </table>
 
+### [Vector](https://github.com/scikit-hep/vector)
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 65%;">
+       <col span="1" style="width: 35%;">
+  </colgroup>
+  <tr>
+    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">Vector is a Python 3.6+ library for 2D, 3D, and Lorentz vectors, especially arrays of vectors, to solve common physics problems in a NumPy-like way. <br> <br>
+    In-progress.
+
+  </td>
+    <td><img style="float: right; width:100%" src="../assets/img/vector-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
 ## Core-contributor
 
 ---
@@ -72,7 +89,7 @@ My contributions are scattered all over GitHub. I usually contribute to research
   </tr>
 </table>
 
-### [Vector](https://github.com/scikit-hep/vector)
+### [FluxML](https://github.com/FluxML/Flux.jl)
 
 <table>
   <colgroup>
@@ -80,16 +97,16 @@ My contributions are scattered all over GitHub. I usually contribute to research
        <col span="1" style="width: 35%;">
   </colgroup>
   <tr>
-    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">Vector is a Python 3.6+ library for 2D, 3D, and Lorentz vectors, especially arrays of vectors, to solve common physics problems in a NumPy-like way. <br> <br>
+    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">Flux is an elegant approach to machine learning. It's a 100% pure-Julia stack, and provides lightweight abstractions on top of Julia's native GPU and AD support. Flux makes the easy things easy while remaining fully hackable. <br> <br>
     In-progress.
 
   </td>
-    <td><img style="float: right; width:100%" src="../assets/img/vector-logo.png"></td>
+    <td><img style="float: right; width:100%" src="../assets/img/flux-logo.png"></td>
     <td></td>
   </tr>
 </table>
 
-## Contributor
+<!-- ## Contributor
 
 ---
 
@@ -108,7 +125,7 @@ My contributions are scattered all over GitHub. I usually contribute to research
     <td><img style="float: right; width:100%" src="../assets/img/flux-logo.png"></td>
     <td></td>
   </tr>
-</table>
+</table> -->
 
 
 <!-- pages/projects.md -->
