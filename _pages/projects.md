@@ -27,6 +27,8 @@ Natural Language Processing, Android, Dart, Flutter, Python, FastAPI, Firebase, 
   </tr>
 </table>
 
+<br>
+
 ### [ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl){:target="_blank"}
 Julia Package, ODEs, Pseudo-Random Number Generators, Encryption-Decryption
 
