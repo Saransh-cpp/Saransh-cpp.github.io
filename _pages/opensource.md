@@ -11,7 +11,7 @@ horizontal: false
 
 My contributions are scattered all over GitHub. I usually contribute to research software written in Python and Julia, but I am exploring the C/C++ side as well. Here are some of my significant contributions.
 
-## Maintainer
+## Maintainer and core-developer
 
 ---
 
@@ -32,6 +32,23 @@ My contributions are scattered all over GitHub. I usually contribute to research
   </tr>
 </table>
 
+### [liionpack](https://github.com/pybamm-team/liionpack){:target="_blank"}
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 65%;">
+       <col span="1" style="width: 35%;">
+  </colgroup>
+  <tr>
+    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">liionpack takes a 1D PyBaMM model and makes it into a pack. You can either specify the configuration e.g. 16 cells in parallel and 2 in series (16p2s) or load a netlist. <br> <br>
+    Before liionpack's initial release, I worked extensively on its documentation, infrastructure, and CI/CD pipeline. As a result, Liionpack's paper, published in the Journal of Open Source Software, now lists me as a co-author!!<br> <br>
+    I still look after liionpack's documentation, infrastructure, and CI/CD pipeline!
+
+  </td>
+    <td><img style="float: right; width:100%" src="../assets/img/liionpack-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
 
 ### [BattBot](https://github.com/pybamm-team/BattBot){:target="_blank"}
 
@@ -50,6 +67,10 @@ My contributions are scattered all over GitHub. I usually contribute to research
   </tr>
 </table>
 
+## Collaborater and core-contributor
+
+---
+
 ### [Vector](https://github.com/scikit-hep/vector){:target="_blank"}
 
 <table>
@@ -67,27 +88,9 @@ My contributions are scattered all over GitHub. I usually contribute to research
   </tr>
 </table>
 
-## Core-contributor
+## Contributor
 
 ---
-
-### [liionpack](https://github.com/pybamm-team/liionpack){:target="_blank"}
-
-<table>
-  <colgroup>
-       <col span="1" style="width: 65%;">
-       <col span="1" style="width: 35%;">
-  </colgroup>
-  <tr>
-    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">liionpack takes a 1D PyBaMM model and makes it into a pack. You can either specify the configuration e.g. 16 cells in parallel and 2 in series (16p2s) or load a netlist. <br> <br>
-    Before liionpack's initial release, I worked extensively on its documentation, infrastructure, and CI/CD pipeline. As a result, Liionpack's paper, published in the Journal of Open Source Software, now lists me as a co-author!!<br> <br>
-    I still look after liionpack's documentation, infrastructure, and CI/CD pipeline!
-
-  </td>
-    <td><img style="float: right; width:100%" src="../assets/img/liionpack-logo.png"></td>
-    <td></td>
-  </tr>
-</table>
 
 ### [FluxML](https://github.com/FluxML/Flux.jl){:target="_blank"}
 
