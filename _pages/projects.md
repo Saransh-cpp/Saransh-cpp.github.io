@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Fun experiments.
 nav: true
-nav_order: 2
+nav_order: 4
 # display_categories: [work, fun]
 horizontal: false
 ---
