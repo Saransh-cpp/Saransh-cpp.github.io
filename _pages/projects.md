@@ -9,6 +9,46 @@ nav_order: 4
 horizontal: false
 ---
 
+### [releaseup](https://github.com/Saransh-cpp/ForMente){:target="_blank"}
+Natural Language Processing, Summarisation, spaCy, Scikit-learn, TF-IDF, Python library, MkDocs, ReadTheDocs, GitHub Actions, CI/CD
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 65%;">
+       <col span="1" style="width: 35%;">
+  </colgroup>
+  <tr>
+    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">An extractive NLP approach for generating release notes from comments and docstrings added between two git tags. <br> <br>
+    releaseup extracts all the comments and docstrings using git diff, preprocesses the outputs, and finally generates release notes using sklearn's TfidfVectorizer and spacy! The generated release notes are not at all abstractive, which is something releaseup aims to achieve in the future. <br> <br>
+    The <a src="https://pypi.org/project/releaseup/" target="_blank">Python library</a> has 10+ installs on PyPI, 5+ stars on <a src="https://github.com/Saransh-cpp/releaseup" target="_blank">GitHub</a>, and follows best development practices.
+  </td>
+    <td style="text-align: center"><img style="float: middle; width:80%" src="../assets/img/releaseup-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+### [OCRed](https://ocred.readthedocs.io/){:target="_blank"}
+Optical Character Recognition, Computer Vision, Tesseract-OCR, NLTK, Python library, MkDocs, ReadTheDocs, GitHub Actions, CI/CD
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 65%;">
+       <col span="1" style="width: 35%;">
+  </colgroup>
+  <tr>
+    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">OCRed (pronounced as OCR'd) provides clever, simple, and intuitive wrapper functionalities for OCRing specific text material. <br> <br>
+    You don't want to learn OCR or the libraries that will help you perform OCR, but you need to OCR something? This friendly neighborhood library hides all of that stuff under simple functions like ocr_meaningful_text(). In other words, instead of manual preprocessing, looking for an OCR library, learning the library, then finally getting what you were looking for, use OCRed instead. <br> <br>
+    The <a src="https://pypi.org/project/ocred/" target="_blank">Python library</a> has 1,400+ installs on PyPI, 10+ stars on <a src="https://github.com/Saransh-cpp/OCRed" target="_blank">GitHub</a>, and follows best development practices.
+  </td>
+    <td style="text-align: center"><img style="float: middle; width:80%" src="../assets/img/ocred-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
 ### [ForMente](https://github.com/Saransh-cpp/ForMente){:target="_blank"}
 Natural Language Processing, Android, Dart, Flutter, Python, FastAPI, Firebase, Firestore, Heroku, GitHub Actions, CI/CD
 
