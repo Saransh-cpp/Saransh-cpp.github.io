@@ -86,7 +86,7 @@ horizontal: false
       <h3><a href="https://ep2022.europython.eu/session/code-coverage-through-unit-tests-running-in-sub-processes-threads-locally-and-automated-on-github" target="_blank">Code coverage through unit tests running in sub-processes/threads: Locally and automated on GitHub</a></h3>
       <h5><a href="https://ep2022.europython.eu/">21st Annual Conference On Python - Europe (EuroPython)</a></h5>
     </td>
-    <td style="text-align: center"><img style="float: right; width:80%" src="../assets/img/europython-logo.svg"></td>
+    <td style="text-align: center"><img style="float: middle; width:80%" src="../assets/img/europython-logo.png"></td>
     <td></td>
   </tr>
 </table>
@@ -103,7 +103,7 @@ horizontal: false
       <h3><a href="https://www.youtube.com/watch?v=WkkbrgP7Sss" target="_blank">Vector - Constructors, documentation, and benchmarks</a></h3>
       <h5><a href="https://iris-hep.org/">IRIS-HEP Fellow Lightning Talks</a></h5>
     </td>
-    <td style="text-align: center"><img style="float: left; width:60%" src="../assets/img/iris-hep-logo.png"></td>
+    <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/iris-hep-logo.png"></td>
     <td></td>
   </tr>
 </table>
@@ -120,7 +120,7 @@ horizontal: false
       <h3><a href="https://www.youtube.com/watch?v=WkkbrgP7Sss" target="_blank">BattBot: Mathematical Modeling of Batteries using an automated Twitter bot</a></h3>
       <h5><a href="https://www.pybamm.org/training">PyBaMM training workshop (advanced examples)</a></h5>
     </td>
-    <td style="text-align: center"><img style="float: left; width:70%" src="../assets/img/pybamm-logo.png"></td>
+    <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/pybamm-logo.png"></td>
     <td></td>
   </tr>
 </table>
