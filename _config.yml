@@ -133,7 +133,7 @@ collections:
     output: true
     permalink: /talks/:path/
 
-news_limit: 14
+news_limit: 15
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

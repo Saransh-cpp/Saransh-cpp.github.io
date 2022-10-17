@@ -5,6 +5,7 @@ github_repos:
   - FluxML/Flux.jl
   - FluxML/NNlib.jl
   - FluxML/Metalhead.jl
+  - FluxML/fluxml.github.io
   - scikit-hep/vector
   - scikit-hep/cookie
   - scikit-hep/scikit-hep.github.io
@@ -12,5 +13,6 @@ github_repos:
   - pybamm-team/liionpack
   - pybamm-team/BattBot
   - Saransh-cpp/OCRed
-  - Saransh-cpp/releaseup
   - Saransh-cpp/ChaoticEncryption.jl
+  - Saransh-cpp/releaseup
+  - Saransh-cpp/riemapp

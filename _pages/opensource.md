@@ -13,7 +13,7 @@ Refer to [https://saransh-cpp.github.io/repositories/](https://saransh-cpp.githu
 
 My contributions are scattered all over GitHub. I usually contribute to research software written in Python and Julia, but I am exploring the C/C++ side as well. Here are some of my significant contributions.
 
-## Maintainer and core-developer
+## Member, maintainer, and core-developer
 
 ---
 
@@ -81,30 +81,7 @@ Over the past few months, my contributions have mostly shifted towards the packa
   </tr>
 </table>
 
-<!-- ## Collaborater and core-contributor
-
---- -->
-
-### [Vector](https://github.com/scikit-hep/vector){:target="_blank"}
-
-<table>
-  <colgroup>
-       <col span="1" style="width: 65%;">
-       <col span="1" style="width: 35%;">
-  </colgroup>
-  <tr>
-    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">Vector is a Python 3.7+ library for 2D, 3D, and Lorentz vectors, especially arrays of vectors, to solve common physics problems in a NumPy-like way. <br> <br>
-    My IRIS-HEP fellowship work was focused on developing vector. I Prepared Vector for the v0.9.0, v0.10.0, and v1.0.0 (first major release) releases by developing new public APIs, fixing bugs, writing documentation, and building new infrastructure. This work was carried out under the supervision of CERN and Princeton researchers. <br> <br> 
-    The major release is currently being used by researchers at CERN, ATLAS, CMS, and Princeton University to construct 4D jagged (awkward) vectors and perform Just-In-Time compiled vector operations in Python. <br> <br>
-    I still contribute to vector and the HEP ecosystem (scikit-hep/awkward, scikit-hep/cookie, scikit-hep/scikit-hep.github.io, ...) in various forms!
-
-  </td>
-    <td><img style="float: right; width:100%" src="../assets/img/vector-logo.png"></td>
-    <td></td>
-  </tr>
-</table>
-
-## Core-contributor
+## Member and core-contributor
 
 ---
 
@@ -126,6 +103,61 @@ Over the past few months, my contributions have mostly shifted towards the packa
     <td></td>
   </tr>
 </table>
+
+## Collaborater and core-contributor
+
+---
+
+### [Vector](https://github.com/scikit-hep/vector){:target="_blank"}
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 65%;">
+       <col span="1" style="width: 35%;">
+  </colgroup>
+  <tr>
+    <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">Vector is a Python 3.7+ library for 2D, 3D, and Lorentz vectors, especially arrays of vectors, to solve common physics problems in a NumPy-like way. <br> <br>
+    My IRIS-HEP fellowship work was focused on developing vector. I Prepared Vector for the v0.9.0, v0.10.0, and v1.0.0 (first major release) releases by developing new public APIs, fixing bugs, writing documentation, and building new infrastructure. This work was carried out under the supervision of CERN and Princeton researchers. <br> <br> 
+    The major release is currently being used by researchers at CERN, ATLAS, CMS, and Princeton University to construct 4D jagged (awkward) vectors and perform Just-In-Time compiled vector operations in Python. <br> <br>
+    I still contribute to vector and the HEP ecosystem (scikit-hep/awkward, scikit-hep/cookie, scikit-hep/scikit-hep.github.io, ...) in various forms!
+
+  </td>
+    <td><img style="float: right; width:100%" src="../assets/img/vector-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+## Other prominent contributions
+
+---
+
+This list is most probably incomplete, but I try my best to keep it updated. Visit my **[GitHub profile](https://github.com/Saransh-cpp){:target="_blank"}** for a better overview of my contributions.
+
+### [Zarr](https://github.com/zarr-developers/zarr-python/){:target="_blank"}
+*An implementation of chunked, compressed, N-dimensional arrays for Python.*
+
+Migrated Zarr's build and packaging infrastructure to a pyproject.toml based configuration, and cleaned up their redundant infrastructure.
+
+### [DeepXDE](https://github.com/lululxvi/deepxde){:target="_blank"}
+*DeepXDE is a library for scientific machine learning*
+
+Implemented utility functions and improved the existing examples on solving partial differential equations using Physics-Informed neural networks.
+
+### [Colour](https://github.com/colour-science/colour){:target="_blank"}
+*Colour Science for Python*
+
+Implemented the conversion between RGB and HCL colourspaces, along with tests and documentation.
+
+### [Scikit-HEP ecosystem](https://github.com/scikit-hep){:target="_blank"}
+*High Energy Physics in Python*
+
+Fixed minor bugs in awkward and hist, added support for coverage in cookie, and wrote new developer pages.
+
+### [Scikits.odes](https://github.com/bmcage/odes){:target="_blank"}
+*Offers extra ODE/DAE solvers; an extension to ones available in SciPy*
+
+Debugged and fixed the build (which was failing because of setuptools) and removed support for Python 2.7-3.6.
+
 
 <!-- ## Contributor
 
