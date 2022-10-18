@@ -9,9 +9,9 @@ nav_order: 2
 
 Refer to [https://saransh-cpp.github.io/open_source/](https://saransh-cpp.github.io/open_source/) for a longer version of this page!
 
-Below is a list of projects I am involved with. I am not a maintainer or even a collaborator of some of the projects listed here, but these projects have some significant contributions from me!
+Below is a list of projects I am involved with. I do NOT maintain all of the projects listed below. In fact, I am not even a "collaborator" for some of the projects mentioned here, but all of these projects have some significant contributions from me!
 
-This list is somewhat incomplete. I contribute to a ton of OSS research software, but these are the ones where I spend most of the time.
+This list is somewhat incomplete. I contribute to a ton of Open Source Research Software, but these are the ones where you will usually find me!
 
 ## GitHub users
 
