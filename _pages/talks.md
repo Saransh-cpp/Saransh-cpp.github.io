@@ -1,7 +1,7 @@
 ---
 layout: page
 title: talks
-permalink: /talks/g
+permalink: /talks/
 description: talks, workshops, etc., etc. (I will add video links as soon as they are released!)
 nav: true
 nav_order: 6
