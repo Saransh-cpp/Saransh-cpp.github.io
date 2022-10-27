@@ -293,6 +293,7 @@ enable_project_categories:  true   # enables categorization of projects into
 enable_talk_categories:     true   # enables categorization of talks into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
+enable_progressbar:         false  # enables a horizontal progress bar linked to the vertical scroll position
 
 
 # -----------------------------------------------------------------------------
