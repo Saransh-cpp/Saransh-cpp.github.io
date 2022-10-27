@@ -332,6 +332,17 @@ footer.sticky-bottom {
 
 // Repositories
 
+.post {
+  // width: 80%;
+  font-size: 1.2rem;
+  padding-left: 17%;
+  padding-right: 17%;
+}
+
+.post-content {
+  text-align: justify;
+}
+
 @media (min-width: 768px) {
   .repo {
     max-width: 50%;
