@@ -112,9 +112,9 @@ pagination:
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@whiteviolin/feed
+# external_sources: 
+#   - name: medium.com
+#     rss_url: https://medium.com/@whiteviolin/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -223,7 +223,12 @@ display_tags: [
   'operating-systems',
   'nodejs',
   'elasticsearch',
-  'google-cloud'
+  'google-cloud',
+  'cicd',
+  'testing',
+  'flutter',
+  'dart',
+  'android'
 ] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
