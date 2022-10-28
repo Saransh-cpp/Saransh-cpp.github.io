@@ -211,7 +211,17 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['machine-learning', 'julia', 'fluxml', 'from-scratch', 'technical-writing', 'python', 'operating-systems'] # this tags will be dispalyed on the front page of your blog
+display_tags: [
+  'machine-learning',
+  'julia',
+  'fluxml',
+  'technical-writing',
+  'python',
+  'operating-systems',
+  'nodeJS',
+  'elasticsearch',
+  'google-cloud'
+] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
