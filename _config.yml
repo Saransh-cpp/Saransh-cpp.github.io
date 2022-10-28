@@ -217,8 +217,11 @@ display_tags: [
   'fluxml',
   'technical-writing',
   'python',
+  'pybamm',
+  'numfocus',
+  'gsoc',
   'operating-systems',
-  'nodeJS',
+  'nodejs',
   'elasticsearch',
   'google-cloud'
 ] # this tags will be dispalyed on the front page of your blog

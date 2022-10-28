@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  My experience working as a Technical Writer with FluxML
+title:  My experience working as a Technical Writer with FluxML - Part 1
 date:   2022-07-27
 description: One thing that open-source can’t get enough of is documentation!
 tags: fluxml julia machine-learning technical-writing
@@ -14,8 +14,6 @@ categories: experience
 > “One thing that open-source can’t get enough of is documentation”
 > 
 > — Anonymous
-
-(Same post, but on [medium](https://blog.devgenius.io/my-experience-working-as-a-technical-writer-with-fluxml-2c19ab814089) (I am migrating my blogs from medium to my website))
 
 This summer, I started working as a technical writer with `FluxML` under `Julia Season of Contributions`, and as expected, this experience was very different from writing code.
 
@@ -45,11 +43,12 @@ Some of the doctests were straightforward to add, but most of them require in-de
     <img src="https://miro.medium.com/max/1006/0*8kn0CXy4r7I1OXw6.jpg" width="50%"/>
 </p>
 
-Some of `Flux`’s public API is also undocumented, or has a relatively less clear documentation. For example, most of the neural network layers provided by `Flux` have two constructors — one for initializing layers with pre-defined weights and biases and another for generating weights and biases from a distribution. In most cases, only one constructor was documented, and the other was not.
+Some of `Flux`’s public API was undocumented, or had a relatively less clear documentation. For example, most of the neural network layers provided by `Flux` have two constructors — one for initializing layers with pre-defined weights and biases and another for generating weights and biases from a distribution. In most cases, only one constructor was documented, and the other was not.
 
 Other such instance of missing docstrings was `Flux`‘s manual. Here the docstrings were present in the codebase, but they were not present in the manual. Such cases were solved by adding the docstrings to the manual or creating a new section for such missing docstrings.
 
 In addition to `Flux`, other packages under FluxML also had a similar problem. Some of these packages like `NNLib.jl`, `Zygote.jl`, `Optimisers.jl`, `Functors.jl`, and `MLUtils.jl` (under `JuliaML`) were also referenced in `Flux`‘s documentation. The missing docstrings in these packages were transmitted to `Flux`‘s docs, resulting in even more missing docstrings.
+
 All the missing docstrings have now been added to the respective manuals and functions, including that of other `FluxML` packages!
 
 ## Broken documentation
@@ -58,9 +57,9 @@ All the missing docstrings have now been added to the respective manuals and fun
     <img src="https://miro.medium.com/max/1000/0*MarZNCzdnOb8c2vy.jpg" width="50%"/>
 </p>
 
-Documentation is incomplete without cross-references, and `Julia`’s wonderful documentation package makes this easy. `Flux` has these cross-references in place, but some of them lead to nowhere.
+Documentation is incomplete without cross-references, and `Julia`’s wonderful documentation package makes this super smooth. `Flux` had these cross-references in place, but some of them lead to nowhere.
 
-Additionally, some of the docstrings were not rendered correctly in the manual. These instances of broken documentation have been fixed, and once the PR is merged, users should not see 404 pages or un-rendered docstrings anymore!
+Additionally, some of the docstrings were not rendered correctly in the manual, making the newcomers stray off from the ecosystem. These instances of broken documentation have been fixed, and once the PR is merged, users should not see 404 pages or un-rendered docstrings anymore!
 
 ## CI/CD
 
@@ -68,13 +67,13 @@ Additionally, some of the docstrings were not rendered correctly in the manual. 
     <img src="https://miro.medium.com/max/1400/0*k6C11T4CR0B75GMy.jpg" width="50%"/>
 </p>
 
-The user-facing documentation is facilitated by a CI/CD service, which keeps this documentation deployed and available to users at all times. It is also common for open-source projects to open-source their deployment recipes.
+The user-facing documentation of `Flux` is facilitated by a CI/CD service, which keeps this documentation deployed and available to users at all times. It is common for open-source projects to open-source their deployment recipes and work on it collaboratively.
 
-`FluxML`‘s ecosystem had some minor issues in this CI service. Zygote.jl had doctests running twice, using twice the CI time and resources, and on the other hand, `Flux` specified different versions of Julia in its CI and `make.jl` file.
+`FluxML`‘s ecosystem had some minor issues in this CI service. For instance - `Zygote.jl` had doctests running twice, using twice the CI time and resources. On the other hand, `Flux` specified different versions of Julia in its CI and `make.jl` file, making the CI environment very ambiguous.
 
-Further, `Documenter.jl` allows a user to generate documentation previews for pull requests, and `Flux` had a bot set up to facilitate this, but it was down for a long time. In addition, these documentation previews are collected in the `gh-pages`` branch, which was getting very bulky and had to be cleaned up with an automated workflow. I restarted this bot and added a workflow for cleaning these generated previews periodically!
+Further, `Documenter.jl` allows a user to generate documentation previews for pull requests, and `Flux` had a bot set up to facilitate this, but it was down for a long time. These documentation previews are collected in the `gh-pages` branch, which was getting very bulky and had to be cleaned up with an automated workflow.
 
-Finally, I also fixed some issues in `Optimisers.jl`‘s documentation that were causing its CI to fail.
+I have restarted this bot and have added a workflow for cleaning these generated previews periodically! I have also fixed some issues in `Optimisers.jl`‘s documentation that were causing its CI to fail.
 
 ## FluxML’s ecosystem
 
@@ -158,7 +157,7 @@ which looks right!
 
 ## Getting started section
 
-`Flux` has a lot of tutorials and examples, but they are scattered around and very hard to navigate through. The current “Getting Started” section, “Overview” section, and “Basics” section have valuable information for beginners, but the information is scattered among these three sections.
+`Flux` has a lot of tutorials and examples, but they are scattered around and are very hard to navigate through. The current “Getting Started” section, “Overview” section, and “Basics” section have valuable information for beginners, but the information is scattered among these three sections.
 
 Additionally, one of these three sections is on Flux’s website, and two are available on the documentation website, making it difficult for newcomers to navigate between these hackable yet basic examples. Instead, these three tutorials could be moved out of their current places and combined under a single section named “Getting Started”, which could then be added to the documentation and linked on the website.
 
@@ -168,7 +167,7 @@ I have started working on this section, and two extensive tutorials have already
 
 I have had an incredible time contributing to `Flux` and its neighbor repositories, and I hope to continue these contributions with the same momentum. I have also learned a lot, including that documentation additions require more discussions than code additions.
 
-This work wouldn’t have been possible without my mentor `@DhairyaLGandhi` and a lot of other `FluxML`’s maintainers (`@ToucheSir`, `@mcabbott`, `@CarloLucibello`, `@darsnack`). They have been very patient with my questions and messy PRs 😆
+This work wouldn’t have been possible without my mentor [`@DhairyaLGandhi`](https://github.com/DhairyaLGandhi) and a lot of other `FluxML`’s maintainers ([`@ToucheSir`](https://github.com/ToucheSir), [`@mcabbott`](https://github.com/mcabbott), [`@CarloLucibello`](https://github.com/CarloLucibello), [`@darsnack`](https://github.com/darsnack)). They have been very patient with my questions and messy PRs 😆
 
 ---
 
@@ -229,3 +228,9 @@ Follow me on Twitter :)
 <p align="center">
     <img src="https://miro.medium.com/max/1344/0*2SLqKWtR_dGZwRAm.jpg" width="60%"/>
 </p>
+
+---
+
+<div class="caption">
+    (Same post, but on <a href="https://blog.devgenius.io/my-experience-working-as-a-technical-writer-with-fluxml-2c19ab814089">medium</a> (I am migrating my blogs from medium to my website))
+</div>
