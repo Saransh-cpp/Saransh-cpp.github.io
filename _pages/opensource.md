@@ -13,7 +13,9 @@ Below is a list of projects I am involved with (as a maintainer, member, core-de
 
 This list is somewhat incomplete. I contribute to a ton of Open Source Research Software, but these are the ones where you will usually find me.
 
-## GitHub users
+---
+
+## GitHub user
 
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-center align-items-center">
