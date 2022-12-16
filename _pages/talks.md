@@ -4,7 +4,7 @@ title: talks
 permalink: /talks/
 description: talks, workshops, etc., etc. (I will add video links as soon as they are released!)
 nav: true
-nav_order: 6
+nav_order: 4
 horizontal: false
 ---
 
