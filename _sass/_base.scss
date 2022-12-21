@@ -649,7 +649,7 @@ html.transition *:after {
   }
 }
 
-rogress {
+progress {
   /* Positioning */
   position: fixed;
   left: 0;
@@ -705,14 +705,8 @@ progress::-moz-progress-bar {
   height: inherit;
 }
 
-// banner
-html,
-body {
-  margin: 0;
-}
-
 .banner {
-  background: rgb(69, 176, 242);
+  background: #9ab1bc;
   // background: #009579;
   // background: var(--global-theme-color);
 }

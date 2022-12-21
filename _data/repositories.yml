@@ -16,6 +16,8 @@ project_repos:
   - Saransh-cpp/MemeTastic
   - Saransh-cpp/PopItUp
   - Saransh-cpp/BookRentApp-Chapter3
+  - Saransh-cpp/SceneNet
+  - Saransh-cpp/ForMente
 
 significant_repos:
   - FluxML/NNlib.jl
