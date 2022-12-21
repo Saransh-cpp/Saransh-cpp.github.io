@@ -697,9 +697,50 @@ progress::-moz-progress-bar {
   display: block;
 }
 
+// progress bar
 .progress-bar {
   background-color: var(--global-theme-color);
   width: 0%;
   display: block;
   height: inherit;
+}
+
+// banner
+html,
+body {
+  margin: 0;
+}
+
+.banner {
+  background: rgb(69, 176, 242);
+  // background: #009579;
+  // background: var(--global-theme-color);
+}
+
+.banner__content {
+  padding: 8px;
+  max-width: 812.5px;
+  margin: 0 auto;
+  display: flex;
+  align-items: justify;
+  text-align: justify;
+}
+
+.banner__text {
+  flex-grow: 1;
+  line-height: 1.4;
+  font-family: "Quicksand", sans-serif;
+  text-align: justify;
+  color: black;
+}
+
+.banner__close {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.banner__text,
+.banner__close > span {
+  color: #ffffff;
 }
