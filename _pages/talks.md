@@ -2,7 +2,7 @@
 layout: page
 title: talks
 permalink: /talks/
-description: talks, workshops, etc., etc. (I will add video links as soon as they are released!)
+description: talks, workshops, etc., etc. (🎥 -> video links)
 nav: true
 nav_order: 4
 horizontal: false
@@ -27,12 +27,29 @@ horizontal: false
 
 <table>
   <colgroup>
+       <col span="1" style="width: 75%;">
+       <col span="1" style="width: 25%;">
+  </colgroup>
+  <tr>
+    <td>
+      <h3><a href="https://indico.cern.ch/event/1195273/#5-saransh-chopra-vector-constr" target="_blank">Vector - Constructors, documentation, and benchmarks </a><a href="https://youtu.be/rjqnJbT7T1s?t=3134">🎥</a></h3>
+      <h5><a href="https://iris-hep.org/">IRIS-HEP Fellows Final Presentation</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/iris-hep-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
        <col span="1" style="width: 70%;">
        <col span="1" style="width: 30%;">
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://indico.cern.ch/event/1150631/contributions/5014393/" target="_blank">Constructing HEP vectors and analyzing HEP data using Vector</a></h3>
+      <h3><a href="https://indico.cern.ch/event/1150631/contributions/5014393/" target="_blank">Constructing HEP vectors and analyzing HEP data using Vector </a><a href="https://www.youtube.com/watch?v=4iveMzrbe7s">🎥</a></h3>
       <h5><a href="https://indico.cern.ch/event/1150631/">5th International Workshop on Python in High-Energy-Physics (PyHEP)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:30%" src="../assets/img/pyhep-logo.png"></td>
@@ -66,7 +83,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://tw.pycon.org/2022/en-us/conference/talk/243" target="_blank">Code coverage through unit tests running in sub-processes/threads: Locally and automated on GitHub</a></h3>
+      <h3><a href="https://tw.pycon.org/2022/en-us/conference/talk/243" target="_blank">Code coverage through unit tests running in sub-processes/threads: Locally and automated on GitHub </a><a href="https://www.youtube.com/watch?v=iSwvTDy_IKw&list=PLqtzN042QpfdkQbkOlwtEJMBGZHHsvimo&index=50">🎥</a></h3>
       <h5><a href="https://tw.pycon.org/2022">10th Annual Conference on Python - Asia-Pacific (PyCon APAC)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:35%" src="../assets/img/pyconapac-logo.svg"></td>
@@ -100,8 +117,8 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://www.youtube.com/watch?v=WkkbrgP7Sss" target="_blank">Vector - Constructors, documentation, and benchmarks</a></h3>
-      <h5><a href="https://iris-hep.org/">IRIS-HEP Fellow Lightning Talks</a></h5>
+      <h3><a href="https://indico.cern.ch/event/1155138/#sc-1-9-saransh-chopra-vector-c" target="_blank">Vector - Constructors, documentation, and benchmarks </a><a href="https://youtu.be/fLt7BHuASpw?t=2627">🎥</a></h3>
+      <h5><a href="https://iris-hep.org/">IRIS-HEP Fellows Lightning Talks</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/iris-hep-logo.png"></td>
     <td></td>
@@ -117,8 +134,8 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://www.youtube.com/watch?v=WkkbrgP7Sss" target="_blank">BattBot: Mathematical Modeling of Batteries using an automated Twitter bot</a></h3>
-      <h5><a href="https://www.pybamm.org/training">PyBaMM training workshop (advanced examples)</a></h5>
+      <h3><a href="https://www.pybamm.org/training" target="_blank">BattBot: Mathematical Modeling of Batteries using an automated Twitter bot </a><a href="https://youtu.be/WkkbrgP7Sss?t=1593">🎥</a></h3>
+      <h5><a href="https://www.pybamm.org/">PyBaMM training workshop (advanced examples)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/pybamm-logo.png"></td>
     <td></td>

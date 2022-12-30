@@ -15,16 +15,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an engineering junior at **[Cluster Innovation Center](http://cic.du.ac.in/){:target="_blank"}**, **[University of Delhi](http://du.ac.in/){:target="_blank"}**, pursuing a major in Information Technology and Mathematics. In daylight, I work towards my academic skills and professional commitments, and by night, I develop and maintain Open-Source Research Software, which I believe are the key to collaborative and reproducible research.
+I am an engineering junior at **[Cluster Innovation Center](http://cic.du.ac.in/){:target="_blank"}**, **[University of Delhi](http://du.ac.in/){:target="_blank"}**, pursuing a major in Information Technology and Mathematics. In daylight, I work towards my academic skills and professional commitments, and by night, I develop and maintain Open-Source Research Software (see **[/opensource](/opensource)**), which I believe are the key to collaborative and reproducible research.
 
 I have previously worked as a -
 - Technical Writer at **[FluxML](https://fluxml.ai/){:target="_blank"}** under **[Julia Season of Contributions](https://julialang.org/jsoc/){:target="_blank"}**.
 - **[Research Fellow](https://iris-hep.org/fellows.html){:target="_blank"}** at the **[Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)](https://iris-hep.org){:target="_blank"}**.
 - **[Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376){:target="_blank"}** student developer at **[PyBaMM](https://github.com/pybamm-team){:target="_blank"}**, **[NumFOCUS](https://github.com/numfocus)**{:target="_blank"}.
 
-I primarily contribute to (and in some cases maintain) the **[PyBaMM ecosystem](https://github.com/pybamm-team/){:target="_blank"}**, **[Scikit-HEP/vector](https://github.com/scikit-hep/vector){:target="_blank"}** (and **[some surrounding packages](https://github.com/scikit-hep){:target="_blank"}**), **[Flux.jl](https://github.com/FluxML/Flux.jl){:target="_blank"}** (and **[some surrounding packages](https://github.com/FluxML){:target="_blank"}**), and random Open-Source Research Software. My minor contributions to Open-Source Research Software are scattered all across GitHub (from the **[Scikit-HEP ecosystem](https://github.com/scikit-hep/){:target="_blank"}**, **[Zarr](https://github.com/zarr-developers/zarr-python){:target="_blank"}**, to **[Colour](https://github.com/colour-science/colour){:target="_blank"}** and **[Scikits.odes](https://github.com/bmcage/odes){:target="_blank"}**).
-
 I am interested in everything a **[Research Software Engineer](https://us-rse.org/about/what-is-an-rse/){:target="_blank"}** and a **Machine Learning Engineer** do! I am passionate about **Scientific Machine Learning**, **Machine Learning**, **Data Science**, **Technical Writing**, **Open-Source Research Software**, **JuliaLang**, and **Python**. Psst, I am also learning to work on the `C/C++` side of research software. Binding `C/C++` code with `Python` is so cool!
+
+Apart from academics, you might find me reading books (see **[/books](/books)**), riding my bicycle (every day at 5 pm), solving a dozen different types of cubes (2X2, 3X3, 4X4) and kind-of-cubes (?) (windmill, megaminx, mirror, cylinder, ...), and playing PokemonGO (add me - `6517 1832 8054` - I was 14 in 2016; hence the username `SARVAIawesome`).
 
 ## current and past affiliations
 
