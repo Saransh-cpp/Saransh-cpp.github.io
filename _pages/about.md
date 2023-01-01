@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an engineering junior at **[Cluster Innovation Center](http://cic.du.ac.in/){:target="_blank"}**, **[University of Delhi](http://du.ac.in/){:target="_blank"}**, pursuing a major in Information Technology and Mathematics. In daylight, I work towards my academic skills and professional commitments, and by night, I develop and maintain Open-Source Research Software (see **[/opensource](/opensource)**), which I believe are the key to collaborative and reproducible research.
+I am an engineering junior at **[Cluster Innovation Center](http://cic.du.ac.in/){:target="_blank"}**, **[University of Delhi](http://du.ac.in/){:target="_blank"}**, pursuing a major in Information Technology and Mathematics. In daylight, I work on my academic skills and professional commitments, and by night, I develop and maintain Open-Source Research Software (see **[/opensource](/opensource)**), which I believe are the key to collaborative and reproducible research.
 
 I have previously worked as a -
 - Technical Writer at **[FluxML](https://fluxml.ai/){:target="_blank"}** under **[Julia Season of Contributions](https://julialang.org/jsoc/){:target="_blank"}**.
