@@ -18,7 +18,11 @@ Now that I am in college, I plan to start reading again!
 
 ## Currently reading
 
-Will populate in 2023 :(
+<div class="row">
+  <div class="column" style="margin-left:18px;margin-top:20px">
+    <img src="../assets/img/dragons-of-eden.webp" alt="dragons of eden" style="width:180px">
+    </div>
+</div>
 
 ---
 
@@ -26,7 +30,6 @@ Will populate in 2023 :(
 
 <div class="row">
   <div class="column" style="margin-left:18px;margin-top:20px">
-    <img src="../assets/img/dragons-of-eden.webp" alt="dragons of eden" style="width:180px">
     <img src="../assets/img/demon-haunted-world.jpg" alt="demon haunted world" style="width:200px">
     </div>
 </div>
