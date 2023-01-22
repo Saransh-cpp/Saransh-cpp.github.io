@@ -19,10 +19,10 @@ I am an engineering junior at **[Cluster Innovation Center](http://cic.du.ac.in/
 
 I have previously worked as a -
 - Technical Writer at **[FluxML](https://fluxml.ai/){:target="_blank"}** under **[Julia Season of Contributions](https://julialang.org/jsoc/){:target="_blank"}**.
-- **[Research Fellow](https://iris-hep.org/fellows.html){:target="_blank"}** at the **[Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)](https://iris-hep.org){:target="_blank"}**.
+- **[Research Fellow](https://iris-hep.org/fellows.html){:target="_blank"}** at the **[Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP), Princeton University](https://researchcomputing.princeton.edu/about/people/iris-hep-software-institute){:target="_blank"}**.
 - **[Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376){:target="_blank"}** student developer at **[PyBaMM](https://github.com/pybamm-team){:target="_blank"}**, **[NumFOCUS](https://github.com/numfocus)**{:target="_blank"}.
 
-I am interested in everything a **[Research Software Engineer](https://us-rse.org/about/what-is-an-rse/){:target="_blank"}** and a **Machine Learning Engineer** do! I am passionate about **Scientific Machine Learning**, **Machine Learning**, **Data Science**, **Technical Writing**, **Open-Source Research Software**, **JuliaLang**, and **Python**. Psst, I am also learning to work on the `C/C++` side of research software. Binding `C/C++` code with `Python` is so cool!
+I am broady interested in **[Research Software Engineering](https://us-rse.org/about/what-is-an-rse/){:target="_blank"}**, Scientific Computation, DevOps, and developing research software. I am extremely passionate about Open-Science and Open-Source research software. I also possess a Software Engineering background, with the majority of it concentrated in the fields of Android and Backend development. Psst, I am also learning to work on the `C/C++` side of research software. Binding `C/C++` code with `Python` is so cool!
 
 Apart from academics, you might find me reading books (see **[/books](/books)**), riding my bicycle (every day at 5 pm), solving a dozen different types of cubes (2X2, 3X3, 4X4) and kind-of-cubes (?) (windmill, megaminx, mirror, cylinder, ...), and playing PokemonGO (add me - `6517 1832 8054` - I was 14 in 2016; hence the username `SARVAIawesome`).
 
