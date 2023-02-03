@@ -12,7 +12,7 @@ project_repos:
   - Saransh-cpp/OCRed
   - Saransh-cpp/ChaoticEncryption.jl
   - Saransh-cpp/releaseup
-  - Saransh-cpp/riemapp
+  # - Saransh-cpp/riemapp
   - Saransh-cpp/MemeTastic
   - Saransh-cpp/PopItUp
   - Saransh-cpp/BookRentApp-Chapter3
@@ -22,9 +22,10 @@ project_repos:
 significant_repos:
   - FluxML/NNlib.jl
   - FluxML/Metalhead.jl
-  - FluxML/fluxml.github.io
   - zarr-developers/zarr-python
+  - lululxvi/DeepXDE
   - scikit-hep/cookie
   - scikit-hep/scikit-hep.github.io
+  - FluxML/fluxml.github.io
   - colour-science/colour
   - bmcage/odes
