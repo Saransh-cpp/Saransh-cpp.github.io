@@ -12,7 +12,7 @@ categories: experience
 </p>
 
 > “One thing that open-source can’t get enough of is documentation”
-> 
+>
 > — Anonymous
 
 This summer, I started working as a technical writer with `FluxML` under `Julia Season of Contributions`, and as expected, this experience was very different from writing code.

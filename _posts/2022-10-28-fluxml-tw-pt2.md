@@ -12,7 +12,7 @@ categories: experience
 </p>
 
 > “One thing that open-source can’t get enough of is documentation”
-> 
+>
 > — Anonymous
 
 I have finally completed my official period as a Technical Writer at `FluxML`, and I have enjoyed every second of it! This blog serves as a summary of the work done during the second half of my time at `FluxML`. You'd notice that the contributions listed in this blog would cover the entire `FluxML` ecosystem and not just `Flux.jl`. Furthermore, I will also list some additional documentation contributions made to the much larger `Julia` ecosystem during this period!
@@ -107,7 +107,7 @@ Refer to my GitHub for all the "misc" work carried out by me during the past six
 
 Surprisingly, I also contributed to `Flux`'s code. The code contributions weren't in the form of feature additions, instead, I worked on minor bugs and refined the public API.
 
-For instance, I deprecated `rng_from_array()` in the favor of `default_rng_value()`, and then marked it as `@non_differentiable`. These contributions weren't too big, but adding code to `Flux`'s repository did feel good. I look forward to writing more code for `FluxML` in the future! 
+For instance, I deprecated `rng_from_array()` in the favor of `default_rng_value()`, and then marked it as `@non_differentiable`. These contributions weren't too big, but adding code to `Flux`'s repository did feel good. I look forward to writing more code for `FluxML` in the future!
 
 ## Final words
 

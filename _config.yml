@@ -112,7 +112,7 @@ pagination:
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-# external_sources: 
+# external_sources:
 #   - name: medium.com
 #     rss_url: https://medium.com/@whiteviolin/feed
 
@@ -229,7 +229,7 @@ display_tags: [
   'flutter',
   'dart',
   'android'
-] # this tags will be dispalyed on the front page of your blog
+] # this tags will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -299,7 +299,7 @@ enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
-enable_masonry:             true   # enables automatic project cards arangement
+enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts

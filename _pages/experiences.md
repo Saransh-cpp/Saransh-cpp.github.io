@@ -18,7 +18,7 @@ Below are my "formal" work experiences. I also contribute to several Open-Source
 - [Open-Source Technical Writer](https://julialang.org/jsoc/){:target="_blank"} \| May-October 2022 \| [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
 - [Google Summer of Code Open-Source developer](https://summerofcode.withgoogle.com){:target="_blank"} \| May-September 2021 \| [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numforcus.org){:target="_blank"}
 
-  
+
 ---
 
 #### [Research Fellow](https://iris-hep.org/fellows/Saransh-cpp.html){:target="_blank"}

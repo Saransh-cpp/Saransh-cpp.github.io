@@ -5,7 +5,6 @@ permalink: /open_source/
 description: I like open source research software.
 # nav: true
 # nav_order: 1
-# display_categories: [maintainer, core-developer, contibutor]
 horizontal: false
 ---
 
@@ -117,7 +116,7 @@ Over the past few months, my contributions have mostly shifted towards the packa
   </colgroup>
   <tr>
     <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">Vector is a Python 3.7+ library for 2D, 3D, and Lorentz vectors, especially arrays of vectors, to solve common physics problems in a NumPy-like way. <br> <br>
-    My IRIS-HEP fellowship work was focused on developing vector. I Prepared Vector for the v0.9.0, v0.10.0, and v1.0.0 (first major release) releases by developing new public APIs, fixing bugs, writing documentation, and building new infrastructure. This work was carried out under the supervision of CERN and Princeton researchers. <br> <br> 
+    My IRIS-HEP fellowship work was focused on developing vector. I Prepared Vector for the v0.9.0, v0.10.0, and v1.0.0 (first major release) releases by developing new public APIs, fixing bugs, writing documentation, and building new infrastructure. This work was carried out under the supervision of CERN and Princeton researchers. <br> <br>
     The major release is currently being used by researchers at CERN, ATLAS, CMS, and Princeton University to construct 4D jagged (awkward) vectors and perform Just-In-Time compiled vector operations in Python. <br> <br>
     I still contribute to vector and the HEP ecosystem (scikit-hep/awkward, scikit-hep/cookie, scikit-hep/scikit-hep.github.io, ...) in various forms!
 

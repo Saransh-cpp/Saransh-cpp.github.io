@@ -60,7 +60,7 @@ Natural Language Processing, Android, Dart, Flutter, Python, FastAPI, Firebase, 
   <tr>
     <td style="text-align:justify; padding-bottom: 20px; padding-right: 30px">By harnessing the power of Natural Language Processing, ForMente lets you diagnose what you are feeling in the form of a safe and secure personal diary. <br> <br>
     ForMente is a personal diary built using Flutter and Dart that allows users to write down their minds every day. These texts are stored securely in Firestore, and users can visit them whenever they want. The application runs natural language processing on the texts written by a user and shows them how they are feeling in real-time using an API deployed on Heroku. This API has been developed using FastAPI and it hosts the trained Naive Bayes model for emotion classification. <br> <br>
-    The first person that someone usually talks to about their mental health is themselves. This usually buries the person with self-doubt that becomes hard to cure. ForMente comes in between to diagnose a person's feelings through Natural Language Processing. 
+    The first person that someone usually talks to about their mental health is themselves. This usually buries the person with self-doubt that becomes hard to cure. ForMente comes in between to diagnose a person's feelings through Natural Language Processing.
   </td>
     <td style="text-align: center"><img style="float: middle; width:80%" src="../assets/img/formente-logo.png"></td>
     <td></td>

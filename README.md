@@ -307,7 +307,7 @@ If the entry matches one of the combinations of the last names and the first nam
 <details><summary>(click to expand) <strong>Buttons (through custom bibtex keywords):</strong></summary>
 
 There are several custom bibtex keywords that you can use to affect how the entries are displayed on the webpage:
-   
+
 - `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the _data folder and adding entries that match.
 - `abstract`: Adds an "Abs" button that expands a hidden text field when clicked to show the abstract text
 - `arxiv`: Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
@@ -320,11 +320,11 @@ There are several custom bibtex keywords that you can use to affect how the entr
 - `poster`: Adds a "Poster" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
 - `slides`: Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
 - `website`: Adds a "Website" button redirecting to the specified link
-   
+
 You can implement your own buttons by editing the bib.html file.
-   
+
 </details>
-   
+
 ### Collections
 
 This Jekyll theme implements `collections` to let you break up your work into categories.
@@ -336,7 +336,7 @@ Items from the `projects` collection are displayed on a responsive grid on proje
 
 You can easily create your own collections, apps, short stories, courses, or whatever your creative work is.
 To do this, edit the collections in the `_config.yml` file, create a corresponding folder, and create a landing page for your collection, similar to `_pages/projects.md`.
-   
+
 ### Layouts
 
 **al-folio** comes with stylish layouts for pages and blog posts.

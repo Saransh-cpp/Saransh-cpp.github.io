@@ -2,7 +2,7 @@
 layout: page
 title: books
 permalink: /books/
-description: I mostly read "popular science" (that is how Google puts it) books. 
+description: I mostly read "popular science" (that is how Google puts it) books.
 nav: true
 nav_order: 8
 horizontal: false
@@ -52,5 +52,3 @@ Now that I am in college, I plan to start reading again!
     <img src="../assets/img/theory-of-everything.jpg" alt="theory of everything" style="width:205px">
     </div>
 </div>
-
-
