@@ -4,7 +4,7 @@ permalink: /opensource/
 title: open-source
 description: I like open source research software.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 I primarily contribute to (and in some cases maintain) the **[PyBaMM ecosystem](https://github.com/pybamm-team/){:target="_blank"}**, **[Scikit-HEP/vector](https://github.com/scikit-hep/vector){:target="_blank"}** (and **[some surrounding packages](https://github.com/scikit-hep){:target="_blank"}**), **[Flux.jl](https://github.com/FluxML/Flux.jl){:target="_blank"}** (and **[some surrounding packages](https://github.com/FluxML){:target="_blank"}**), and random Open-Source Research Software. My minor contributions to Open-Source Research Software are scattered all across GitHub (from the **[Scikit-HEP ecosystem](https://github.com/scikit-hep/){:target="_blank"}**, **[Zarr](https://github.com/zarr-developers/zarr-python){:target="_blank"}**, to **[DeepXDE](https://github.com/lululxvi/deepxde){:target="_blank"}** and **[Scikits.odes](https://github.com/bmcage/odes){:target="_blank"}**).

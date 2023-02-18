@@ -2,9 +2,9 @@
 layout: page
 title: talks
 permalink: /talks/
-description: talks, workshops, etc., etc. (🎥 -> video links)
+description: talks, posters, workshops, ... (🎥 -> video links)
 nav: true
-nav_order: 4
+nav_order: 6
 horizontal: false
 ---
 

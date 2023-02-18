@@ -4,7 +4,7 @@ title: books
 permalink: /books/
 description: I mostly read "popular science" (that is how Google puts it) books. 
 nav: true
-nav_order: 5
+nav_order: 8
 horizontal: false
 ---
 
