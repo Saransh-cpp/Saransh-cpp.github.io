@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an engineering junior at **[Cluster Innovation Center](http://cic.du.ac.in/){:target="_blank"}**, **[University of Delhi](http://du.ac.in/){:target="_blank"}**, pursuing a major in Information Technology and Mathematics. In daylight, I work on my academic skills and professional commitments, and by night, I develop and maintain Open-Source Research Software (see **[/opensource](/opensource)**), which I believe are the key to collaborative and reproducible research.
+In daylight, I work on my academic skills and professional commitments, and by night, I develop and maintain Open-Source Research Software (see **[/opensource](/opensource)**), which I believe are the key to collaborative and reproducible research.
 
 I primarily contribute to (and in some cases maintain) the **[PyBaMM ecosystem](https://github.com/pybamm-team/){:target="_blank"}**, **[Scikit-HEP/vector](https://github.com/scikit-hep/vector){:target="_blank"}** (and **[some surrounding packages](https://github.com/scikit-hep){:target="_blank"}**), **[Flux.jl](https://github.com/FluxML/Flux.jl){:target="_blank"}** (and **[some surrounding packages](https://github.com/FluxML){:target="_blank"}**), and random Open-Source Research Software. My minor contributions to Open-Source Research Software are scattered all across GitHub (from the **[Scikit-HEP ecosystem](https://github.com/scikit-hep/){:target="_blank"}**, **[Zarr](https://github.com/zarr-developers/zarr-python){:target="_blank"}**, to **[DeepXDE](https://github.com/lululxvi/deepxde){:target="_blank"}** and **[Scikits.odes](https://github.com/bmcage/odes){:target="_blank"}**).
 
