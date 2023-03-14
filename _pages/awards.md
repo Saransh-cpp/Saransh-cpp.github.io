@@ -100,7 +100,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://devpost.com/software/memetastic" target="_blank">Won a hackathon organised by Elastic with a</a></h3>
+      <h3><a href="https://devpost.com/software/memetastic" target="_blank">Won a hackathon organised by Elastic</a></h3>
       <h5><a href="https://www.elastic.co">Elastic</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/elastic-logo.png"></td>
