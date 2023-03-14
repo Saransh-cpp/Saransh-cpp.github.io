@@ -4,4 +4,4 @@ date: 2023-02-22
 inline: true
 ---
 
-I will be mentoring **[Google Summer of Code](https://summerofcode.withgoogle.com/){:target="_blank"} students** under **[PyBaMM](https://www.pybamm.org/){:target="_blank"}**, **[NumFOCUS](https://numfocus.org/){:target="_blank"}** again this year.
+I will be mentoring **[Google Summer of Code](https://summerofcode.withgoogle.com/){:target="_blank"} students** working with the sub-orgs - **[PyBaMM (Python Battery Mathematical Modelling)](https://www.pybamm.org/){:target="_blank"}** and **[OSL (Open Science Labs)](https://opensciencelabs.org){:target="_blank"}** - under **[NumFOCUS](https://numfocus.org/){:target="_blank"}** (umbrella org).

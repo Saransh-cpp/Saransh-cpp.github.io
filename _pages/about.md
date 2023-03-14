@@ -22,7 +22,7 @@ I primarily contribute to (and in some cases maintain) the **[PyBaMM ecosystem](
 I have previously worked as a -
 - Technical Writer at **[FluxML](https://fluxml.ai/){:target="_blank"}** under **[Julia Season of Contributions](https://julialang.org/jsoc/){:target="_blank"}**.
 - **[Research Fellow](https://iris-hep.org/fellows.html){:target="_blank"}** at **[IRIS-HEP, Princeton University](https://researchcomputing.princeton.edu/about/people/iris-hep-software-institute){:target="_blank"}** under Dr. Henry Schreiner and Dr. Jim Pivarski.
-- **[Google Summer of Code](https://summerofcode.withgoogle.com/projects/#5045812318437376){:target="_blank"}** developer at **[PyBaMM](https://github.com/pybamm-team){:target="_blank"}**, **[NumFOCUS](https://github.com/numfocus)**{:target="_blank"} under Dr. Valentin Sulzer, Dr. Ferran Brosa Planella, and Dr. Robert Timms.
+- **[Google Summer of Code](https://summerofcode.withgoogle.com/projects/#5045812318437376){:target="_blank"}** developer at **[PyBaMM (Python Battery Mathematical Modelling)](https://github.com/pybamm-team){:target="_blank"}**, **[NumFOCUS](https://github.com/numfocus)**{:target="_blank"} under Dr. Valentin Sulzer, Dr. Ferran Brosa Planella, and Dr. Robert Timms.
 
 I am broadly interested in **[Research Software Engineering](https://us-rse.org/about/what-is-an-rse/){:target="_blank"}**, **Scientific Computation**, **Scientific Machine Learning**, **DevOps**, **Open-Source**, and **Open-Science**. I also possess a Software Engineering background, with the majority of it concentrated in the fields of Android and Backend development. Psst, I am also learning to work on the `C/C++` side of research software. Binding `C/C++` code with `Python` is so cool!
 
