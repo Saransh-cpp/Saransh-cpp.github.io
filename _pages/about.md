@@ -46,10 +46,11 @@ The organisations, institutes, and programs I am currently working for (or under
   <a href="https://www.mitacs.ca/" target="_blank"><img src="assets/img/mitacs-logo.jpg" style="width: 20%"/></a>
   <a href="https://opensciencelabs.org/" target="_blank"><img src="assets/img/osl-logo.svg" style="width: 17%"/></a>
   <a href="https://summerofcode.withgoogle.com/" target="_blank"><img src="assets/img/gsoc-logo.png" style="width: 20%"/></a>
-  <a href="https://iris-hep.org/" target="_blank"><img src="assets/img/iris-hep-logo.png" style="width: 17%"/></a>
+  <a href="https://researchcomputing.princeton.edu/research/iris-hep-software-institute" target="_blank"><img src="assets/img/iris-hep-logo.png" style="width: 17%"/></a>
   <a href="https://scikit-hep.org/" target="_blank"><img src="assets/img/scikit-hep-logo.png" style="width: 13%"/></a>
   <a href="https://www.pybamm.org/" target="_blank"><img src="assets/img/pybamm-logo.png" style="width: 25%"/></a>
   <a href="https://fluxml.ai/" target="_blank"><img src="assets/img/flux-logo.png" style="width: 20%"/></a>
   <a href="https://numfocus.org/" target="_blank"><img src="assets/img/numfocus-logo.png" style="width: 22%"/></a>
   <a href="https://julialang.org/" target="_blank"><img src="assets/img/julia-logo.png" style="width: 13%"/></a>
+  <a href="https://researchcomputing.princeton.edu/" target="_blank"><img src="assets/img/princeton-computing-logo.png" style="width: 10%"/></a>
 </p>
