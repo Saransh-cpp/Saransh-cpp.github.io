@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3><a href="#" target="_blank">Lessons learned while working as a Technical Writer at FluxML</a></h3>
+      <h5><a href="https://juliacon.org/2023/">JuliaCon 2023 (upcoming)</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/juliacon-logo.svg"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3><a href="https://indico.cern.ch/event/1106990/contributions/4991358/" target="_blank">Compiling Awkward Lorentz Vectors with Numba</a></h3>
       <h5><a href="https://indico.cern.ch/event/1106990/">21st International Workshop on Advanced Computing and Analysis Techniques in Physics Research</a></h5>
     </td>
