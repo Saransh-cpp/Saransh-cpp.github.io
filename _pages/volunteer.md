@@ -13,6 +13,12 @@ By now (if you are going through the navbar in order), you must have noticed tha
 ---
 
 #### [Google Summer of Code Mentor](https://summerofcode.withgoogle.com){:target="_blank"}
+##### [Open Science Labs (OSL)](https://opensciencelabs.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
+###### May - September 2023 | Remote
+
+---
+
+#### [Google Summer of Code Mentor](https://summerofcode.withgoogle.com){:target="_blank"}
 ##### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 ###### May - September 2023 | Remote
 
