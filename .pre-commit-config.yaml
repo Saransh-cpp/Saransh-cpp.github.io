@@ -24,6 +24,3 @@ repos:
       - id: codespell
         args: ['-Lrouge,Rouge']
         exclude: ^assets/
-
-
-  
