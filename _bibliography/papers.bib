@@ -1,6 +1,3 @@
----
----
-
 @article{Tranter2022,
   doi = {10.21105/joss.04051},
   url = {https://doi.org/10.21105/joss.04051},
@@ -16,4 +13,32 @@
   abstract = {Electrification of transport and other energy intensive activities is of growing importance as it provides an underpinning method to reduce carbon emissions. With an increase in reliance on renewable sources of energy and a reduction in the use of more predictable fossil fuels in both stationary and mobile applications, energy storage will play a pivotal role and batteries are currently the most widely adopted and versatile form. Therefore, understanding how batteries work, how they degrade, and how to optimize and manage their operation at large scales is critical to achieving emission reduction targets. The electric vehicle (EV) industry requires a considerable number of batteries even for a single vehicle, sometimes numbering in the thousands if smaller cells are used, and the dynamics and degradation of these systems, as well as large stationary power systems, is not that well understood. As increases in the efficiency of a single battery become diminishing for standard commercially available chemistries, gains made at the system level become more important and can potentially be realised more quickly compared with developing new chemistries. Mathematical models and simulations provide a way to address these challenging questions and can aid the engineer and designers of batteries and battery management systems to provide longer lasting and more efficient energy storage systems.},
   html = {https://joss.theoj.org/papers/10.21105/joss.04051},
   image = {../assets/img/liionpack.png}
+}
+
+@software{schreiner_henry_2022_7051688,
+  author       = {Schreiner, Henry and
+                  Pivarski, Jim and
+                  Chopra, Saransh},
+  title        = {vector: vector utilities and classes},
+  month        = sep,
+  note         = {{Please cite the following works when using this 
+                   software.}},
+  publisher    = {Zenodo},
+  version      = {v0.9.0},
+  doi          = {10.5281/zenodo.7051688},
+  url          = {https://doi.org/10.5281/zenodo.7051688},
+  selected = {true},
+  year = {2022},
+  abstract = {Vector is a Python 3.7+ library for 2D, 3D, and Lorentz vectors, especially arrays of vectors, to solve common physics problems in a NumPy-like way.
+
+      Main features of Vector:
+
+      1. Pure Python with NumPy as its only dependency. This makes it easier to install.
+      2. Vectors may be represented in a variety of coordinate systems: Cartesian, cylindrical, pseudorapidity, and any combination of these with time or proper time for Lorentz vectors. In all, there are 12 coordinate systems: {x-y vs ρ-φ in the azimuthal plane} × {z vs θ vs η longitudinally} × {t vs τ temporally}.
+      3. Uses names and conventions set by ROOT's TLorentzVector and Math::LorentzVector, as well as scikit-hep/math, uproot-methods TLorentzVector, henryiii/hepvector, and coffea.nanoevents.methods.vector.
+      Implemented on a variety of backends: pure Python objects, NumPy arrays of vectors (as a structured array subclass), Awkward Arrays of vectors, potential for more: CuPy, TensorFlow, Torch, JAX...
+      4. NumPy/Awkward backends also implemented in Numba for JIT-compiled calculations on vectors.
+      5. Distinction between geometrical vectors, which have a minimum of attribute and method names, and vectors representing momentum, which have synonyms like pt = rho, energy = t, mass = tau.
+    },
+  html = {https://doi.org/10.5281/zenodo.7671687},
 }
