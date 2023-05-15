@@ -3,7 +3,7 @@ layout: page
 title: books
 permalink: /books/
 description: I mostly read "popular science" (that is how Google puts it) books.
-nav: true
+nav: false
 nav_order: 8
 horizontal: false
 ---

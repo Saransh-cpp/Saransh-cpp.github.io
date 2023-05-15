@@ -8,18 +8,27 @@ nav_order: 2
 horizontal: false
 ---
 
-Below are my "formal" work experiences. I also contribute to several Open-Source Research Software, and I consider that as an "experience" too (see **[/opensource](/opensource)**). I have also mentored several students and researchers who are new at writing code for research/scientific software (see **[/volunteer](/volunteer)**)
+Below are my "formal" work experiences. I also contribute to several Open-Source Research Software, and I consider that as an "experience" too (see **[/opensource](/opensource)**). I have also mentored several students and researchers who are new at writing code for research/scientific software (see **[/volunteer](/volunteer)**).
 
 ---
 
 #### TL;DR
 
+- [Visiting Student Researcher (Mitacs Globalink Research Award)](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship){:target="_blank"} \| June-September 2022 \| [McMaster University](https://www.mcmaster.ca){:target="_blank"}
 - [Research Fellow](https://iris-hep.org/fellows/Saransh-cpp.html){:target="_blank"} \| June-September 2022 \| [Institute for Research and Innovation in Software for High Energy Physics](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
 - [Open-Source Technical Writer](https://julialang.org/jsoc/){:target="_blank"} \| May-October 2022 \| [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
 - [Google Summer of Code Open-Source developer](https://summerofcode.withgoogle.com){:target="_blank"} \| May-September 2021 \| [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numforcus.org){:target="_blank"}
 
 
 ---
+
+#### [Visiting Student Researcher (Mitacs Globalink Research Award)](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship){:target="_blank"}
+##### [McMaster University](https://www.mcmaster.ca){:target="_blank"}
+###### Prof. Jacques Carette
+###### June - September 2023 | Ontario, Canada
+
+- Formalising Mathematics and Computing in [Agda's](https://wiki.portal.chalmers.se/agda/pmwiki.php) standard library.
+
 
 #### [Research Fellow](https://iris-hep.org/fellows/Saransh-cpp.html){:target="_blank"}
 ##### [IRIS-HEP](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}, [Princeton Research Computing](https://researchcomputing.princeton.edu/){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
