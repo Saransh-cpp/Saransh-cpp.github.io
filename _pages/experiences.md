@@ -8,7 +8,7 @@ nav_order: 2
 horizontal: false
 ---
 
-Below are my "formal" work experiences. I also contribute to several Open-Source Research Software, and I consider that as an "experience" too (see **[/opensource](/opensource)**). I have also mentored several students and researchers who are new at writing code for research/scientific software (see **[/volunteer](/volunteer)**).
+Below are my "formal" work experiences. I also contribute to several Open-Source Research Software, and I consider that as an "experience" too (see **[/opensource](/opensource)**). I have also mentored several students and researchers who are new at writing code for research/scientific software (see **[/supervise](/supervise)**).
 
 ---
 
@@ -29,6 +29,7 @@ Below are my "formal" work experiences. I also contribute to several Open-Source
 
 - Formalising Mathematics and Computing in [Agda's](https://wiki.portal.chalmers.se/agda/pmwiki.php) standard library.
 
+---
 
 #### [Research Fellow](https://iris-hep.org/fellows/Saransh-cpp.html){:target="_blank"}
 ##### [IRIS-HEP](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}, [Princeton Research Computing](https://researchcomputing.princeton.edu/){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
