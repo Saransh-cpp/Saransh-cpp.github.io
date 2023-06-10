@@ -15,7 +15,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://www.mitacs.ca/en/programs/globalink/globalink-research-internship">Mitacs Globalink Research Award (~2000 recipients worldwide)</a></h3>
+      <h3><a href="https://www.mitacs.ca/en/programs/globalink/globalink-research-internship">Mitacs Globalink Research Internship</a></h3>
       <h5><a href="https://www.mitacs.ca/en#/">Mitacs</a> + <a href="http://www.shastriinstitute.org">Government of India (Shastri Indo-Canadian Institute)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/mitacs-logo.jpg"></td>
