@@ -24,6 +24,7 @@ significant_repos:
   - FluxML/Metalhead.jl
   - zarr-developers/zarr-python
   - lululxvi/DeepXDE
+  - agda/agda-stdlib
   - scikit-hep/cookie
   - scikit-hep/scikit-hep.github.io
   - FluxML/fluxml.github.io
