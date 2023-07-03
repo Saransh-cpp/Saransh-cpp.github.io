@@ -16,7 +16,7 @@ By now (if you are going through the navbar in order), you must have noticed tha
 ##### [Open Science Labs (OSL)](https://opensciencelabs.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 ###### May - September 2023 | Remote
 
-- Co-primary supervisor for Ankit, working on the project "[Improve Scientific Python Cookiecutter](https://summerofcode.withgoogle.com/programs/2023/projects/26c9LZfd)."
+- Primary co-supervisor for Ankit, working on the project "[Improve Scientific Python Cookiecutter](https://summerofcode.withgoogle.com/programs/2023/projects/26c9LZfd)."
 
 ---
 
@@ -24,8 +24,8 @@ By now (if you are going through the navbar in order), you must have noticed tha
 ##### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 ###### May - September 2023 | Remote
 
-- Co-primary supervisor for Arjun, working on the project "[Dockerizing and Simplifying PyBaMM's Installation](https://summerofcode.withgoogle.com/programs/2023/projects/vKlUTys3)."
-- Co-primary supervisor for Agriya, working on the project "[Enhancing Documentation Infrastructure of PyBaMM](https://summerofcode.withgoogle.com/programs/2023/projects/DdcerdTx)."
+- Primary co-supervisor for Arjun, working on the project "[Dockerizing and Simplifying PyBaMM's Installation](https://summerofcode.withgoogle.com/programs/2023/projects/vKlUTys3)."
+- Primary co-supervisor for Agriya, working on the project "[Enhancing Documentation Infrastructure of PyBaMM](https://summerofcode.withgoogle.com/programs/2023/projects/DdcerdTx)."
 
 ---
 
