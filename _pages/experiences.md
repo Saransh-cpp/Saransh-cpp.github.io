@@ -16,8 +16,8 @@ Below are my "formal" work experiences. I also contribute to several Open-Source
 
 - [Visiting Student Researcher (Mitacs Globalink Research Intern)](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship){:target="_blank"} \| June-September 2022 \| [McMaster University](https://www.mcmaster.ca){:target="_blank"}
 - [Research Fellow](https://iris-hep.org/fellows/Saransh-cpp.html){:target="_blank"} \| June-September 2022 \| [Institute for Research and Innovation in Software for High Energy Physics](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
-- [Open-Source Technical Writer](https://julialang.org/jsoc/){:target="_blank"} \| May-October 2022 \| [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
-- [Google Summer of Code Open-Source developer](https://summerofcode.withgoogle.com){:target="_blank"} \| May-September 2021 \| [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numforcus.org){:target="_blank"}
+- [Technical Writer and Open-Source Developer](https://julialang.org/jsoc/){:target="_blank"} \| May-October 2022 \| [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
+- [Google Summer of Code Developer](https://summerofcode.withgoogle.com){:target="_blank"} \| May-September 2021 \| [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numforcus.org){:target="_blank"}
 
 
 ---
@@ -27,7 +27,8 @@ Below are my "formal" work experiences. I also contribute to several Open-Source
 ###### Prof. Jacques Carette
 ###### June - September 2023 | Ontario, Canada
 
-- Formalising Mathematics and Computing in [Agda's](https://wiki.portal.chalmers.se/agda/pmwiki.php) standard library.
+- Working with Type Theory, Functional Programming, and Computational Logic to formalize Mathematics and Computing in [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)’s standard library.
+- Refactoring the standard library and changing the API design to prepare it for v2.0.0
 
 ---
 
@@ -51,7 +52,7 @@ Below are my "formal" work experiences. I also contribute to several Open-Source
 
 ---
 
-#### [Open-Source Technical Writer](https://julialang.org/jsoc/){:target="_blank"}
+#### [Technical Writer and Open-Source Developer](https://julialang.org/jsoc/){:target="_blank"}
 ##### [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
 ###### Mr. Dhairya Gandhi (Julia Computing / JuliaHub)
 ###### May - October 2022 | Remote (Part-Time)
@@ -72,7 +73,7 @@ Below are my "formal" work experiences. I also contribute to several Open-Source
 
 ---
 
-#### [Google Summer of Code Open-Source developer](https://summerofcode.withgoogle.com){:target="_blank"}
+#### [Google Summer of Code Developer](https://summerofcode.withgoogle.com){:target="_blank"}
 ##### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numforcus.org){:target="_blank"}
 ###### Dr. Valentin Sulzer (Carnegie Mellon University), Dr. Ferran Brosa Planella (University of Warwick), Dr. Robert Timms (University of Oxford)
 ###### May - September 2021 | Remote
