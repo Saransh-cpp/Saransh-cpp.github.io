@@ -28,7 +28,7 @@ I am broadly interested in **[Research Software Engineering](https://us-rse.org/
 
 ## current and past affiliations
 
-The organisations, institutes, and programs I am currently working for (or under), or have worked for in the past.
+The organisations, institutes, and programs I am currently working for (or under/on), or have worked for in the past.
 
 <!-- <p align="center">
   <img src="assets/img/pybamm-logo.png" style="width: 500px"/>
@@ -40,6 +40,7 @@ The organisations, institutes, and programs I am currently working for (or under
 </p> -->
 
 <p align="center">
+  <a href="https://wiki.portal.chalmers.se/agda/pmwiki.php/" target="_blank"><img src="assets/img/agda-logo.png" style="width: 230px"/></a>
   <a href="https://www.mcmaster.ca/" target="_blank"><img src="assets/img/mcmaster-logo.png" style="width: 200px"/></a>
   <a href="https://www.mitacs.ca/" target="_blank"><img src="assets/img/mitacs-logo.jpg" style="width: 250px"/></a>
   <a href="https://opensciencelabs.org/" target="_blank"><img src="assets/img/osl-logo.svg" style="width: 220px"/></a>

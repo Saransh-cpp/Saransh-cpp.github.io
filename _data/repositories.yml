@@ -5,14 +5,15 @@ main_repos:
   - FluxML/Flux.jl
   - scikit-hep/vector
   - pybamm-team/PyBaMM
+  - agda/agda-stdlib
   - pybamm-team/liionpack
   - pybamm-team/BattBot
+  - smaranjitghose/DocLense
 
 project_repos:
   - Saransh-cpp/OCRed
   - Saransh-cpp/ChaoticEncryption.jl
   - Saransh-cpp/releaseup
-  # - Saransh-cpp/riemapp
   - Saransh-cpp/MemeTastic
   - Saransh-cpp/PopItUp
   - Saransh-cpp/BookRentApp-Chapter3
@@ -20,14 +21,14 @@ project_repos:
   - Saransh-cpp/ForMente
 
 significant_repos:
-  - FluxML/NNlib.jl
-  - FluxML/Metalhead.jl
   - zarr-developers/zarr-python
   - lululxvi/DeepXDE
-  - agda/agda-stdlib
   - scikit-hep/cookie
-  - scikit-hep/scikit-hep.github.io
-  - FluxML/fluxml.github.io
-  - colour-science/colour
+
+small_repos:
   - bmcage/odes
-  # - https://github.com/sosy-lab/benchexec
+  - sosy-lab/benchexec
+  - colour-science/colour
+  - idris-lang/Idris2
+  - builtree/simulate
+  - numpy/numpy
