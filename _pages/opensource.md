@@ -43,11 +43,12 @@ The software I am involved with as a maintainer, core developer, core contributo
 
 Significant voluntary contributions or spin-off projects (was not directly funded to work on them but my work expanded and encompassed some of them).
 
-Organisation logos = contributions to the entire ecosystem.
+Organization logos = contributions to the entire ecosystem.
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-around align-items-center">
     <a href="https://github.com/scikit-hep/" target="_blank"><img src="/assets/img/scikit-hep-logo.png" style="width: 170px"/></a>
     <a href="https://github.com/FluxML/" target="_blank"><img src="/assets/img/flux-logo.png" style="width: 300px"/></a>
+    <a href="https://github.com/pybamm-team/" target="_blank"><img src="/assets/img/pybamm-logo.png" style="width: 300px"/></a>
 </div>
 
 {% if site.data.repositories.significant_repos %}

@@ -6,6 +6,7 @@ main_repos:
   - scikit-hep/vector
   - pybamm-team/PyBaMM
   - agda/agda-stdlib
+  - osl-incubator/scicookie
   - pybamm-team/liionpack
   - pybamm-team/BattBot
   - smaranjitghose/DocLense
