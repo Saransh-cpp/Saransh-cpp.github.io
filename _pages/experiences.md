@@ -17,7 +17,7 @@ Below are my "formal" work experiences. I also contribute to several Open-Source
 - [Visiting Student Researcher (Mitacs Globalink Research Intern)](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship){:target="_blank"} \| June-September 2022 \| [McMaster University](https://www.mcmaster.ca){:target="_blank"}
 - [Research Fellow](https://iris-hep.org/fellows/Saransh-cpp.html){:target="_blank"} \| June-September 2022 \| [Institute for Research and Innovation in Software for High Energy Physics](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
 - [Technical Writer and Open-Source Developer](https://julialang.org/jsoc/){:target="_blank"} \| May-October 2022 \| [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
-- [Google Summer of Code Developer](https://summerofcode.withgoogle.com){:target="_blank"} \| May-September 2021 \| [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numforcus.org){:target="_blank"}
+- [Google Summer of Code Developer](https://summerofcode.withgoogle.com){:target="_blank"} \| May-September 2021 \| [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 
 
 ---
@@ -74,7 +74,7 @@ Below are my "formal" work experiences. I also contribute to several Open-Source
 ---
 
 #### [Google Summer of Code Developer](https://summerofcode.withgoogle.com){:target="_blank"}
-##### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numforcus.org){:target="_blank"}
+##### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 ###### Dr. Valentin Sulzer (Carnegie Mellon University), Dr. Ferran Brosa Planella (University of Warwick), Dr. Robert Timms (University of Oxford)
 ###### May - September 2021 | Remote
 
