@@ -27,7 +27,7 @@ Below are my "formal" work experiences. I also contribute to several Open-Source
 ###### Prof. Jacques Carette
 ###### June - August 2023 | Hamilton, Ontario, Canada
 
-- Worked Type Theory, Functional Programming, and Computational Logic to formalize Mathematics and Computing in [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)’s (a dependently typed functional programming language and an interactive theorem prover) standard library using Type Theory, Functional Programming, and Computational Logic.
+- Worked Type Theory, Functional Programming, and Computational Logic to formalize Mathematics and Computing in [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)’s (a dependently typed functional programming language and an interactive theorem prover) standard library using Type Theory, Proof Theory, Functional Programming, and Computational Logic.
 - Refactored the standard library's codebase for v2.0, simplified the dependency graph, fixed various bugs, and added new functions and mathematical proofs.
 
 ---
