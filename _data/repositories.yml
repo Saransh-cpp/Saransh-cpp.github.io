@@ -15,11 +15,13 @@ project_repos:
   - Saransh-cpp/OCRed
   - Saransh-cpp/ChaoticEncryption.jl
   - Saransh-cpp/releaseup
+  - Saransh-cpp/rmstar
   - Saransh-cpp/MemeTastic
   - Saransh-cpp/PopItUp
   - Saransh-cpp/BookRentApp-Chapter3
   - Saransh-cpp/SceneNet
   - Saransh-cpp/ForMente
+  - Saransh-cpp/riemapp
 
 significant_repos:
   - zarr-developers/zarr-python
