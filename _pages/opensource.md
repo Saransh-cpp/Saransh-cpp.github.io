@@ -27,7 +27,7 @@ Below is a list of projects I am involved with (as a maintainer, member, core-de
 
 ## Main research software
 
-The software I am involved with as a maintainer, core developer, core contributor, or was funded to work on.
+The software I am (or was) involved with as a maintainer, core developer, core contributor, or was funded to work on.
 
 {% if site.data.repositories.main_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-around align-items-center">
