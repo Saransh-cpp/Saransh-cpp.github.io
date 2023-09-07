@@ -11,6 +11,8 @@ main_repos:
   - pybamm-team/liionpack
   - pybamm-team/BattBot
   - smaranjitghose/DocLense
+  - conda-forge/vector-feedstock
+  - conda-forge/removestar-feedstock
 
 project_repos:
   - Saransh-cpp/OCRed
@@ -36,3 +38,4 @@ small_repos:
   - idris-lang/Idris2
   - builtree/simulate
   - numpy/numpy
+  - astropy/astropy
