@@ -14,11 +14,17 @@ Below are my "formal" work experiences. I also contribute to several Open-Source
 
 #### TL;DR
 
+- [Research Software Engineer](https://us-rse.org/about/what-is-an-rse/){:target="_blank"} \| Starting January \| [CMS](https://cms.cern){:target="_blank"}, [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
 - [Visiting Student Researcher (Mitacs Globalink Research Intern)](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship){:target="_blank"} \| June-August 2023 \| [McMaster University](https://www.mcmaster.ca){:target="_blank"}
 - [Research Fellow](https://iris-hep.org/fellows/Saransh-cpp.html){:target="_blank"} \| June-September 2022 \| [Institute for Research and Innovation in Software for High Energy Physics](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
 - [Technical Writer and Open-Source Developer](https://julialang.org/jsoc/){:target="_blank"} \| May-October 2022 \| [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
 - [Google Summer of Code Developer](https://summerofcode.withgoogle.com){:target="_blank"} \| May-September 2021 \| [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 
+---
+
+#### [Research Software Engineer](https://us-rse.org/about/what-is-an-rse/){:target="_blank"}
+##### [CMS](https://cms.cern){:target="_blank"}, [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
+###### Starting January | Geneva, Switzerland
 
 ---
 

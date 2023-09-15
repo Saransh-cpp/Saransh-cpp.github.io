@@ -15,8 +15,8 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="#" target="_blank">Lessons learned while working as a Technical Writer at FluxML</a></h3>
-      <h5><a href="https://juliacon.org/2023/">JuliaCon 2023 (upcoming)</a></h5>
+      <h3><a href="#" target="_blank">Lessons learned while working as a Technical Writer at FluxML </a><a href="https://www.youtube.com/watch?v=ieAjBVUl0tg&list=PLP8iPy9hna6Q5tiN8gX1wMgBGdqRT_ZTE&index=17">🎥</a></h3>
+      <h5><a href="https://juliacon.org/2023/">JuliaCon 2023</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/juliacon-logo.svg"></td>
     <td></td>
