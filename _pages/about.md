@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I will be joining CERN, under a grant from Priceton University, to write my Bachelor's thesis this January !!!
+I will be joining CERN through Princeton University this January to write my Bachelor's thesis!!!
 
 I am an engineering senior at the **[University of Delhi](http://du.ac.in/){:target="_blank"}**, pursuing a major in IT and Mathematics. In daylight, I work on my academic skills and professional commitments, and by night, I develop and maintain Open-Source Research Software (see **[/opensource](/opensource)**), which I believe are the key to collaborative and reproducible research.
 

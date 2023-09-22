@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3><a href="https://indi.to/35ym5" target="_blank">What’s new with Vector? First major release is out!</a></h3>
+      <h5><a href="https://indico.cern.ch/event/1252095/">6th International Workshop on Python in High Energy Physics (PyHEP) (upcomimg)</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:30%" src="../assets/img/pyhep-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3><a href="#" target="_blank">Lessons learned while working as a Technical Writer at FluxML </a><a href="https://www.youtube.com/watch?v=ieAjBVUl0tg&list=PLP8iPy9hna6Q5tiN8gX1wMgBGdqRT_ZTE&index=17">🎥</a></h3>
       <h5><a href="https://juliacon.org/2023/">JuliaCon 2023</a></h5>
     </td>
@@ -84,7 +101,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://indico.cern.ch/event/1150631/contributions/5014393/" target="_blank">Constructing HEP vectors and analyzing HEP data using Vector </a><a href="https://www.youtube.com/watch?v=4iveMzrbe7s">🎥</a></h3>
-      <h5><a href="https://indico.cern.ch/event/1150631/">5th International Workshop on Python in High-Energy-Physics (PyHEP)</a></h5>
+      <h5><a href="https://indico.cern.ch/event/1150631/">5th International Workshop on Python in High Energy Physics (PyHEP)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:30%" src="../assets/img/pyhep-logo.png"></td>
     <td></td>
