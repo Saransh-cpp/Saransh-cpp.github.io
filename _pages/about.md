@@ -6,7 +6,7 @@ subtitle: Academics by day, open-source by night
 
 profile:
   align: justify
-  image: SaranshChopra.jpg
+  image: SaranshChopra.jpeg
   address: >
     New Delhi, India
 
