@@ -36,6 +36,5 @@ small_repos:
   - sosy-lab/benchexec
   - colour-science/colour
   - idris-lang/Idris2
-  - builtree/simulate
   - numpy/numpy
   - astropy/astropy
