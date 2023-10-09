@@ -16,7 +16,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://indi.to/35ym5" target="_blank">What’s new with Vector? First major release is out!</a></h3>
-      <h5><a href="https://indico.cern.ch/event/1252095/">6th International Workshop on Python in High Energy Physics (PyHEP) (upcomimg)</a></h5>
+      <h5><a href="https://indico.cern.ch/event/1252095/">6th International Workshop on Python in High Energy Physics (PyHEP)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:30%" src="../assets/img/pyhep-logo.png"></td>
     <td></td>
