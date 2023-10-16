@@ -2,7 +2,7 @@
 layout: page
 title: open source
 permalink: /open_source/
-description: I like open source research software.
+description: I like open source scientific software.
 # nav: true
 # nav_order: 1
 horizontal: false
@@ -10,7 +10,7 @@ horizontal: false
 
 Refer to [https://saransh-cpp.github.io/repositories/](https://saransh-cpp.github.io/repositories/) for a newer version of this page!
 
-My contributions are scattered all over GitHub. I usually contribute to research software written in Python and Julia, but I am exploring the C/C++ side as well. Here are some of my significant contributions.
+My contributions are scattered all over GitHub. I usually contribute to scientific software written in Python and Julia, but I am exploring the C/C++ side as well. Here are some of my significant contributions.
 
 ## Member, maintainer, and core-developer
 

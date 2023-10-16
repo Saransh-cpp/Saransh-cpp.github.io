@@ -2,7 +2,7 @@
 layout: page
 permalink: /opensource/
 title: open-source
-description: i like open source research software
+description: i like open source scientific software
 nav: true
 nav_order: 3
 ---
@@ -25,7 +25,7 @@ Below is a list of projects I am involved with (as a maintainer, member, core-de
 
 ---
 
-## Main research software
+## Main scientific software
 
 The software I am (or was) involved with as a maintainer, core developer, core contributor, or was funded to work on.
 

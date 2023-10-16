@@ -8,7 +8,7 @@ nav_order: 5
 horizontal: false
 ---
 
-By now (if you are going through the navbar in order), you must have noticed that I am heavily involved with several Open-Source Research Software. My work on Open-Source Software can also be considered a voluntary position. For a list of Open-Source Software that I am involved with, please see **[/opensource](/opensource)**.
+By now (if you are going through the navbar in order), you must have noticed that I am heavily involved with several Open-Source Scientific Software. My work on Open-Source Software can also be considered a voluntary position. For a list of Open-Source Software that I am involved with, please see **[/opensource](/opensource)**.
 
 ---
 
