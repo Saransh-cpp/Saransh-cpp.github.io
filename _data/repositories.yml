@@ -13,6 +13,7 @@ main_repos:
   - smaranjitghose/DocLense
   - conda-forge/vector-feedstock
   - conda-forge/removestar-feedstock
+  - conda-forge/pybamm-feedstock
 
 project_repos:
   - Saransh-cpp/OCRed
