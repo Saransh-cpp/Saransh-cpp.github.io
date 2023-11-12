@@ -228,7 +228,9 @@ display_tags: [
   'testing',
   'flutter',
   'dart',
-  'android'
+  'android',
+  'canada',
+  'mitacs'
 ] # this tags will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
