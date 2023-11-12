@@ -36,7 +36,7 @@ After submitting my application in September, I waited and waited and waited. I 
     <img src="/assets/img/mitacs-acceptance.png" width="70%"/>
 </p>
 
-At this point, I was already working remotely under a Professor at UPenn, and I contacted several people (including you) for advice. Taking up the position at McMaster would mean giving up on my UPenn project, which I liked very much. I had never worked on Mathematical proof assistants and functional programming languages before, making the work at McMaster entirely new for me. Ultimately, I accepted the McMaster offer and wrote a big sad email to the professor at UPenn, which turned out to be the best decision of my life. I would now work under Prof. Jacques Carette on "Formalising Mathematics and Computing in Agda" at McMaster University, Hamilton!!!
+At this point, I was already working remotely under a Professor at UPenn, and I contacted several people (including you) for advice. Taking up the position at McMaster would mean giving up on my UPenn project, which I liked very much. I had never worked on Mathematical proof assistants and functional programming languages before, making the work at McMaster entirely new for me. Ultimately, I accepted the McMaster offer and wrote a big sad email to the professor at UPenn. Who knew that accepting Mitacs' offer will turn out to be one of the best decisions of my life. I would now work under Prof. Jacques Carette on "Formalising Mathematics and Computing in Agda" at McMaster University, Hamilton!!!
 
 As it turned out, accepting the offer was the easiest part of the timeline because I was headed to the visa hell next. I love how we weirdly bond over our weak passports, like the last thing people bond over is their passport privileges. I received a Schengen Visa rejection from the Italian Embassy last year (PyCon Italia), and I was super worried about this application. Surprisingly, the Canadian visa application is entirely online, and you only have to visit VFS to submit your biometric information. This was already so much better than the Schengen application; at least I did not have to print a book of documents only to realize I had forgotten a printout and look for printing shops near VFS in an absolute panic. I submitted my application and waited for another eternity. They finally decided to process my application after 56 days of submission. My application was approved!! I had to wait ~10 more days to get the visa stamped on my passport. I remember I was at Rajiv Chowk, returning from college with Nikunj, when I received the passport collection mail. I was so freaking happy that I took an immediate U-turn and went back to the New Delhi metro station to take the airport express line to VFS.
 
@@ -44,10 +44,9 @@ As it turned out, accepting the offer was the easiest part of the timeline becau
     <img src="/assets/img/vfs-acceptance.jpeg" width="70%"/>
 </p>
 
-After reaching home, I rushed to my laptop and booked the cheapest (super costly because of late booking) flights. I was going to fly out of India through Lufthansa to Munich and then catch a connecting AirCanada flight to Toronto, after which I had planned to take a bus to Hamilton. Everything was set - visa, flights, insurance, initial accommodation. The insurance and housing had their own problems, but I managed to fix all the loose ends in the end. Now I just had to face my end-semester examinations, pack 2 big bags, and board a flight to Canada!
+After reaching home, I rushed to my laptop and booked the cheapest (super costly because of late booking) flights. I was going to fly out of India through Lufthansa AC9587 to Munich and then catch the connecting AirCanada AC837 flight to Toronto, after which I had planned to take a bus to Hamilton. Everything was set - visa, flights, insurance, initial accommodation. The insurance and housing had their own problems, but I managed to fix all the loose ends in the end. Now I just had to face my end-semester examinations, pack 2 big bags, and board a flight to Canada!
 
 I will write about my first steps in Canada in the following blog/letter. Let me call you quickly because you are roaming on a ship near the equator with only 100 MB of data on Diwali. So dreamy, scary, and cool!
 
 With love <br>
-From Saransh <br>
-Your bestfriend
+Saransh
