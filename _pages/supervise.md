@@ -12,6 +12,16 @@ By now (if you are going through the navbar in order), you must have noticed tha
 
 ---
 
+#### [Cluster Innovation Centre](http://www.cic.du.ac.in){:target="_blank"}
+##### [University of Delhi](http://www.du.ac.in){:target="_blank"}
+###### 2021 - 2023 | New Delhi
+
+- I have been involved in several official teaching and mentoring workshops organised by CIC.
+- This includes conducting yearly and one-time workshops on Git and GitHub, Linux CLI, Open-Source Programs, Internship Opportunities, Clubs and Fests at CIC, etc.
+- Some of the reports for these workshops are available on CIC's website and some of them were lost with time. 
+
+---
+
 #### [Google Summer of Code](https://summerofcode.withgoogle.com){:target="_blank"}
 ##### [Open Science Labs (OSL)](https://opensciencelabs.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 ###### May - September 2023 | Remote
@@ -29,11 +39,11 @@ By now (if you are going through the navbar in order), you must have noticed tha
 
 ---
 
-#### [Lead Organizer and Tech Lead](){:target="_blank"}
-##### [Convoke 5.0 (Annual TechFest) and HashHacks (24-hour-long hackathon)](https://clusterinnovationcentre.github.io/convoke/2023/){:target="_blank"}, [Cluster Innovation Centre](http://www.cic.du.ac.in){:target="_blank"}, [University of Delhi](http://www.du.ac.in){:target="_blank"}
+#### [Convoke 5.0 (Annual TechFest) and HashHacks (24-hour-long hackathon)](https://clusterinnovationcentre.github.io/convoke/2023/){:target="_blank"}
+##### [Lead Organizer and Tech Lead](){:target="_blank"}
 ###### December 2022 - February 2023 | New Delhi
 
-- Lead a team of ~25 volunteers to bring back the annual TechFest of CIC after 3 pandemic years with 300+ attendees.
+- Lead a team of ~25 volunteers at , [Cluster Innovation Centre](http://www.cic.du.ac.in){:target="_blank"}, [University of Delhi](http://www.du.ac.in){:target="_blank"}, to bring back the annual TechFest of CIC after 3 pandemic years with 300+ attendees.
 
 ---
 
