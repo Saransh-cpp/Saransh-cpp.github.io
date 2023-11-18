@@ -18,7 +18,7 @@ By now (if you are going through the navbar in order), you must have noticed tha
 
 - I have been involved in several official teaching and mentoring workshops organised by CIC.
 - This includes conducting yearly and one-time workshops on Git and GitHub, Linux CLI, Open-Source Programs, Internship Opportunities, Clubs and Fests at CIC, etc.
-- Some of the reports for these workshops are available on CIC's website and some of them were lost with time. 
+- Some of the reports for these workshops are available on CIC's website and some of them were lost with time.
 
 ---
 
