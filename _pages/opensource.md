@@ -2,7 +2,7 @@
 layout: page
 permalink: /opensource/
 title: open-source
-description: i like open source scientific software
+description: open-source scientific software, devtools, mobile applications, ...
 nav: true
 nav_order: 3
 ---
