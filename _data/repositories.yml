@@ -31,7 +31,7 @@ significant_repos:
   - zarr-developers/zarr-python
   - lululxvi/DeepXDE
   - scikit-hep/cookie
-  - coffea-team/coffea
+  - CoffeaTeam/coffea
 
 small_repos:
   - bmcage/odes
