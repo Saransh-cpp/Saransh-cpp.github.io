@@ -24,7 +24,7 @@ Below are my "formal" work experiences. I also contribute to several Open-Source
 
 #### Research Fellow
 ##### [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
-###### January 2024 - Present | Geneva, Switzerland
+###### January 2024 - Present | Meyrin, Switzerland
 
 ---
 

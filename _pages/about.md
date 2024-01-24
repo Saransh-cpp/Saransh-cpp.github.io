@@ -8,7 +8,7 @@ profile:
   align: justify
   image: SaranshChopra.jpeg
   address: >
-    CERN, Geneva, Switzerland saransh.chopra@cern.ch
+    8/R-012, CERN, Meyrin, Switzerland saransh.chopra@cern.ch
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
