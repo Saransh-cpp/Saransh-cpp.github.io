@@ -6,6 +6,7 @@ main_repos:
   - scikit-hep/vector
   - pybamm-team/PyBaMM
   - agda/agda-stdlib
+  - scikit-hep/awkward
   - osl-incubator/scicookie
   - asmeurer/removestar
   - pybamm-team/liionpack
