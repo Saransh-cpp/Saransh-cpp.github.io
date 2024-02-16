@@ -17,6 +17,7 @@ main_repos:
   - conda-forge/pybamm-feedstock
 
 project_repos:
+  - Saransh-cpp/polarising-content-on-indian-youtube-near-elections
   - Saransh-cpp/OCRed
   - Saransh-cpp/ChaoticEncryption.jl
   - Saransh-cpp/releaseup
