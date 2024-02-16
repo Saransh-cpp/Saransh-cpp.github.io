@@ -27,7 +27,9 @@ project_repos:
   - Saransh-cpp/BookRentApp-Chapter3
   - Saransh-cpp/SceneNet
   - Saransh-cpp/ForMente
+  - Saransh-cpp/ForMente-onWeb
   - Saransh-cpp/riemapp
+  - Saransh-cpp/rv-warmup
 
 significant_repos:
   - zarr-developers/zarr-python
