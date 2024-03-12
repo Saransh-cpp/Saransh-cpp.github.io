@@ -1,14 +1,22 @@
 ---
 layout: page
-title: supervise
-permalink: /supervise/
-description: supervising, mentoring, volunteering, teaching, ...
+title: service
+permalink: /service/
+description: supervising, mentoring, volunteering, teaching, positions of responsibility, ...
 nav: true
 nav_order: 5
 horizontal: false
 ---
 
-My work on Open-Source Software can also be considered a voluntary position. For a list of Open-Source Software that I am involved with, please see **[/opensource](/opensource)**.
+My work on open-source software can also be considered a voluntary position. For a list of open-source software that I am involved with, please see **[/opensource](/opensource)**.
+
+---
+
+#### [NumFOCUS Affiliated Project Selection Committee](https://numfocus.org/sponsored-projects/affiliated-projects){:target="_blank"}
+##### [NumFOCUS](https://numfocus.org){:target="_blank"}
+###### 2024 | Remote
+
+- The committee is responsible for evaluating applications from open source projects for Affiliated Project status with NumFOCUS and working with applicant projects throughout the review process.
 
 ---
 
@@ -19,6 +27,14 @@ My work on Open-Source Software can also be considered a voluntary position. For
 - I have been involved in several official teaching and mentoring workshops organised by CIC.
 - This includes conducting yearly and one-time workshops on Git and GitHub, Linux CLI, Open-Source Programs, Internship Opportunities, Clubs and Fests at CIC, etc.
 - Some of the reports for these workshops are available on CIC's website and some of them were lost with time.
+
+---
+
+#### [Steering Council](https://pybamm.org/governance/){:target="_blank"}
+##### [PyBaMM](https://pybamm.org){:target="_blank"}
+###### 2022 - Present | Remote
+
+- Involved in administrative decisions and work.
 
 ---
 
@@ -51,7 +67,7 @@ My work on Open-Source Software can also be considered a voluntary position. For
 ##### [5th International Workshop on Python in High Energy Physics (PyHEP)](https://indico.cern.ch/event/1150631/){:target="_blank"}
 ###### May - September 2022 | Remote
 
-- Invited to mentor and assist researchers and students new to Open-Source Scientific Software development.
+- Invited to mentor and assist researchers and students new to open-source scientific software development.
 
 ---
 

@@ -49,7 +49,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="#" target="_blank">Open-Source and Open-Source programs</a></h3>
+      <h3><a href="#" target="_blank">Open-source and open-source programs</a></h3>
       <h5><a href="https://community.cncf.io/events/details/cncf-noida-presents-gta-ghaziabad-lets-fork-together/">GTA Ghaziabad: Let's Fork Together</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:35%" src="../assets/img/gta-ghaziabad-logo.jpg"></td>

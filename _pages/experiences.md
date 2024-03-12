@@ -8,13 +8,13 @@ nav_order: 2
 horizontal: false
 ---
 
-Below are my "formal" work experiences. I also contribute to several Open-Source Scientific Software, and I consider that as an "experience" too (see **[/opensource](/opensource)**). I have also mentored several students and researchers who are new at writing code for research/scientific software (see **[/supervise](/supervise)**).
+Below are my "formal" work experiences. I also contribute to several open-source scientific software, and I consider that as an "experience" too (see **[/opensource](/opensource)**). I have also mentored several students and researchers who are new at writing code for research/scientific software (see **[/service](/service)**).
 
 ---
 
 #### TL;DR
 
-- Research Fellow \| January 2024 - Present \| [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
+- [Research Software Intern](https://iris-hep.org/about/team) (bachelor's thesis) \| January 2024 - Present \| [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
 - [Visiting Student Researcher (Mitacs Globalink Research Intern)](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship){:target="_blank"} \| June 2023 - August 2023 \| [McMaster University](https://www.mcmaster.ca){:target="_blank"}
 - [Research Fellow](https://iris-hep.org/fellows/Saransh-cpp.html){:target="_blank"} \| June 2022 - September 2022 \| [Institute for Research and Innovation in Software for High Energy Physics](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
 - [Technical Writer and Open-Source Developer](https://julialang.org/jsoc/){:target="_blank"} \| May 2022 - October 2022 \| [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
@@ -22,9 +22,13 @@ Below are my "formal" work experiences. I also contribute to several Open-Source
 
 ---
 
-#### Research Fellow
+#### [Research Software Intern](https://iris-hep.org/about/team) (bachelor's thesis)
 ##### [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
+###### Dr. Jim Pivarski (Princeton University)
 ###### January 2024 - Present | Meyrin, Switzerland
+
+- Enabling automatic differentiation for the Scikit-HEP ecosystem using JAX.
+- Polishing the IRIS-HEP data analysis pipeline ([coffea](https://github.com/CoffeaTeam/coffea), [vector](https://github.com/scikit-hep/vector), [boost-histogram](https://github.com/scikit-hep/boost-histogram), [awkward](https://github.com/scikit-hep/awkward), and others) for the future LHC/HL-LHC runs.
 
 ---
 
