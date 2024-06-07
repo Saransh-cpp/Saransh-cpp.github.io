@@ -15,6 +15,40 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3><a href="https://indi.to/pfTC6" target="_blank">A new SymPy backend for vector: uniting experimental and theoretical physicists </a></h3>
+      <h5><a href="https://indico.cern.ch/event/1384010/">7th International Workshop on Python in High Energy Physics (PyHEP)</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:30%" src="../assets/img/pyhep-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/pydelhi/talks/issues/275" target="_blank">The scientific side of Python and Open-Source: using Python for High Energy Physics at CERN </a></h3>
+      <h5><a href="https://pydelhi.org/">PyDelhi + RustDelhi + India Linux User Group Meetup</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:30%" src="../assets/img/pydelhi-logo.jpg"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3><a href="https://indi.to/35ym5" target="_blank">What’s new with Vector? First major release is out! </a><a href="https://www.youtube.com/watch?v=JHEAb2R3xzE&list=PLKZ9c4ONm-VlAorAG8kR09ZqhMfHiH2LJ&index=10">🎥</a></h3>
       <h5><a href="https://indico.cern.ch/event/1252095/">6th International Workshop on Python in High Energy Physics (PyHEP)</a></h5>
     </td>
