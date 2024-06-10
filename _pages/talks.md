@@ -33,7 +33,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://github.com/pydelhi/talks/issues/275" target="_blank">The scientific side of Python and Open-Source: using Python for High Energy Physics at CERN </a></h3>
-      <h5><a href="https://pydelhi.org/">PyDelhi + RustDelhi + India Linux User Group Meetup</a></h5>
+      <h5><a href="https://www.meetup.com/pydelhi/events/301520830/">PyDelhi + RustDelhi + India Linux User Group Meetup</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:30%" src="../assets/img/pydelhi-logo.jpg"></td>
     <td></td>
