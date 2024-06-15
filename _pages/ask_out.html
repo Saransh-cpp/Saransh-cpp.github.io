@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>Yo, I heard you looking for a boyfriend?</title>
+        <style>
+        p {
+            text-align: center;
+            font-size: 32px;
+            font-family: Candara, Oswald;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            width: 25%;
+        }
+        </style>
+    </head>
+    <body>
+        <p>Yo, I heard you looking for a boyfriend?</p>
+        <p>You wanna be me girl?</p>
+        <img src="https://media.tenor.com/zGm5acSjHCIAAAAM/cat-begging.gif" />
+    </body>
+    <title>Mel</title>
+    <style>
+        #botao1 {
+        position: fixed;
+        top: 80%;
+        left: 55%;
+        transform: translate(-50%, -50%);
+        }
+        #botao2 {
+        position: absolute;
+        left: 39%;
+        top: 80%;
+        }
+    </style>
+    <body>
+        <button id="botao1">Obv yes</button>
+        <button id="botao2">No FO</button>
+        <script>
+        const button2 = document.getElementById("botao2");
+        let left = 40;
+        button2.addEventListener("mouseover", function () {
+            if (left == 40) {
+            left = 44;
+            } else {
+            left = 40;
+            }
+            this.style.left = left + "%";
+        });
+        </script>
+        <script>
+        document.getElementById("botao1").addEventListener("click", function () {
+            alert("Thank you for your response. We'll reach out to you in 7 business days.");
+        });
+        </script>
+    </body>
+</html>
