@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3><a href="https://indi.to/zTs5b" target="_blank">A new SymPy backend for vector: uniting experimental and theoretical physicists </a></h3>
+      <h5><a href="https://indico.cern.ch/event/1338689/">27th International Conference on Computing in High Energy and Nuclear Physics</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/chep-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3><a href="https://indi.to/pfTC6" target="_blank">A new SymPy backend for vector: uniting experimental and theoretical physicists </a></h3>
       <h5><a href="https://indico.cern.ch/event/1384010/">7th International Workshop on Python in High Energy Physics (PyHEP)</a></h5>
     </td>
@@ -36,6 +53,23 @@ horizontal: false
       <h5><a href="https://www.meetup.com/pydelhi/events/301520830/">PyRustLin (PyDelhi X RustDelhi X India Linux User Group) Meetup</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:30%" src="../assets/img/pydelhi-logo.jpg"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 75%;">
+       <col span="1" style="width: 25%;">
+  </colgroup>
+  <tr>
+    <td>
+      <h3><a href="https://indico.cern.ch/event/1374922/#1-enabling-auto-differentiatio" target="_blank">Enabling auto-differentiation for the Scikit-HEP ecosystem</a></h3>
+      <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting (Research Software Intern Talks)</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/iris-hep-logo.png"></td>
     <td></td>
   </tr>
 </table>
@@ -118,7 +152,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://indico.cern.ch/event/1195273/#5-saransh-chopra-vector-constr" target="_blank">Vector - Constructors, documentation, and benchmarks </a><a href="https://youtu.be/rjqnJbT7T1s?t=3134">🎥</a></h3>
-      <h5><a href="https://iris-hep.org/">IRIS-HEP Fellows Final Presentation</a></h5>
+      <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting (Fellows Final Presentation)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/iris-hep-logo.png"></td>
     <td></td>
@@ -203,7 +237,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://indico.cern.ch/event/1155138/#sc-1-9-saransh-chopra-vector-c" target="_blank">Vector - Constructors, documentation, and benchmarks </a><a href="https://youtu.be/fLt7BHuASpw?t=2627">🎥</a></h3>
-      <h5><a href="https://iris-hep.org/">IRIS-HEP Fellows Lightning Talks</a></h5>
+      <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting (Fellows Lightning Talks)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/iris-hep-logo.png"></td>
     <td></td>

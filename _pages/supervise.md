@@ -12,6 +12,32 @@ My work on open-source software can also be considered a voluntary position. For
 
 ---
 
+#### [Google Summer of Code](https://summerofcode.withgoogle.com){:target="_blank"}
+##### [Open Science Labs (OSL)](https://opensciencelabs.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
+###### May - September 2024 | Remote
+
+- Sub-organisation admin.
+
+---
+
+#### [Google Summer of Code](https://summerofcode.withgoogle.com){:target="_blank"}
+##### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
+###### May - September 2024 | Remote
+
+- Primary co-supervisor for Santhosh, working on the project "[Migrate to scikit-build-core](https://summerofcode.withgoogle.com/programs/2024/projects/eU9Jznmr)."
+- Secondary co-supervisor for Ankit, working on the project "[Dockerizing and Simplifying PyBaMM's Installation](https://summerofcode.withgoogle.com/programs/2024/projects/YyLzWWqr)."
+- Secondary co-supervisor for Pradyot, working on the project "[Improve PyBaMM's testing infrastructure](https://summerofcode.withgoogle.com/programs/2024/projects/gnFfAnqb)."
+
+---
+
+#### [Open Science Labs Internship Program](https://opensciencelabs.org/programs/internship/){:target="_blank"}
+##### [Open Science Labs (OSL)](https://opensciencelabs.org){:target="_blank"}
+###### January - May 2024 | Remote
+
+- Primary co-supervisor for Naman, working on the project "[Improve Scicookie Documentation](https://opensciencelabs.org/programs/internship/cycles/2024-01/#scicookie)."
+
+---
+
 #### [NumFOCUS Affiliated Project Selection Committee](https://numfocus.org/sponsored-projects/affiliated-projects){:target="_blank"}
 ##### [NumFOCUS](https://numfocus.org){:target="_blank"}
 ###### 2024 | Remote
