@@ -27,8 +27,8 @@ Below are my "formal" work experiences. I also contribute to several open-source
 ###### Dr. Jim Pivarski (Princeton University)
 ###### January 2024 - Present | Meyrin, Switzerland
 
-- Enabling automatic differentiation for the Scikit-HEP ecosystem using JAX.
-- Polishing the IRIS-HEP data analysis pipeline ([coffea](https://github.com/CoffeaTeam/coffea), [vector](https://github.com/scikit-hep/vector), [boost-histogram](https://github.com/scikit-hep/boost-histogram), [awkward](https://github.com/scikit-hep/awkward), and others) for the future LHC/HL-LHC runs.
+- Carrying out computational upgrades on the high energy physics data analysis pipeline for future LHC/HL-LHC runs.
+- Enabled auto-diff in Scikit-HEP; migrated Coffea's vector algebra backend; implemented non-uniform rebinning (UHI) in boost-histogram; developed a symbolic backend for Vector; prepared Vector for HL-LHC upgrades; working on bringing histograms to GPUs.
 
 ---
 
