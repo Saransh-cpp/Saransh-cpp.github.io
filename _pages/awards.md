@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3>Travel and living bursary</h3>
+      <h5><a href="https://rsecon24.society-rse.org">8th Annual Conference for Research Software Engineering</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/rse-con-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3>Travel and living grant (based at <a href="https://home.cern">CERN</a>)</h3>
       <h5><a href="https://www.princeton.edu">Princeton University</a></h5>
     </td>
