@@ -7,6 +7,7 @@ main_repos:
   - pybamm-team/PyBaMM
   - agda/agda-stdlib
   - scikit-hep/awkward
+  - CoffeaTeam/coffea
   - osl-incubator/scicookie
   - asmeurer/removestar
   - pybamm-team/liionpack
@@ -35,7 +36,6 @@ significant_repos:
   - zarr-developers/zarr-python
   - lululxvi/DeepXDE
   - scikit-hep/cookie
-  - CoffeaTeam/coffea
 
 small_repos:
   - bmcage/odes

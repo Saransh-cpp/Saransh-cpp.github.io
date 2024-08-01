@@ -61,7 +61,7 @@ Organization logos = contributions to the entire ecosystem.
 
 ---
 
-## Small but nice contributions
+<!-- ## Small but nice contributions
 
 Small contributions (not a spam spelling fix in README) that I did spend some time on.
 
@@ -73,7 +73,7 @@ Small contributions (not a spam spelling fix in README) that I did spend some ti
 </div>
 {% endif %}
 
----
+---  -->
 
 ## Personal projects
 
