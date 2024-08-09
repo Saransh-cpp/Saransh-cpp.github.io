@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3>Travel and living grant</h3>
+      <h5><a href="https://indico.cern.ch/event/1375573/">2nd Annual Developer's Workshop on Python in High Energy Physics</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/pyhep-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3>Travel and living bursary</h3>
       <h5><a href="https://rsecon24.society-rse.org">8th Annual Conference for Research Software Engineering</a></h5>
     </td>
@@ -23,9 +40,9 @@ horizontal: false
   </tr>
 </table>
 
-<br>
+<!-- <br> -->
 
-<table>
+<!-- <table>
   <colgroup>
        <col span="1" style="width: 70%;">
        <col span="1" style="width: 30%;">
@@ -55,7 +72,7 @@ horizontal: false
     <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/mitacs-logo.jpg"></td>
     <td></td>
   </tr>
-</table>
+</table> -->
 
 <br>
 
@@ -101,7 +118,7 @@ horizontal: false
   <tr>
     <td>
         <h3>Grant to lead a talk in-person</h3>
-      <h5><a href="https://ep2022.europython.eu/">21st Annual Conference On Python - Europe (EuroPython)</a></h5>
+      <h5><a href="https://ep2022.europython.eu/">21st Annual Conference on Python - Europe (EuroPython)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:80%" src="../assets/img/europython-logo.png"></td>
     <td></td>
@@ -118,7 +135,7 @@ horizontal: false
   <tr>
     <td>
         <h3>Grant to lead a 4 hour workshop in-person</h3>
-      <h5><a href="https://pycon.it/en/">21st Annual Conference On Python - Italy</a></h5>
+      <h5><a href="https://pycon.it/en/">21st Annual Conference on Python - Italy</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:80%" src="../assets/img/pycon-it-logo.png"></td>
     <td></td>
