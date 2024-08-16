@@ -7,9 +7,11 @@ main_repos:
   - pybamm-team/PyBaMM
   - agda/agda-stdlib
   - scikit-hep/awkward
+  - Saransh-cpp/cuda-histogram
   - CoffeaTeam/coffea
-  - osl-incubator/scicookie
   - asmeurer/removestar
+  - UCL/rsd-engineeringcourse
+  - osl-incubator/scicookie
   - pybamm-team/liionpack
   - pybamm-team/BattBot
   - smaranjitghose/DocLense
