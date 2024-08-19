@@ -46,3 +46,4 @@ small_repos:
   - idris-lang/Idris2
   - numpy/numpy
   - astropy/astropy
+  - gallais/dot-analysis

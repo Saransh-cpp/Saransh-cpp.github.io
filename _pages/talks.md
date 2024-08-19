@@ -32,7 +32,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://indi.to/pfTC6" target="_blank">A new SymPy backend for vector: uniting experimental and theoretical physicists </a></h3>
+      <h3><a href="https://indi.to/pfTC6" target="_blank">A new SymPy backend for vector: uniting experimental and theoretical physicists </a><a href="https://www.youtube.com/watch?v=6x1kQy5cQlc&list=PLKZ9c4ONm-VnbQibz2OmG34T-q_0o1nxf&index=17">🎥</a></h3>
       <h5><a href="https://indico.cern.ch/event/1384010/">7th International Workshop on Python in High Energy Physics (PyHEP)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:30%" src="../assets/img/pyhep-logo.png"></td>
