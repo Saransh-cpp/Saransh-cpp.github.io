@@ -7,7 +7,7 @@ main_repos:
   - pybamm-team/PyBaMM
   - agda/agda-stdlib
   - scikit-hep/awkward
-  - Saransh-cpp/cuda-histogram
+  - scikit/cuda-histogram
   - CoffeaTeam/coffea
   - asmeurer/removestar
   - UCL/rsd-engineeringcourse
