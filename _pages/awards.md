@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3><a href="https://www.archer2.ac.uk/ecse/">ARCHER2 GPU Embedded Computational Science and Engineering grant</a> to work on <a href="https://glass.readthedocs.io">GLASS</a></h3>
+      <h5><a href="https://www.epcc.ed.ac.uk/">Edinburgh Parallel Computing Centre, University of Edinburgh</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/epcc-logo.webp"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3>Travel and living grant</h3>
       <h5><a href="https://indico.cern.ch/event/1375573/">2nd Annual Developer's Workshop on Python in High Energy Physics</a></h5>
     </td>
@@ -100,7 +117,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://www.linuxfoundation.org/about/lift-scholarships" target="_blank">Shubhra Kar Linux Foundation Training Scholarship (500 recipients worldwide)</a></h3>
+      <h3><a href="https://www.linuxfoundation.org/about/lift-scholarships" target="_blank">Shubhra Kar Linux Foundation Training Scholarship</a></h3>
       <h5><a href="https://www.linuxfoundation.org">The Linux Foundation</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/linux-foundation-logo.png"></td>

@@ -2,7 +2,7 @@
 layout: page
 title: experiences
 permalink: /experiences/
-description: research, development, positions of responsibility, impact, ...
+description: mostly computational science. machine learning, and research software engineering...
 nav: true
 nav_order: 2
 horizontal: false
@@ -12,7 +12,9 @@ Below are my "formal" work experiences. I also contribute to several open-source
 
 ---
 
-#### TL;DR
+### TL;DR
+
+---
 
 - [Assistant Research Software Engineer](https://profiles.ucl.ac.uk/99635-saransh-chopra) \| August 2024 - Present \| [Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 - [Research Fellow](https://iris-hep.org/about/team) (bachelor's thesis) \| January 2024 - August 2024 \| [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}, [IRIS-HEP](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}
@@ -22,12 +24,18 @@ Below are my "formal" work experiences. I also contribute to several open-source
 - [Google Summer of Code Developer](https://summerofcode.withgoogle.com){:target="_blank"} \| May 2021 - September 2021 \| [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 
 ---
+### Full-time experience
+---
 
 #### [Assistant Research Software Engineer](https://profiles.ucl.ac.uk/99635-saransh-chopra)
 ##### [Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 ###### Dr. Sam Cunliffe
 ###### August 2024 - Present | London, United Kingdom
+- Developing course contents for "[Research Software Engineering with Python](https://github.com/UCL/rsd-engineeringcourse)."
+- Adding GPU (CuPy) and autodiff (JAX) support to full-universe simulations for cosmology ([GLASS](https://glass.readthedocs.io/stable/)).
 
+---
+### Research experience
 ---
 
 #### [Research Fellow](https://iris-hep.org/about/team) (bachelor's thesis)
@@ -35,8 +43,10 @@ Below are my "formal" work experiences. I also contribute to several open-source
 ###### Dr. Jim Pivarski (Princeton University)
 ###### January 2024 - August 2024 | Geneva, Switzerland
 
-- Thesis titled "Computational upgrades to the high energy physics data analysis pipeline for future LHC/HL-LHC runs."
-- Enabled auto-diff in Scikit-HEP; migrated Coffea’s vector algebra backend; implemented non-uniform rebinning (UHI) in boost-histogram; developed a symbolic backend for Vector; prepared Vector for HL-LHC upgrades; developed a new package for histogramming on CUDA.
+- Thesis titled "Computational upgrades to the high energy physics analysis pipeline for future LHC/HL-LHC runs."
+- Added autodiff (JAX) support to Python-based HEP ecosystem, and distributed (Dask) and symbolic (SymPy) computing support to vector manipulations.
+- Implemented non-uniform rebinning for [boost-histogram](https://boost-histogram.readthedocs.io/en/latest/) and developed a new package for [histograms on CUDA](https://cuda-histogram.readthedocs.io/en/latest/).
+Migrated the vector manipulation backend of the analysis framework ([Coffea](https://github.com/CoffeaTeam/coffea)) used at Fermilab and CMS.
 
 ---
 
@@ -45,8 +55,8 @@ Below are my "formal" work experiences. I also contribute to several open-source
 ###### Prof. Jacques Carette
 ###### June 2023 - August 2023 | Hamilton, Ontario, Canada
 
-- Formalised Mathematics and Computing in [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)’s (a dependently typed functional programming language and an interactive theorem prover) standard library using Type Theory, Proof Theory, Functional Programming, and Computational Logic.
-- Refactored the standard library's codebase for v2.0, simplified the dependency graph, fixed various bugs, and added new functions and mathematical proofs.
+- Worked with functional programming, type theory, and logic to add proofs and algorithms for data containers and mathematical operations in [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)'s [standard library](https://github.com/agda/agda-stdlib).
+- Significantly reduced library's compile time by refactoring the existing API and simplifying the dependency graph.
 
 ---
 
@@ -56,8 +66,8 @@ Below are my "formal" work experiences. I also contribute to several open-source
 ###### June 2022 - September 2022 | Remote
 
 <!-- - Work: -->
-- Directly responsible for preparing [vector](https://vector.readthedocs.io/en/latest/){:target="_blank"}, a Python library for constructing Just-In-Time compilable jagged Lorentz vectors, for v0.9.0, v0.10.0, v0.11.0 and v1.0.0 (first major release).
-- Worked closely with researchers from CERN, IRIS-HEP ([Analysis Systems group](https://iris-hep.org){:target="_blank"}), and Princeton ([Princeton Research Computing group](https://researchcomputing.princeton.edu){:target="_blank"}) to develop new API, fix bugs, and build infrastructures for the HEP ecosystem.
+- Co-authored a Python-based Lorentz vector manipulation library with support for ragged data and JIT compilation.
+- Worked on Scientific Python's developer guides and tools, and fixed bugs in the Scikit-HEP ecosystem.
 
 <!-- - Impact:
   - Vector has **50+ GitHub stars** and **210,000+ installs**.
@@ -71,14 +81,16 @@ Below are my "formal" work experiences. I also contribute to several open-source
 
 ---
 
+### Other experience
+---
 #### [Technical Writer and Open-Source Developer](https://julialang.org/jsoc/){:target="_blank"}
 ##### [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
 ###### Mr. Dhairya Gandhi (Julia Computing / JuliaHub)
 ###### May 2022 - October 2022 | Remote (Part-Time)
 
 <!-- - Work: -->
-- Developed the documentation + packaging infrastructure and fixed bugs in FluxML, an ML and DL ecosystem that provides lightweight abstractions on top of Julia’s native GPU and AD support.
-- Wrote original Machine Learning/Deep Learning tutorials, documentation and API references for FluxML's ecosystem.
+<!-- - Developed the documentation + packaging infrastructure and fixed bugs in FluxML, an ML and DL ecosystem that provides lightweight abstractions on top of Julia’s native GPU and AD support.
+- Wrote original Machine Learning/Deep Learning tutorials, documentation and API references for FluxML's ecosystem. -->
 
 <!-- - Impact:
   - FluxML is Julia's primary ML and DL ecosystem with hundreds of thousands of downloads.
@@ -99,9 +111,9 @@ Below are my "formal" work experiences. I also contribute to several open-source
 ###### May 2021 - September 2021 | Remote
 
 <!-- - Work: -->
-- Built a novel Twitter Bot ([BattBot](https://github.com/pybamm-team/BattBot)) capable of automatically constructing Mathematical Simulations of Batteries.
+<!-- - Built a novel Twitter Bot ([BattBot](https://github.com/pybamm-team/BattBot)) capable of automatically constructing Mathematical Simulations of Batteries.
 - Developed new API, fixed bugs, and created new documentation for the PyBaMM ecosystem.
-- Developed the build and packaging infrastructures for the PyBaMM ecosystem and the upstream packages.
+- Developed the build and packaging infrastructures for the PyBaMM ecosystem and the upstream packages. -->
 
 <!-- - Impact:
   - PyBaMM is a collaboration between multiple academic institutes with **550+ GitHub stars** and **300,000+ installs**.

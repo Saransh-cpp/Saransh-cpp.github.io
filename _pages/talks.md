@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3><a href="https://indico.cern.ch/event/1457685/#3-saransh-chopra-computational" target="_blank">Computational upgrades to the high energy physics analysis pipeline for future LHC/HL-LHC runs</a></h3>
+      <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting (Gap Year Final Presentations)</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:50%" src="../assets/img/iris-hep-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3><a href="https://www.linkedin.com/posts/lean-in-igdtuw_leanin-igdtuw-college-activity-7237792561896005632-W09w?utm_source=share&utm_medium=member_desktop" target="_blank">Fork & Fix: Open Source odyssey</a></h3>
       <h5><a href="https://linktr.ee/Lean_In__IGDTUW">Fresher's week - Lean In @ IGDTUW</a></h5>
     </td>
