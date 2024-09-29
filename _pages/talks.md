@@ -15,7 +15,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://indico.cern.ch/event/1457685/#3-saransh-chopra-computational" target="_blank">Computational upgrades to the high energy physics analysis pipeline for future LHC/HL-LHC runs</a></h3>
+      <h3><a href="https://indico.cern.ch/event/1457685/#3-saransh-chopra-computational" target="_blank">Computational upgrades to the high energy physics analysis pipeline for future LHC/HL-LHC runs </a><a href="https://www.youtube.com/watch?v=aVPhP_APhqw">🎥</a></h3>
       <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting (Gap Year Final Presentations)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:50%" src="../assets/img/iris-hep-logo.png"></td>
@@ -151,7 +151,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="#" target="_blank">Open-source and open-source programs</a></h3>
+      <h3><a href="#" target="_blank">Open-source and open-source programs </a><a href="https://www.youtube.com/watch?v=x0j67m06X6s">🎥</a></h3>
       <h5><a href="https://community.cncf.io/events/details/cncf-noida-presents-gta-ghaziabad-lets-fork-together/">GTA Ghaziabad: Let's Fork Together</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:35%" src="../assets/img/gta-ghaziabad-logo.jpg"></td>
@@ -274,6 +274,23 @@ horizontal: false
       <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting (Fellows Lightning Talks)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/iris-hep-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 75%;">
+       <col span="1" style="width: 25%;">
+  </colgroup>
+  <tr>
+    <td>
+      <h3>Introduction to Git and GitHub <a href="https://www.youtube.com/watch?v=d0oEVdmIzo0">🎥</a></h3>
+      <h5><a href="https://www.iitm.ac.in">IIT Madras</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/pybamm-logo.png"></td>
     <td></td>
   </tr>
 </table>
