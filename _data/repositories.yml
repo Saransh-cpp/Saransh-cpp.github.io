@@ -18,6 +18,7 @@ main_repos:
   - conda-forge/vector-feedstock
   - conda-forge/removestar-feedstock
   - conda-forge/pybamm-feedstock
+  - conda-forge/cuda_histogram-feedstock
 
 project_repos:
   - Saransh-cpp/polarising-content-on-indian-youtube-near-elections
