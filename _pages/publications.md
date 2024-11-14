@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications and citeable scientific software
+description: publications, conference proceedings and reports, citeable scientific software, ...
 years: [2022, 2024]
 nav: true
 nav_order: 4
