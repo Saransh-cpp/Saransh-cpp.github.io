@@ -9,12 +9,14 @@ main_repos:
   - scikit-hep/awkward
   - scikit-hep/cuda-histogram
   - CoffeaTeam/coffea
+  - glass-dev/glass
   - asmeurer/removestar
   - UCL/rsd-engineeringcourse
   - osl-incubator/scicookie
   - pybamm-team/liionpack
   - pybamm-team/BattBot
   - smaranjitghose/DocLense
+  - conda-forge/cuda_histogram-feedstock
   - conda-forge/vector-feedstock
   - conda-forge/removestar-feedstock
   - conda-forge/pybamm-feedstock
