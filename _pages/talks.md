@@ -8,6 +8,23 @@ nav_order: 6
 horizontal: false
 ---
 
+<!-- <table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
+      <h3>An introduction to scientific and high performance computing [invited]</h3>
+      <h5><a href="https://www.linkedin.com/company/ieee-gu/">IEEE @ Galgotias University</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/galgotias-logo.webp"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br> -->
+
 <table>
   <colgroup>
        <col span="1" style="width: 70%;">
@@ -32,8 +49,8 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://www.linkedin.com/posts/lean-in-igdtuw_leanin-igdtuw-college-activity-7237792561896005632-W09w?utm_source=share&utm_medium=member_desktop" target="_blank">Fork & Fix: Open Source odyssey</a></h3>
-      <h5><a href="https://linktr.ee/Lean_In__IGDTUW">Fresher's week - Lean In @ IGDTUW</a></h5>
+      <h3><a href="https://www.linkedin.com/posts/lean-in-igdtuw_leanin-igdtuw-college-activity-7237792561896005632-W09w?utm_source=share&utm_medium=member_desktop" target="_blank">Fork & Fix: Open Source odyssey [invited]</a></h3>
+      <h5><a href="https://linktr.ee/Lean_In__IGDTUW">Lean In @ Indira Gandhi Delhi Technical University for Women</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/leanin-logo.jpeg"></td>
     <td></td>
@@ -151,7 +168,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="#" target="_blank">Open-source and open-source programs </a><a href="https://www.youtube.com/watch?v=x0j67m06X6s">🎥</a></h3>
+      <h3><a href="#" target="_blank">Open-source and open-source programs [invited] </a><a href="https://www.youtube.com/watch?v=x0j67m06X6s">🎥</a></h3>
       <h5><a href="https://community.cncf.io/events/details/cncf-noida-presents-gta-ghaziabad-lets-fork-together/">GTA Ghaziabad: Let's Fork Together</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:35%" src="../assets/img/gta-ghaziabad-logo.jpg"></td>
@@ -287,10 +304,10 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3>Introduction to Git and GitHub <a href="https://www.youtube.com/watch?v=d0oEVdmIzo0">🎥</a></h3>
-      <h5><a href="https://www.iitm.ac.in">IIT Madras</a></h5>
+      <h3>Introduction to Git and GitHub [invited] <a href="https://www.youtube.com/watch?v=d0oEVdmIzo0">🎥</a></h3>
+      <h5><a href="https://www.iitm.ac.in">Indin Institute of Technology (IIT) Madras</a></h5>
     </td>
-    <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/pybamm-logo.png"></td>
+    <td style="text-align: center"><img style="float: middle; width:35%" src="../assets/img/iitm-logo.png"></td>
     <td></td>
   </tr>
 </table>
