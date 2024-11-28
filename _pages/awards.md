@@ -178,7 +178,7 @@ horizontal: false
 
 <br>
 
-<table>
+<!-- <table>
   <colgroup>
        <col span="1" style="width: 75%;">
        <col span="1" style="width: 25%;">
@@ -193,7 +193,7 @@ horizontal: false
   </tr>
 </table>
 
-<br>
+<br> -->
 
 <table>
   <colgroup>
@@ -219,7 +219,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3>Discovered an asteroid having a fixed orbit around Sun by analyzing astronomical data</h3>
+      <h3><a href="https://space-india.com/outreach/all-india-asteroid-search-campaign/">Discovered an asteroid having a fixed orbit around Sun by analyzing astronomical data</a></h3>
       <h5><a href="http://iasc.cosmosearch.org">International Astronomical Search Campaign</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/pan-starrs-logo.png"></td>
