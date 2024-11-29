@@ -34,7 +34,6 @@ project_repos:
   - Saransh-cpp/SceneNet
   - Saransh-cpp/ForMente
   - Saransh-cpp/ForMente-onWeb
-  - Saransh-cpp/riemapp
   - Saransh-cpp/rv-warmup
 
 significant_repos:
