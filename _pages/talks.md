@@ -8,14 +8,14 @@ nav_order: 6
 horizontal: false
 ---
 
-<!-- <table>
+<table>
   <colgroup>
        <col span="1" style="width: 70%;">
        <col span="1" style="width: 30%;">
   </colgroup>
   <tr>
     <td>
-      <h3>An introduction to scientific and high performance computing [invited]</h3>
+      <h3><a href="https://lu.ma/7odgx0q0" target="_blank">An introduction to scientific and high performance computing [invited]</a></h3>
       <h5><a href="https://www.linkedin.com/company/ieee-gu/">IEEE @ Galgotias University</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/galgotias-logo.webp"></td>
@@ -23,7 +23,7 @@ horizontal: false
   </tr>
 </table>
 
-<br> -->
+<br>
 
 <table>
   <colgroup>
