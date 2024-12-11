@@ -31,8 +31,8 @@ Below are my "formal" work experiences. I also contribute to several open-source
 ##### [Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 ###### Dr. Sam Cunliffe
 ###### August 2024 - Present | London, United Kingdom
-- Developing course contents and jekyll/pyodide infrastructure for "[Research Software Engineering with Python](https://github.com/UCL/rsd-engineeringcourse)."
-- Adding GPU (CuPy) and autodiff (JAX) support to full-universe simulations for cosmology ([GLASS](https://glass.readthedocs.io/stable/)).
+- Adding GPU (CUDA) support to large-scale cosmological simulations for ESA's Euclid space mission ([GLASS](https://glass.readthedocs.io/stable/)).
+- Developing auto differentiation support for large-scale cosmological simulations.
 
 ---
 ### Research experience

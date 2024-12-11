@@ -12,6 +12,15 @@ My work on open-source software can also be considered a voluntary position. For
 
 ---
 
+#### [University College London](https://www.ucl.ac.uk){:target="_blank"}
+###### August 2024 -- present | London, UK
+
+- Developed contents and pyodide/jekyll infrastructure for the graduate-level "Research Software Engineering with Python" course.
+- Tutor for the graduate-level "Research Software Engineering with Python" course.
+- Tutor for "Learning Julia - a programming language for scientific computing" workshop.
+
+---
+
 #### [Google Summer of Code](https://summerofcode.withgoogle.com){:target="_blank"}
 ##### [Open Science Labs (OSL)](https://opensciencelabs.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 ###### May - September 2024 | Remote
