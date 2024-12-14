@@ -15,20 +15,15 @@
   image = {../assets/img/liionpack.png}
 }
 
-@software{schreiner_henry_2022_7051688,
-  author       = {Schreiner, Henry and
-                  Pivarski, Jim and
-                  Chopra, Saransh},
-  title        = {vector: vector utilities and classes},
-  month        = sep,
-  note         = {{Please cite the following works when using this
-                   software.}},
-  publisher    = {Zenodo},
-  version      = {v0.9.0},
+@article{schreiner_henry_2022_7051688,
+  author       = {Chopra*, Saransh and Schreiner*, Henry and
+                  Pivarski*, Jim},
+  title        = {Vector: mathematical manipulations of JIT-compilable ragged Lorentz vectors},
+  journal    = {Journal of Open Source Software (under review)},
   doi          = {10.5281/zenodo.7051688},
-  url          = {https://doi.org/10.5281/zenodo.7051688},
+  url          = {https://github.com/scikit-hep/vector},
   selected = {true},
-  year = {2022},
+  year = {2024},
   abstract = {Vector is a Python 3.7+ library for 2D, 3D, and Lorentz vectors, especially arrays of vectors, to solve common physics problems in a NumPy-like way.
 
       Main features of Vector:
@@ -36,9 +31,10 @@
       1. Pure Python with NumPy as its only dependency. This makes it easier to install.
       2. Vectors may be represented in a variety of coordinate systems: Cartesian, cylindrical, pseudorapidity, and any combination of these with time or proper time for Lorentz vectors. In all, there are 12 coordinate systems: {x-y vs ρ-φ in the azimuthal plane} × {z vs θ vs η longitudinally} × {t vs τ temporally}.
       3. Uses names and conventions set by ROOT's TLorentzVector and Math::LorentzVector, as well as scikit-hep/math, uproot-methods TLorentzVector, henryiii/hepvector, and coffea.nanoevents.methods.vector.
-      Implemented on a variety of backends: pure Python objects, NumPy arrays of vectors (as a structured array subclass), Awkward Arrays of vectors, potential for more: CuPy, TensorFlow, Torch, JAX...
-      4. NumPy/Awkward backends also implemented in Numba for JIT-compiled calculations on vectors.
-      5. Distinction between geometrical vectors, which have a minimum of attribute and method names, and vectors representing momentum, which have synonyms like pt = rho, energy = t, mass = tau.
+      4. Implemented on a variety of backends: pure Python objects, SymPy vectors, NumPy arrays of vectors (as a structured array subclass), and Awkward Arrays of vectors
+      5. Object/Awkward backends also implemented in Numba for JIT-compiled calculations on vectors.
+      6. JAX and Dask support through Awkward Arrays.
+      7. Distinction between geometrical vectors, which have a minimum of attribute and method names, and vectors representing momentum, which have synonyms like pt = rho, energy = t, mass = tau.
     },
   html = {https://doi.org/10.5281/zenodo.7671687},
 }
