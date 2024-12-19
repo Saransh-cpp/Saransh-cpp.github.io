@@ -41,6 +41,7 @@ project_repos:
   - Saransh-cpp/ForMente
   - Saransh-cpp/ForMente-onWeb
   - Saransh-cpp/rv-warmup
+  - Saransh-cpp/IdrisButNotAgda
 
 significant_repos:
   - zarr-developers/zarr-python
