@@ -8,25 +8,27 @@ main_repos:
   - agda/agda-stdlib
   - scikit-hep/awkward
   - scikit-hep/cuda-histogram
-  - CoffeaTeam/coffea
+  - scikit-hep/boost-histogram
+  - scikit-hep/coffea
   - glass-dev/glass
   - asmeurer/removestar
   - UCL/rsd-engineeringcourse
+  - UCL-ARC/rsd-summerschool
   - osl-incubator/scicookie
   - pybamm-team/liionpack
   - pybamm-team/BattBot
   - smaranjitghose/DocLense
-  - conda-forge/cuda_histogram-feedstock
-  - conda-forge/vector-feedstock
-  - conda-forge/removestar-feedstock
-  - conda-forge/pybamm-feedstock
-  - conda-forge/devtools-feedstock
-  - conda-forge/bpx-feedstock
-  - conda-forge/flt-feedstock
-  - conda-forge/cosmology-feedstock
-  - conda-forge/transformcl-feedstock
-  - conda-forge/gaussiancl-feedstock
-  - conda-forge/glass-feedstock
+  # - conda-forge/cuda_histogram-feedstock
+  # - conda-forge/vector-feedstock
+  # - conda-forge/removestar-feedstock
+  # - conda-forge/pybamm-feedstock
+  # - conda-forge/devtools-feedstock
+  # - conda-forge/bpx-feedstock
+  # - conda-forge/flt-feedstock
+  # - conda-forge/cosmology-feedstock
+  # - conda-forge/transformcl-feedstock
+  # - conda-forge/gaussiancl-feedstock
+  # - conda-forge/glass-feedstock
 
 project_repos:
   - Saransh-cpp/polarising-content-on-indian-youtube-near-elections
@@ -40,19 +42,29 @@ project_repos:
   - Saransh-cpp/SceneNet
   - Saransh-cpp/ForMente
   - Saransh-cpp/ForMente-onWeb
-  - Saransh-cpp/rv-warmup
-  - Saransh-cpp/IdrisButNotAgda
 
 significant_repos:
   - zarr-developers/zarr-python
   - lululxvi/DeepXDE
-  - scikit-hep/cookie
+  - scientific-python/cookie
 
-small_repos:
-  - bmcage/odes
-  - sosy-lab/benchexec
-  - colour-science/colour
-  - idris-lang/Idris2
-  - numpy/numpy
-  - astropy/astropy
-  - gallais/dot-analysis
+talk_misc_repos:
+  - Saransh-cpp/CHEP24-vector-sympy-backend
+  - Saransh-cpp/PyHEP24-vector-sympy-backend
+  - Saransh-cpp/ACAT22-vector-awkward-numba
+  - Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector
+  - Saransh-cpp/rv-warmup
+  - Saransh-cpp/IdrisButNotAgda
+  - Saransh-cpp/ResearchPrograms
+  - Saransh-cpp/Papers
+  # - Saransh-cpp/DSA
+  # - Saransh-cpp/LearningProjects
+
+# small_repos:
+#   - bmcage/odes
+#   - sosy-lab/benchexec
+#   - colour-science/colour
+#   - idris-lang/Idris2
+#   - numpy/numpy
+#   - astropy/astropy
+#   - gallais/dot-analysis

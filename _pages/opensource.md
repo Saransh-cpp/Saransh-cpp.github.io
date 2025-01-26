@@ -11,6 +11,8 @@ nav_order: 3
 
 Below is a list of projects I am involved with (as a maintainer, member, core-developer, contributor). I do NOT maintain all of the projects listed below. In fact, I am not even a "collaborator" for some of the projects mentioned here, but all of these projects have some significant contributions from me. I also voluntarily supervise students for programs like **[Google Summer of Code](https://summerofcode.withgoogle.com)**.
 
+Rest of my contributions on GitHub are scattered across Numerical Computing and HPC (Scientific Python + PyData + NumFOCUS affiliated) libraries.
+
 ---
 
 ## GitHub user
@@ -36,6 +38,10 @@ The software I am (or was) involved with as a maintainer, core developer, core c
   {% endfor %}
 </div>
 {% endif %}
+
+<br>
+
+and [several conda feedstocks](https://github.com/conda-forge/staged-recipes/pulls?q=is%3Apr+author%3ASaransh-cpp+is%3Aclosed).
 
 ---
 
@@ -82,6 +88,20 @@ Personal projects that have some significant number stars or downloads (or took 
 {% if site.data.repositories.project_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-around align-items-center">
   {% for repo in site.data.repositories.project_repos %}
+    {% include repository/repo.html repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
+
+---
+
+## Misc repositories
+
+Talks, coding experiments, helper repositories that people might be interested in, ...
+
+{% if site.data.repositories.main_repos %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-around align-items-center">
+  {% for repo in site.data.repositories.talk_misc_repos %}
     {% include repository/repo.html repository=repo %}
   {% endfor %}
 </div>

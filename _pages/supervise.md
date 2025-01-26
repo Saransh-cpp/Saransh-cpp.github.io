@@ -15,6 +15,7 @@ My work on open-source software can also be considered a voluntary position. For
 #### [University College London](https://www.ucl.ac.uk){:target="_blank"}
 ###### August 2024 -- present | London, UK
 
+- Led the development of the curriculum and pyodide/jekyll infrastructure for the first-ever "Research Software Engineering Summer School" organised at UCL.
 - Developed contents and pyodide/jekyll infrastructure for the graduate-level "Research Software Engineering with Python" course.
 - Tutor for the graduate-level "Research Software Engineering with Python" course.
 - Tutor for "Learning Julia - a programming language for scientific computing" workshop.
