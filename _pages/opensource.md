@@ -41,7 +41,7 @@ The software I am (or was) involved with as a maintainer, core developer, core c
 
 <br>
 
-and [several conda feedstocks](https://github.com/conda-forge/staged-recipes/pulls?q=is%3Apr+author%3ASaransh-cpp+is%3Aclosed).
+and [several conda feedstocks](https://github.com/orgs/conda-forge/teams?query=@Saransh-cpp).
 
 ---
 
