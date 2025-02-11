@@ -8,7 +8,7 @@ nav_order: 2
 horizontal: false
 ---
 
-Below are my "formal" work experiences. I also contribute to several open-source scientific software, and I consider that as an "experience" too (see **[/opensource](/opensource)**). I have also mentored several students and researchers who are new at writing code for research/scientific software (see **[/service](/service)**).
+Below are my "formal" work experiences. I also contribute to several open-source scientific software, and I consider that as an "experience" too (see **[/opensource](/opensource)**). I have also mentored several students and researchers who are new at writing code for research/scientific software (see **[/teaching](/teaching)**).
 
 ---
 

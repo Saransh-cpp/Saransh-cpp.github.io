@@ -1,7 +1,7 @@
 ---
 layout: page
-title: awards
-permalink: /awards/
+title: grants
+permalink: /grants/
 description: awards, grants, achievements, prizes ...
 nav: true
 nav_order: 7

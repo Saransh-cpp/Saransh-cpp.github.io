@@ -1,7 +1,7 @@
 ---
 layout: page
-title: service
-permalink: /service/
+title: teaching
+permalink: /teaching/
 description: supervising, mentoring, volunteering, teaching, positions of responsibility, ...
 nav: true
 nav_order: 5
@@ -12,13 +12,20 @@ My work on open-source software can also be considered a voluntary position. For
 
 ---
 
+#### [PyBaMM Battery Modelling Conference](https://www.pybmc.com/training){:target="_blank"}
+###### February 2025 | London, UK
+
+- Helper/TA for the [PyBaMM training course](https://train.rse.ox.ac.uk/material/HPCu/libraries/pybamm-developer) delivered on the last day of the conference.
+
+---
+
 #### [University College London](https://www.ucl.ac.uk){:target="_blank"}
 ###### August 2024 -- present | London, UK
 
-- Led the development of the curriculum and pyodide/jekyll infrastructure for the first-ever "Research Software Engineering Summer School" organised at UCL.
-- Developed contents and pyodide/jekyll infrastructure for the graduate-level "Research Software Engineering with Python" course.
+- Led the development of the curriculum and pyodide/jekyll infrastructure for the first-ever "[Research Software Engineering Summer School](https://github.com/UCL-ARC/rsd-summerschool)" organised at UCL.
+- Developed contents and pyodide/jekyll infrastructure for the graduate-level "[Research Software Engineering with Python](https://github.com/UCL/rsd-engineeringcourse)" course.
 - Tutor for the graduate-level "Research Software Engineering with Python" course.
-- Tutor for "Learning Julia - a programming language for scientific computing" workshop.
+- Tutor for "[Learning Julia - a programming language for scientific computing](https://github-pages.arc.ucl.ac.uk/2024-11-08-julia-workshop/)" workshop.
 
 ---
 
