@@ -22,5 +22,5 @@ repos:
     rev: v2.3.0
     hooks:
       - id: codespell
-        args: ['-Lrouge,Rouge']
+        args: ['-Lrouge,Rouge,demographical,FO']
         exclude: ^assets/
