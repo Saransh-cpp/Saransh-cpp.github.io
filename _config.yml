@@ -85,7 +85,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  I like talking about open-source, open science, and scientific software!
+  talk to me about open-source, open science, and scientific software!
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -98,7 +98,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 blog_name: WhiteViolin # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: I like writing about my experiences and my experiments!
+blog_description: likes writing about my experiences and my experiments
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -230,7 +230,9 @@ display_tags: [
   'dart',
   'android',
   'canada',
-  'mitacs'
+  'mitacs',
+  'open-source',
+  'eu'
 ] # this tags will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------

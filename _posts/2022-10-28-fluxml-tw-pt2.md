@@ -3,7 +3,7 @@ layout: post
 title:  My experience working as a Technical Writer with FluxML - Part 2
 date:   2022-10-28
 description: One thing that open-source can’t get enough of is documentation!
-tags: fluxml julia machine-learning technical-writing
+tags: fluxml julia machine-learning technical-writing open-source
 categories: experience
 ---
 
