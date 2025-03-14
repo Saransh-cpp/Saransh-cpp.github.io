@@ -2,13 +2,20 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: supervising, mentoring, volunteering, teaching, positions of responsibility, ...
+description: teaching, supervising, mentoring, service, volunteering, positions of responsibility, ...
 nav: true
 nav_order: 5
 horizontal: false
 ---
 
 My work on open-source software can also be considered a voluntary position. For a list of open-source software that I am involved with, please see **[/opensource](/opensource)**.
+
+---
+
+#### [27th International Conference on Computing in High Energy and Nuclear Physics](https://indico.cern.ch/event/1338689/){:target="_blank"}
+###### March 2025 | Remote
+
+- Paper (proceedings) reviewer.
 
 ---
 
@@ -22,6 +29,9 @@ My work on open-source software can also be considered a voluntary position. For
 #### [University College London](https://www.ucl.ac.uk){:target="_blank"}
 ###### August 2024 -- present | London, UK
 
+- Involved in the organisation/helping team of a few events - [ARC ❤ Google Summer of Code](https://blogs.ucl.ac.uk/research-software-development/arc-❤-google-summer-of-code/), [FOSDEM retro](https://blogs.ucl.ac.uk/research-software-development/chaosscon-and-fosdem-open-source-health-and-waffles/), ...
+- Organiser of the [TechSocial series](https://www.ucl.ac.uk/advanced-research-computing/techsocial-series) (UCL Research Programming Technical Social series).
+- Organiser of "Healing Through Collaboration: Open-Source Software in Surgical, Biomedical and AI Technologies" workshop under the [Hamlyn Symposium on Medical Robotics 2025](https://www.hamlynsymposium.org) at the Royal Geographical Society, Imperial College London.
 - Led the development of the curriculum and pyodide/jekyll infrastructure for the first-ever "[Research Software Engineering Summer School](https://github.com/UCL-ARC/rsd-summerschool)" organised at UCL.
 - Developed contents and pyodide/jekyll infrastructure for the graduate-level "[Research Software Engineering with Python](https://github.com/UCL/rsd-engineeringcourse)" course.
 - Tutor for the graduate-level "Research Software Engineering with Python" course.
