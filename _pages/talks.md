@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3><a href="https://indi.to/8WZTS" target="_blank">Differentiable Computation with Awkward Array and JAX [upcoming]</a></h3>
+      <h5><a href="https://indico.cern.ch/event/1481852/">5th MODE workshop on Differentiable Programming for Experiment Design</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/mode-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3><a href="https://lu.ma/7odgx0q0" target="_blank">An introduction to scientific and high performance computing [invited]</a></h3>
       <h5><a href="https://www.linkedin.com/company/ieee-gu/">IEEE @ Galgotias University</a></h5>
     </td>
