@@ -1,42 +1,56 @@
-@article{Tranter2022,
-  doi = {10.21105/joss.04051},
-  url = {https://doi.org/10.21105/joss.04051},
-  year = {2022},
-  publisher = {The Open Journal},
-  volume = {7},
-  number = {70},
-  pages = {4051},
-  author = {Thomas G. Tranter and Robert Timms and Valentin Sulzer and Ferran Brosa Planella and Gavin M. Wiggins and Suryanarayana V. Karra and Priyanshu Agarwal and Saransh Chopra and Srikanth Allu and Paul R. Shearing and Dan J. l. Brett},
-  title = {liionpack: A Python package for simulating packs of batteries with PyBaMM},
-  journal = {Journal of Open Source Software},
-  selected = {true},
-  abstract = {Electrification of transport and other energy intensive activities is of growing importance as it provides an underpinning method to reduce carbon emissions. With an increase in reliance on renewable sources of energy and a reduction in the use of more predictable fossil fuels in both stationary and mobile applications, energy storage will play a pivotal role and batteries are currently the most widely adopted and versatile form. Therefore, understanding how batteries work, how they degrade, and how to optimize and manage their operation at large scales is critical to achieving emission reduction targets. The electric vehicle (EV) industry requires a considerable number of batteries even for a single vehicle, sometimes numbering in the thousands if smaller cells are used, and the dynamics and degradation of these systems, as well as large stationary power systems, is not that well understood. As increases in the efficiency of a single battery become diminishing for standard commercially available chemistries, gains made at the system level become more important and can potentially be realised more quickly compared with developing new chemistries. Mathematical models and simulations provide a way to address these challenging questions and can aid the engineer and designers of batteries and battery management systems to provide longer lasting and more efficient energy storage systems.},
-  html = {https://joss.theoj.org/papers/10.21105/joss.04051},
-  image = {../assets/img/liionpack.png}
+@article{Chopra2025,
+doi = {10.21105/joss.07791},
+url = {https://doi.org/10.21105/joss.07791},
+year = {2025},
+publisher = {The Open Journal},
+volume = {10},
+number = {109},
+pages = {7791},
+author = {Saransh Chopra and Henry Schreiner and Eduardo Rodrigues and Jonas Eschle and Jim Pivarski},
+title = {Vector: JIT-compilable mathematical manipulations of ragged Lorentz vectors},
+journal = {Journal of Open Source Software},
+selected = {true},
+abstract = {Mathematical manipulation of vectors is a crucial component of data analysis pipelines in high
+energy physics, enabling physicists to transform raw data into meaningful results that can be
+visualized. More specifically, high energy physicists work with 2D and 3D Euclidean vectors, and
+4D Lorentz vectors that can be used as physical quantities, such as position, momentum, and
+forces. Given that high energy physics data are not uniform, vector manipulation frameworks or
+libraries are expected to work readily on non-uniform or ragged data, data with variable-sized
+rows (or a nested data structure with variable-sized entries); thus, the library is expected to
+perform operations on an entire ragged structure in minimum passes. Furthermore, optimizing
+memory usage and processing time has become essential with the increasing computational
+demands at the Large Hadron Collider (LHC), the world's largest particle accelerator. Vector
+is a Python library for creating and manipulating 2D, 3D, and Lorentz vectors, especially
+arrays of vectors, to solve common physics problems in a NumPy-like (Harris et al., 2020) way.
+The library enables physicists to operate on high energy physics data in a high level language
+without compromising speed. The library is already in use at LHC and is a part of frameworks,
+like Coffea (Gray et al., 2023), employed by physicists across multiple high energy physics
+experiments.},
+html = {https://www.theoj.org/joss-papers/joss.07791/10.21105.joss.07791.pdf}
 }
 
-@article{schreiner_henry_2022_7051688,
-  author       = {Chopra*, Saransh and Schreiner*, Henry and
-                  Pivarski*, Jim},
-  title        = {Vector: mathematical manipulations of JIT-compilable ragged Lorentz vectors},
-  journal    = {Journal of Open Source Software (under review)},
-  doi          = {10.5281/zenodo.7051688},
-  url          = {https://github.com/scikit-hep/vector},
-  selected = {true},
-  year = {2024},
-  abstract = {Vector is a Python 3.7+ library for 2D, 3D, and Lorentz vectors, especially arrays of vectors, to solve common physics problems in a NumPy-like way.
-
-      Main features of Vector:
-
-      1. Pure Python with NumPy as its only dependency. This makes it easier to install.
-      2. Vectors may be represented in a variety of coordinate systems: Cartesian, cylindrical, pseudorapidity, and any combination of these with time or proper time for Lorentz vectors. In all, there are 12 coordinate systems: {x-y vs ρ-φ in the azimuthal plane} × {z vs θ vs η longitudinally} × {t vs τ temporally}.
-      3. Uses names and conventions set by ROOT's TLorentzVector and Math::LorentzVector, as well as scikit-hep/math, uproot-methods TLorentzVector, henryiii/hepvector, and coffea.nanoevents.methods.vector.
-      4. Implemented on a variety of backends: pure Python objects, SymPy vectors, NumPy arrays of vectors (as a structured array subclass), and Awkward Arrays of vectors
-      5. Object/Awkward backends also implemented in Numba for JIT-compiled calculations on vectors.
-      6. JAX and Dask support through Awkward Arrays.
-      7. Distinction between geometrical vectors, which have a minimum of attribute and method names, and vectors representing momentum, which have synonyms like pt = rho, energy = t, mass = tau.
-    },
-  html = {https://doi.org/10.5281/zenodo.7671687},
+@misc{alshehri2024pyhepdev2024workshopsummary,
+      title={PyHEP.dev 2024 Workshop Summary Report, August 26-30 2024, Aachen, Germany},
+      author={Azzah Alshehri and Jan Bürger and Saransh Chopra and Niclas Eich and Jonas Eppelt and Martin Erdmann and Jonas Eschle and Peter Fackeldey and Maté Farkas and Matthew Feickert and Tristan Fillinger and Benjamin Fischer and Lino Oscar Gerlach and Nikolai Hartmann and Alexander Heidelbach and Alexander Held and Marian I Ivanov and Josué Molina and Yaroslav Nikitenko and Ianna Osborne and Vincenzo Eduardo Padulano and Jim Pivarski and Cyrille Praz and Marcel Rieger and Eduardo Rodrigues and Oksana Shadura and Juraj Smieško and Giordon Holtsberg Stark and Judith Steinfeld and Angela Warkentin},
+      year={2024},
+      eprint={2410.02112},
+      archivePrefix={arXiv},
+      primaryClass={hep-ex},
+      url={https://arxiv.org/abs/2410.02112},
+      abstract = {The second PyHEP.dev workshop, part of the “Python in HEP Developers” series organized
+      by the HEP Software Foundation (HSF), took place in Aachen, Germany, from August 26 to
+      30, 2024. This gathering brought together nearly 30 Python package developers, maintainers, and
+      power users to engage in informal discussions about current trends in Python, with a primary focus
+      on analysis tools and techniques in High Energy Physics (HEP).
+      The workshop agenda encompassed a range of topics, such as defining the scope of HEP data analysis,
+      exploring the Analysis Grand Challenge project, evaluating statistical models and serialization
+      methods, assessing workflow management systems, examining histogramming practices, and investigating
+      distributed processing tools like RDataFrame, Coffea, and Dask. Additionally, the workshop
+      dedicated time to brainstorming the organization of future PyHEP.dev events, upholding the tradition
+      of alternating between Europe and the United States as host locations.
+      This document, prepared by the session conveners in the weeks following the workshop, serves as
+      a summary of the key discussions, salient points, and conclusions that emerged.},
+      html = {https://arxiv.org/pdf/2410.02112},
 }
 
 @article{KAUSHIK2024107404,
@@ -62,26 +76,19 @@ Utilizing XG Boost and SVC-based machine learning classifier, we successfully fo
 html = {https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fc%2F1jPfI3HDXalnMc/1/01020190a3425c8b-4ea216f4-d488-4fc3-89b8-5cfe14c22796-000000/KPbVIQFM6c8BF0YCFpecDTKZk6I=382},
 }
 
-@misc{alshehri2024pyhepdev2024workshopsummary,
-      title={PyHEP.dev 2024 Workshop Summary Report, August 26-30 2024, Aachen, Germany},
-      author={Azzah Alshehri and Jan Bürger and Saransh Chopra and Niclas Eich and Jonas Eppelt and Martin Erdmann and Jonas Eschle and Peter Fackeldey and Maté Farkas and Matthew Feickert and Tristan Fillinger and Benjamin Fischer and Lino Oscar Gerlach and Nikolai Hartmann and Alexander Heidelbach and Alexander Held and Marian I Ivanov and Josué Molina and Yaroslav Nikitenko and Ianna Osborne and Vincenzo Eduardo Padulano and Jim Pivarski and Cyrille Praz and Marcel Rieger and Eduardo Rodrigues and Oksana Shadura and Juraj Smieško and Giordon Holtsberg Stark and Judith Steinfeld and Angela Warkentin},
-      year={2024},
-      eprint={2410.02112},
-      archivePrefix={arXiv},
-      primaryClass={hep-ex},
-      url={https://arxiv.org/abs/2410.02112},
-      abstract = {The second PyHEP.dev workshop, part of the “Python in HEP Developers” series organized
-      by the HEP Software Foundation (HSF), took place in Aachen, Germany, from August 26 to
-      30, 2024. This gathering brought together nearly 30 Python package developers, maintainers, and
-      power users to engage in informal discussions about current trends in Python, with a primary focus
-      on analysis tools and techniques in High Energy Physics (HEP).
-      The workshop agenda encompassed a range of topics, such as defining the scope of HEP data analysis,
-      exploring the Analysis Grand Challenge project, evaluating statistical models and serialization
-      methods, assessing workflow management systems, examining histogramming practices, and investigating
-      distributed processing tools like RDataFrame, Coffea, and Dask. Additionally, the workshop
-      dedicated time to brainstorming the organization of future PyHEP.dev events, upholding the tradition
-      of alternating between Europe and the United States as host locations.
-      This document, prepared by the session conveners in the weeks following the workshop, serves as
-      a summary of the key discussions, salient points, and conclusions that emerged.},
-      html = {https://arxiv.org/pdf/2410.02112},
+@article{Tranter2022,
+  doi = {10.21105/joss.04051},
+  url = {https://doi.org/10.21105/joss.04051},
+  year = {2022},
+  publisher = {The Open Journal},
+  volume = {7},
+  number = {70},
+  pages = {4051},
+  author = {Thomas G. Tranter and Robert Timms and Valentin Sulzer and Ferran Brosa Planella and Gavin M. Wiggins and Suryanarayana V. Karra and Priyanshu Agarwal and Saransh Chopra and Srikanth Allu and Paul R. Shearing and Dan J. l. Brett},
+  title = {liionpack: A Python package for simulating packs of batteries with PyBaMM},
+  journal = {Journal of Open Source Software},
+  selected = {true},
+  abstract = {Electrification of transport and other energy intensive activities is of growing importance as it provides an underpinning method to reduce carbon emissions. With an increase in reliance on renewable sources of energy and a reduction in the use of more predictable fossil fuels in both stationary and mobile applications, energy storage will play a pivotal role and batteries are currently the most widely adopted and versatile form. Therefore, understanding how batteries work, how they degrade, and how to optimize and manage their operation at large scales is critical to achieving emission reduction targets. The electric vehicle (EV) industry requires a considerable number of batteries even for a single vehicle, sometimes numbering in the thousands if smaller cells are used, and the dynamics and degradation of these systems, as well as large stationary power systems, is not that well understood. As increases in the efficiency of a single battery become diminishing for standard commercially available chemistries, gains made at the system level become more important and can potentially be realised more quickly compared with developing new chemistries. Mathematical models and simulations provide a way to address these challenging questions and can aid the engineer and designers of batteries and battery management systems to provide longer lasting and more efficient energy storage systems.},
+  html = {https://joss.theoj.org/papers/10.21105/joss.04051},
+  image = {../assets/img/liionpack.png}
 }
