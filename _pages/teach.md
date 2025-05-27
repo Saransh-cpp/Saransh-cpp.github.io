@@ -12,6 +12,13 @@ My work on open-source software can also be considered a voluntary position. For
 
 ---
 
+#### [Software Carpentry](https://software-carpentry.org){:target="_blank"}
+###### May 2025 -- present | Remote
+
+- Certified Software Carpentry instructor.
+
+---
+
 #### [27th International Conference on Computing in High Energy and Nuclear Physics](https://indico.cern.ch/event/1338689/){:target="_blank"}
 ###### March 2025 | Remote
 
@@ -35,7 +42,7 @@ My work on open-source software can also be considered a voluntary position. For
 - Led the development of the curriculum and pyodide/jekyll infrastructure for the first-ever "[Research Software Engineering Summer School](https://github.com/UCL-ARC/rsd-summerschool)" organised at UCL.
 - Developed contents and pyodide/jekyll infrastructure for the graduate-level "[Research Software Engineering with Python](https://github.com/UCL/rsd-engineeringcourse)" course.
 - Tutor for the graduate-level "Research Software Engineering with Python" course.
-- Tutor for "[Learning Julia - a programming language for scientific computing](https://github-pages.arc.ucl.ac.uk/2024-11-08-julia-workshop/)" workshop.
+- Lead instructor/tutor for several Software Carpentry workshops.
 
 ---
 
