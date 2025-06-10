@@ -93,9 +93,9 @@ My work on open-source software can also be considered a voluntary position. For
 
 #### [Steering Council](https://pybamm.org/governance/){:target="_blank"}
 ##### [PyBaMM](https://pybamm.org){:target="_blank"}
-###### 2022 - Present | Remote
+###### 2022 - 2025 | Remote
 
-- Involved in administrative decisions and work.
+- Involved in maintenance of PyBaMM along with administrative work, outreach, funding, and critical decisions for the growth of the project.
 
 ---
 
