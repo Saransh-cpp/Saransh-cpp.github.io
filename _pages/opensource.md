@@ -49,21 +49,22 @@ and [several conda feedstocks](https://github.com/orgs/conda-forge/teams?query=@
 
 Significant voluntary contributions or spin-off projects (was not directly funded to work on them but my work expanded and encompassed some of them).
 
-Organization logos = contributions to the entire ecosystem.
+Organization logos = contributions to multiple libraries of the ecosystem.
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-around align-items-center">
     <a href="https://github.com/scikit-hep/" target="_blank"><img src="/assets/img/scikit-hep-logo.png" style="width: 170px"/></a>
-    <a href="https://github.com/FluxML/" target="_blank"><img src="/assets/img/flux-logo.png" style="width: 300px"/></a>
+    <a href="https://github.com/FluxML/" target="_blank"><img src="/assets/img/flux-logo.png" style="width: 200px"/></a>
     <a href="https://github.com/pybamm-team/" target="_blank"><img src="/assets/img/pybamm-logo.png" style="width: 300px"/></a>
+    <a href="https://github.com/scientific-python/" target="_blank"><img src="/assets/img/scientific-python-logo.svg" style="width: 150px"/></a>
 </div>
 
-{% if site.data.repositories.significant_repos %}
+<!-- {% if site.data.repositories.significant_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-around align-items-center">
   {% for repo in site.data.repositories.significant_repos %}
     {% include repository/repo.html repository=repo %}
   {% endfor %}
 </div>
-{% endif %}
+{% endif %} -->
 
 ---
 
