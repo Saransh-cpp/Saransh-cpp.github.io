@@ -39,7 +39,7 @@ My work on open-source software can also be considered a voluntary position. For
 - Lead instructor/tutor for several Software Carpentry workshops at UCL.
 - Lead instructor/tutor for several sessions at UCL's Research Software Engineering Summer School.
 - Tutor for the graduate-level "Research Software Engineering with Python" course.
-- Lead organiser/volunteer for a few events - [ARC ❤ Google Summer of Code](https://pretix.eu/ARC/GSoC25/), [FOSDEM retro](https://blogs.ucl.ac.uk/research-software-development/chaosscon-and-fosdem-open-source-health-and-waffles/), [GNU/Linux install party](https://pretix.eu/ARC/techsocials-2503/), ...
+- Lead/co organiser for a few events - [ARC ❤ Google Summer of Code](https://pretix.eu/ARC/GSoC25/), [FOSDEM retro](https://blogs.ucl.ac.uk/research-software-development/chaosscon-and-fosdem-open-source-health-and-waffles/), [GNU/Linux install party](https://pretix.eu/ARC/techsocials-2503/), ...
 - Lead organiser of the [TechSocial series](https://www.ucl.ac.uk/advanced-research-computing/techsocial-series) (UCL-wide Research Programming Technical Social series).
 - Co-organiser of "Healing Through Collaboration: Open-Source Software in Surgical, Biomedical and AI Technologies" workshop under the [Hamlyn Symposium on Medical Robotics 2025](https://www.hamlynsymposium.org) at the Royal Geographical Society, Imperial College London.
 - Led the development of the curriculum and pyodide/jekyll infrastructure for the first-ever "[Research Software Engineering Summer School](https://github.com/UCL-ARC/rsd-summerschool)" organised at UCL.

@@ -16,7 +16,7 @@ Below are my "formal" work experiences. I also contribute to several open-source
 
 ---
 
-- [Assistant Research Software Engineer](https://profiles.ucl.ac.uk/99635-saransh-chopra) \| August 2024 - Present \| [Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
+- [Assistant Research Software Engineer](https://profiles.ucl.ac.uk/99635-saransh-chopra) \| August 2024 - Present \| [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 - [Research Fellow](https://iris-hep.org/about/team) (bachelor's thesis) \| January 2024 - August 2024 \| [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}, [IRIS-HEP](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}
 - [Visiting Student Researcher (Mitacs Globalink Research Intern)](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship){:target="_blank"} \| June 2023 - August 2023 \| [McMaster University](https://www.mcmaster.ca){:target="_blank"}
 - [Research Fellow](https://iris-hep.org/fellows/Saransh-cpp.html){:target="_blank"} \| June 2022 - September 2022 \| [Institute for Research and Innovation in Software for High Energy Physics](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
@@ -28,11 +28,13 @@ Below are my "formal" work experiences. I also contribute to several open-source
 ---
 
 #### [Assistant Research Software Engineer](https://profiles.ucl.ac.uk/99635-saransh-chopra)
-##### [Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
+##### [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 ###### Dr. Sam Cunliffe
 ###### August 2024 - Present | London, United Kingdom
-- Adding GPU (CUDA) support to large-scale cosmological simulations for ESA's Euclid space mission ([GLASS](https://glass.readthedocs.io/stable/)).
-- Developing auto differentiation support for large-scale cosmological simulations.
+- “Generalist” staff member in the Research Software Engineering group of the Advanced Research Computing Centre. Mostly involved with the HPC, DevOps, and Education sub-groups, open-source research theme, and Python tooling.
+- Adding GPU (CUDA) and automatic differentiation support to large-scale cosmological simulations ([GLASS](https://glass.readthedocs.io/stable/)) for ESA's Euclid space mission  (GPU embedded Computational Science and Engineering grant by EPCC + Euclid space mission grant by the UKSA).
+- Involved in migrating and re-architecturing (mostly on the observability, metrics, and monitoring side) UCL's XNAT deployment from VMs to ARC's private kubernetes infrastructure (Condenser).
+- See [/teaching](/teaching) for teaching and community activities.
 
 ---
 ### Research experience
@@ -44,9 +46,9 @@ Below are my "formal" work experiences. I also contribute to several open-source
 ###### January 2024 - August 2024 | Geneva, Switzerland
 
 - Thesis titled "Computational upgrades to the high energy physics analysis pipeline for future LHC/HL-LHC runs."
-- Added autodiff (JAX) support to Python-based HEP ecosystem, and distributed (Dask) and symbolic (SymPy) computing support to vector manipulations.
+- Worked on autodiff (JAX) support for Awkward Arrays, added symbolic (SymPy) computing support to vector manipulations, and extended autodiff and distributed computing support to a few other libraries.
 - Implemented non-uniform rebinning for [boost-histogram](https://boost-histogram.readthedocs.io/en/latest/) and developed a new package for [histograms on CUDA](https://cuda-histogram.readthedocs.io/en/latest/).
-Migrated the vector manipulation backend of the analysis framework ([Coffea](https://github.com/CoffeaTeam/coffea)) used at Fermilab and CMS.
+- Migrated the vector manipulation backend of the analysis framework ([Coffea](https://github.com/CoffeaTeam/coffea)) used at Fermilab and CMS.
 
 ---
 
