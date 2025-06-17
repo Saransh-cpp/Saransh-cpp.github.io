@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3><a href="https://github.com/UCL-ARC/good-first-issue-hackathons" target="_blank">First contribution to open-source software workshop [upcoming]</a></h3>
+      <h5><a href="https://www.ucl.ac.uk/advanced-research-computing/events/2025/jul/festival-digital-research-innovation-scholarship">UCL Festival of Digital Research, Innovation & Scholarship 2025</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/ucl-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3><a href="https://github.com/UCL-ARC/python-tooling" target="_blank">python-tooling: transforming Python scripts into a Python package with good software engineering practices [upcoming]</a></h3>
       <h5><a href="https://www.ucl.ac.uk/advanced-research-computing/events/2025/jul/festival-digital-research-innovation-scholarship">UCL Festival of Digital Research, Innovation & Scholarship 2025</a></h5>
     </td>
@@ -32,7 +49,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://indi.to/8WZTS" target="_blank">Differentiable Computation with Awkward Array and JAX [upcoming]</a></h3>
+      <h3><a href="https://indi.to/8WZTS" target="_blank">Differentiable Computation with Awkward Array and JAX</a></h3>
       <h5><a href="https://indico.cern.ch/event/1481852/">5th MODE workshop on Differentiable Programming for Experiment Design</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/mode-logo.png"></td>

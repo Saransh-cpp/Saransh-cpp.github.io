@@ -2,13 +2,29 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: teaching, supervising, mentoring, service, volunteering, positions of responsibility, ...
+description: teaching, learning, supervising, mentoring, service, volunteering, positions of responsibility, ...
 nav: true
 nav_order: 5
 horizontal: false
 ---
 
 My work on open-source software can also be considered a voluntary position. For a list of open-source software that I am involved with, please see **[/opensource](/opensource)**.
+
+---
+
+#### [Summer University](https://www.cscs.ch/events/upcoming-events/event-detail?tx_cscsevents_pi1%5Bcontroller%5D=Event&tx_cscsevents_pi1%5Bevent%5D=214&cHash=e1a709e54ccd1572f3e86505b6d64325){:target="_blank"}
+##### [Swiss National Supercomputing Centre](https://pybamm.org){:target="_blank"}
+###### July 2025 | Remote
+
+- Selected for the Summer University on Effective High-Performance Computing and Data Analytics, broadly covering topics like GPU architectures, GPU programming (CUDA), and GPU-Accelerated Computing with Python.
+
+---
+
+#### [Google Summer of Code](https://summerofcode.withgoogle.com){:target="_blank"}
+##### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
+###### May - September 2025 | Remote
+
+- Supervisor for Medha, working on the project "[Adding a Dispatching Mechanism for Third Party Models](https://summerofcode.withgoogle.com/programs/2025/projects/3t9McTvW)."
 
 ---
 
