@@ -16,7 +16,8 @@ Below are my "formal" work experiences. I also contribute to several open-source
 
 ---
 
-- [Assistant Research Software Engineer](https://profiles.ucl.ac.uk/99635-saransh-chopra) \| August 2024 - Present \| [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
+- [Research Software Engineer](https://profiles.ucl.ac.uk/99635-saransh-chopra) \| June 2025 - Present \| [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
+- [Assistant Research Software Engineer](https://profiles.ucl.ac.uk/99635-saransh-chopra) \| August 2024 - June 2025 \| [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 - [Research Fellow](https://iris-hep.org/about/team) (bachelor's thesis) \| January 2024 - August 2024 \| [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}, [IRIS-HEP](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}
 - [Visiting Student Researcher (Mitacs Globalink Research Intern)](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship){:target="_blank"} \| June 2023 - August 2023 \| [McMaster University](https://www.mcmaster.ca){:target="_blank"}
 - [Research Fellow](https://iris-hep.org/fellows/Saransh-cpp.html){:target="_blank"} \| June 2022 - September 2022 \| [Institute for Research and Innovation in Software for High Energy Physics](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
@@ -27,21 +28,26 @@ Below are my "formal" work experiences. I also contribute to several open-source
 ### Full-time experience
 ---
 
-#### [Assistant Research Software Engineer](https://profiles.ucl.ac.uk/99635-saransh-chopra)
-##### [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
+#### [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
+##### [Research Software Engineer](https://profiles.ucl.ac.uk/99635-saransh-chopra)
 ###### Dr. Sam Cunliffe
-###### August 2024 - Present | London, United Kingdom
+###### June 2025 - Present | London, United Kingdom
 - “Generalist” staff member in the Research Software Engineering group of the Advanced Research Computing Centre. Mostly involved with the HPC, DevOps, and Education sub-groups, open-source research theme, and Python tooling.
-- Adding GPU (CUDA) and automatic differentiation support to large-scale cosmological simulations ([GLASS](https://glass.readthedocs.io/stable/)) for ESA's Euclid space mission  (GPU embedded Computational Science and Engineering grant by EPCC + Euclid space mission grant by the UKSA).
-- Involved in migrating and re-architecturing (mostly on the observability, metrics, and monitoring side) UCL's XNAT deployment from VMs to ARC's private kubernetes infrastructure (Condenser).
+- Worked on GPU (CUDA) and automatic differentiation support to large-scale cosmological simulations ([GLASS](https://glass.readthedocs.io/stable/)) for ESA's Euclid space mission  (GPU embedded Computational Science and Engineering grant by EPCC + Euclid space mission grant by the UKSA).
+- Involved with observability and monitoring (prometheus + grafana on k3s) of UCL's HPC systems to make them more "green" and sustainable.
 - See [/teaching](/teaching) for teaching and community activities.
+
+##### [Assistant Research Software Engineer](https://profiles.ucl.ac.uk/99635-saransh-chopra)
+###### Dr. Sam Cunliffe
+###### August 2024 - June 2025 | London, United Kingdom
+- Same work, but with less degree of independence/leadership/ownership.
 
 ---
 ### Research experience
 ---
 
-#### [Research Fellow](https://iris-hep.org/about/team) (bachelor's thesis)
-##### [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}, [IRIS-HEP](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}
+#### [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
+##### [Research Fellow](https://iris-hep.org/about/team) (bachelor's thesis)
 ###### Dr. Jim Pivarski (Princeton University)
 ###### January 2024 - August 2024 | Geneva, Switzerland
 
@@ -52,8 +58,8 @@ Below are my "formal" work experiences. I also contribute to several open-source
 
 ---
 
-#### [Visiting Student Researcher (Mitacs Globalink Research Intern)](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship){:target="_blank"}
-##### [McMaster University](https://www.mcmaster.ca){:target="_blank"}
+#### [McMaster University](https://www.mcmaster.ca){:target="_blank"}
+##### [Visiting Student Researcher (Mitacs Globalink Research Intern)](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship){:target="_blank"}
 ###### Prof. Jacques Carette
 ###### June 2023 - August 2023 | Hamilton, Ontario, Canada
 
@@ -62,8 +68,8 @@ Below are my "formal" work experiences. I also contribute to several open-source
 
 ---
 
-#### [Research Fellow](https://iris-hep.org/fellows/Saransh-cpp.html){:target="_blank"}
-##### [IRIS-HEP](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
+#### [IRIS-HEP](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
+##### [Research Fellow](https://iris-hep.org/fellows/Saransh-cpp.html){:target="_blank"}
 ###### Dr. Henry Schreiner (Princeton University), Dr. Jim Pivarski (Princeton University)
 ###### June 2022 - September 2022 | Remote
 
@@ -85,8 +91,8 @@ Below are my "formal" work experiences. I also contribute to several open-source
 
 ### Other experience
 ---
-#### [Technical Writer and Open-Source Developer](https://julialang.org/jsoc/){:target="_blank"}
-##### [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
+#### [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
+##### [Technical Writer and Open-Source Developer](https://julialang.org/jsoc/){:target="_blank"}
 ###### Mr. Dhairya Gandhi (Julia Computing / JuliaHub)
 ###### May 2022 - October 2022 | Remote (Part-Time)
 
@@ -107,8 +113,8 @@ Below are my "formal" work experiences. I also contribute to several open-source
 
 ---
 
-#### [Google Summer of Code Developer](https://summerofcode.withgoogle.com){:target="_blank"}
-##### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
+#### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
+##### [Google Summer of Code Developer](https://summerofcode.withgoogle.com){:target="_blank"}
 ###### Dr. Valentin Sulzer (Carnegie Mellon University), Dr. Ferran Brosa Planella (University of Warwick), Dr. Robert Timms (University of Oxford)
 ###### May 2021 - September 2021 | Remote
 
