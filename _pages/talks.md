@@ -15,7 +15,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://github.com/UCL-ARC/good-first-issue-hackathons" target="_blank">First contribution to open-source software workshop [upcoming]</a></h3>
+      <h3><a href="https://github.com/UCL-ARC/good-first-issue-hackathons" target="_blank">First contribution to open-source software workshop</a></h3>
       <h5><a href="https://www.ucl.ac.uk/advanced-research-computing/events/2025/jul/festival-digital-research-innovation-scholarship">UCL Festival of Digital Research, Innovation & Scholarship 2025</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/ucl-logo.png"></td>
@@ -32,7 +32,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://github.com/UCL-ARC/python-tooling" target="_blank">python-tooling: transforming Python scripts into a Python package with good software engineering practices [upcoming]</a></h3>
+      <h3><a href="https://github.com/UCL-ARC/python-tooling" target="_blank">python-tooling: transforming Python scripts into a Python package with good software engineering practices</a></h3>
       <h5><a href="https://www.ucl.ac.uk/advanced-research-computing/events/2025/jul/festival-digital-research-innovation-scholarship">UCL Festival of Digital Research, Innovation & Scholarship 2025</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/ucl-logo.png"></td>
