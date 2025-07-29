@@ -34,7 +34,7 @@ Below are my "formal" work experiences. I also contribute to several open-source
 ###### June 2025 - Present | London, United Kingdom
 - “Generalist” staff member in the Research Software Engineering group of the Advanced Research Computing Centre. Mostly involved with the HPC, DevOps, and Education sub-groups, open-source research theme, and Python tooling.
 - Worked on GPU (CUDA) and automatic differentiation support to large-scale cosmological simulations ([GLASS](https://glass.readthedocs.io/stable/)) for ESA's Euclid space mission  (GPU embedded Computational Science and Engineering grant by EPCC + Euclid space mission grant by the UKSA).
-- Involved with observability and monitoring (prometheus + grafana on k3s) of UCL's HPC systems to make them more "green" and sustainable.
+- Involved with observability and monitoring for UCL's XNAT service, and auditing UCL's HPC systems to make them more "green" and sustainable.
 - See [/teaching](/teaching) for teaching and community activities.
 
 ##### [Assistant Research Software Engineer](https://profiles.ucl.ac.uk/99635-saransh-chopra)
