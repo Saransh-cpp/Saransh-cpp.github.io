@@ -14,21 +14,11 @@ main_repos:
   - asmeurer/removestar
   - UCL/rsd-engineeringcourse
   - UCL-ARC/rsd-summerschool
+  - UCL-ARC/green-hpc-course
   - osl-incubator/scicookie
   - pybamm-team/liionpack
   - pybamm-team/BattBot
   - smaranjitghose/DocLense
-  # - conda-forge/cuda_histogram-feedstock
-  # - conda-forge/vector-feedstock
-  # - conda-forge/removestar-feedstock
-  # - conda-forge/pybamm-feedstock
-  # - conda-forge/devtools-feedstock
-  # - conda-forge/bpx-feedstock
-  # - conda-forge/flt-feedstock
-  # - conda-forge/cosmology-feedstock
-  # - conda-forge/transformcl-feedstock
-  # - conda-forge/gaussiancl-feedstock
-  # - conda-forge/glass-feedstock
 
 project_repos:
   - Saransh-cpp/polarising-content-on-indian-youtube-near-elections
