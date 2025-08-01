@@ -12,6 +12,21 @@ My work on open-source software can also be considered a voluntary position. For
 
 ---
 
+#### [University College London](https://www.ucl.ac.uk){:target="_blank"}
+###### August 2024 -- present | London, UK
+
+- Lead instructor/tutor for several Software Carpentry workshops at UCL.
+- Lead instructor/tutor for several sessions at UCL's Research Software Engineering Summer School.
+- Tutor for the graduate-level "Research Software Engineering with Python" course.
+- Led the development of the curriculum and pyodide/jekyll infrastructure for the first-ever "[Research Software Engineering Summer School](https://github.com/UCL-ARC/rsd-summerschool)" organised at UCL.
+- Led the development of the [Green HPC course for UCL's HPC cluster](https://github.com/UCL-ARC/green-hpc-course).
+- Developed contents and pyodide/jekyll infrastructure for the graduate-level "[Research Software Engineering with Python](https://github.com/UCL/rsd-engineeringcourse)" course.
+- Lead/co organiser for a few events - [ARC ❤ Google Summer of Code](https://pretix.eu/ARC/GSoC25/), [GNU/Linux install party](https://pretix.eu/ARC/techsocials-2503/), ...
+- Lead organiser of the [TechSocial series](https://www.ucl.ac.uk/advanced-research-computing/techsocial-series) (UCL-wide Research Programming Technical Social series).
+- Co-organiser of "Healing Through Collaboration: Open-Source Software in Surgical, Biomedical and AI Technologies" workshop under the [Hamlyn Symposium on Medical Robotics 2025](https://www.hamlynsymposium.org) at the Royal Geographical Society, Imperial College London.
+
+---
+
 #### [Summer University](https://www.cscs.ch/events/upcoming-events/event-detail?tx_cscsevents_pi1%5Bcontroller%5D=Event&tx_cscsevents_pi1%5Bevent%5D=214&cHash=e1a709e54ccd1572f3e86505b6d64325){:target="_blank"}
 ##### [Swiss National Supercomputing Centre](https://pybamm.org){:target="_blank"}
 ###### July 2025 | Remote
@@ -46,20 +61,6 @@ My work on open-source software can also be considered a voluntary position. For
 ###### February 2025 | London, UK
 
 - Helper/TA for the [PyBaMM training course](https://train.rse.ox.ac.uk/material/HPCu/libraries/pybamm-developer) delivered on the last day of the conference.
-
----
-
-#### [University College London](https://www.ucl.ac.uk){:target="_blank"}
-###### August 2024 -- present | London, UK
-
-- Lead instructor/tutor for several Software Carpentry workshops at UCL.
-- Lead instructor/tutor for several sessions at UCL's Research Software Engineering Summer School.
-- Tutor for the graduate-level "Research Software Engineering with Python" course.
-- Lead/co organiser for a few events - [ARC ❤ Google Summer of Code](https://pretix.eu/ARC/GSoC25/), [FOSDEM retro](https://blogs.ucl.ac.uk/research-software-development/chaosscon-and-fosdem-open-source-health-and-waffles/), [GNU/Linux install party](https://pretix.eu/ARC/techsocials-2503/), ...
-- Lead organiser of the [TechSocial series](https://www.ucl.ac.uk/advanced-research-computing/techsocial-series) (UCL-wide Research Programming Technical Social series).
-- Co-organiser of "Healing Through Collaboration: Open-Source Software in Surgical, Biomedical and AI Technologies" workshop under the [Hamlyn Symposium on Medical Robotics 2025](https://www.hamlynsymposium.org) at the Royal Geographical Society, Imperial College London.
-- Led the development of the curriculum and pyodide/jekyll infrastructure for the first-ever "[Research Software Engineering Summer School](https://github.com/UCL-ARC/rsd-summerschool)" organised at UCL.
-- Developed contents and pyodide/jekyll infrastructure for the graduate-level "[Research Software Engineering with Python](https://github.com/UCL/rsd-engineeringcourse)" course.
 
 ---
 
