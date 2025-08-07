@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3><a href="https://www.cscs.ch/events/upcoming-events/event-detail?tx_cscsevents_pi1%5Bcontroller%5D=Event&tx_cscsevents_pi1%5Bevent%5D=214&cHash=e1a709e54ccd1572f3e86505b6d64325">Selected for Summer University on Effective HPC and Data Analytics</a></h3>
+      <h5><a href="https://www.cscs.ch/">Swiss National Supercomputing Centre (ETH Zurich)</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:55%" src="../assets/img/cscs-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3><a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">Euclid grant</a> to work on <a href="https://glass.readthedocs.io">GLASS</a></h3>
       <h5><a href="https://www.gov.uk/government/organisations/uk-space-agency">UK Space Agency</a></h5>
     </td>

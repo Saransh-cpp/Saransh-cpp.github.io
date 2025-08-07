@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: teaching, learning, supervising, mentoring, service, volunteering, positions of responsibility, ...
+description: teaching, supervising, mentoring, service, volunteering, positions of responsibility, ...
 nav: true
 nav_order: 5
 horizontal: false
@@ -12,8 +12,16 @@ My work on open-source software can also be considered a voluntary position. For
 
 ---
 
+#### [NumFOCUS Affiliated Project Selection Committee](https://numfocus.org/sponsored-projects/affiliated-projects){:target="_blank"}
+##### [NumFOCUS](https://numfocus.org){:target="_blank"}
+###### 2024 - Present | Remote
+
+- The committee is responsible for evaluating applications from open source projects for Affiliated Project status with NumFOCUS and working with applicant projects throughout the review process.
+
+---
+
 #### [University College London](https://www.ucl.ac.uk){:target="_blank"}
-###### August 2024 -- present | London, UK
+###### August 2024 -- September 2025 | London, UK
 
 - Lead instructor/tutor for several Software Carpentry workshops at UCL.
 - Lead instructor/tutor for several sessions at UCL's Research Software Engineering Summer School.
@@ -27,14 +35,6 @@ My work on open-source software can also be considered a voluntary position. For
 
 ---
 
-#### [Summer University](https://www.cscs.ch/events/upcoming-events/event-detail?tx_cscsevents_pi1%5Bcontroller%5D=Event&tx_cscsevents_pi1%5Bevent%5D=214&cHash=e1a709e54ccd1572f3e86505b6d64325){:target="_blank"}
-##### [Swiss National Supercomputing Centre](https://pybamm.org){:target="_blank"}
-###### July 2025 | Remote
-
-- Selected for the Summer University on Effective High-Performance Computing and Data Analytics, broadly covering topics like GPU architectures, GPU programming (CUDA), and GPU-Accelerated Computing with Python.
-
----
-
 #### [Google Summer of Code](https://summerofcode.withgoogle.com){:target="_blank"}
 ##### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 ###### May - September 2025 | Remote
@@ -44,7 +44,7 @@ My work on open-source software can also be considered a voluntary position. For
 ---
 
 #### [Software Carpentry](https://software-carpentry.org){:target="_blank"}
-###### May 2025 -- present | Remote
+###### May 2025 | Remote
 
 - Certified Software Carpentry instructor.
 
@@ -61,6 +61,14 @@ My work on open-source software can also be considered a voluntary position. For
 ###### February 2025 | London, UK
 
 - Helper/TA for the [PyBaMM training course](https://train.rse.ox.ac.uk/material/HPCu/libraries/pybamm-developer) delivered on the last day of the conference.
+
+---
+
+#### [Steering Council](https://pybamm.org/governance/){:target="_blank"}
+##### [PyBaMM](https://pybamm.org){:target="_blank"}
+###### 2022 - 2025 | Remote
+
+- Involved in maintenance of PyBaMM along with administrative work, outreach, funding, and critical decisions for the growth of the project.
 
 ---
 
@@ -87,32 +95,6 @@ My work on open-source software can also be considered a voluntary position. For
 ###### January - May 2024 | Remote
 
 - Supervisor for Naman, working on the project "[Improve Scicookie Documentation](https://opensciencelabs.org/programs/internship/cycles/2024-01/#scicookie)."
-
----
-
-#### [NumFOCUS Affiliated Project Selection Committee](https://numfocus.org/sponsored-projects/affiliated-projects){:target="_blank"}
-##### [NumFOCUS](https://numfocus.org){:target="_blank"}
-###### 2024 | Remote
-
-- The committee is responsible for evaluating applications from open source projects for Affiliated Project status with NumFOCUS and working with applicant projects throughout the review process.
-
----
-
-#### [Cluster Innovation Centre](http://www.cic.du.ac.in){:target="_blank"}
-##### [University of Delhi](http://www.du.ac.in){:target="_blank"}
-###### 2021 - 2023 | New Delhi
-
-- I have been involved in several official teaching and mentoring workshops organised by CIC.
-- This includes conducting yearly and one-time workshops on Git and GitHub, Linux CLI, Open-Source Programs, Internship Opportunities, Clubs and Fests at CIC, etc.
-- Some of the reports for these workshops are available on CIC's website and some of them were lost with time.
-
----
-
-#### [Steering Council](https://pybamm.org/governance/){:target="_blank"}
-##### [PyBaMM](https://pybamm.org){:target="_blank"}
-###### 2022 - 2025 | Remote
-
-- Involved in maintenance of PyBaMM along with administrative work, outreach, funding, and critical decisions for the growth of the project.
 
 ---
 
@@ -154,3 +136,13 @@ My work on open-source software can also be considered a voluntary position. For
 ###### May - September 2022 | Remote
 
 - Did not receive any applications for the projects I was co-supervising.
+
+---
+
+#### [Cluster Innovation Centre](http://www.cic.du.ac.in){:target="_blank"}
+##### [University of Delhi](http://www.du.ac.in){:target="_blank"}
+###### 2021 - 2023 | New Delhi
+
+- I was involved in several official teaching and mentoring workshops organised by CIC.
+- This included conducting yearly and one-time workshops on Git and GitHub, Linux CLI, Open-Source Programs, Internship Opportunities, Clubs and Fests at CIC, etc.
+- Some of the reports for these workshops are available on CIC's website and some of them were lost with time.
