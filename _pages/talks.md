@@ -33,9 +33,26 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://profiles.ucl.ac.uk/99635-saransh-chopra" target="_blank">Navigating through Research Software Engineering as an undergraduate [upcoming]</a></h3>
-      <h5><a href="https://symposium.enhancer.ch">Swiss RSE in action, EnhanceR Symposium 2025</a></h5>
+      <h5><a href="https://symposium.enhancer.ch">EnhanceR Symposium 2025 (Swiss RSE in action)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/enhancer-logo.svg"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
+      <h3><a href="https://paddyroddy.github.io/posters/euroscipy-2025.svg" target="_blank">Porting GLASS to the Python Array API</a></h3>
+      <h5><a href="https://euroscipy.org">EuroSciPy 2025</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/euroscipy-logo.png"></td>
     <td></td>
   </tr>
 </table>
@@ -135,7 +152,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://indico.cern.ch/event/1457685/#3-saransh-chopra-computational" target="_blank">Computational upgrades to the high energy physics analysis pipeline for future LHC/HL-LHC runs </a><a href="https://www.youtube.com/watch?v=aVPhP_APhqw">🎥</a></h3>
-      <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting (Gap Year Final Presentations)</a></h5>
+      <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:50%" src="../assets/img/iris-hep-logo.png"></td>
     <td></td>
@@ -186,7 +203,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://indi.to/pfTC6" target="_blank">A new SymPy backend for vector: uniting experimental and theoretical physicists </a><a href="https://www.youtube.com/watch?v=6x1kQy5cQlc&list=PLKZ9c4ONm-VnbQibz2OmG34T-q_0o1nxf&index=17">🎥</a></h3>
-      <h5><a href="https://indico.cern.ch/event/1384010/">7th International Workshop on Python in High Energy Physics (PyHEP)</a></h5>
+      <h5><a href="https://indico.cern.ch/event/1384010/">7th International Workshop on Python in High Energy Physics</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:30%" src="../assets/img/pyhep-logo.png"></td>
     <td></td>
@@ -220,7 +237,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://indico.cern.ch/event/1374922/#1-enabling-auto-differentiatio" target="_blank">Enabling auto-differentiation for the Scikit-HEP ecosystem</a></h3>
-      <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting (Research Software Intern Talks)</a></h5>
+      <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/iris-hep-logo.png"></td>
     <td></td>
@@ -237,7 +254,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://indi.to/35ym5" target="_blank">What’s new with Vector? First major release is out! </a><a href="https://www.youtube.com/watch?v=JHEAb2R3xzE&list=PLKZ9c4ONm-VlAorAG8kR09ZqhMfHiH2LJ&index=10">🎥</a></h3>
-      <h5><a href="https://indico.cern.ch/event/1252095/">6th International Workshop on Python in High Energy Physics (PyHEP)</a></h5>
+      <h5><a href="https://indico.cern.ch/event/1252095/">6th International Workshop on Python in High Energy Physics</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:30%" src="../assets/img/pyhep-logo.png"></td>
     <td></td>
@@ -305,7 +322,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://indico.cern.ch/event/1195273/#5-saransh-chopra-vector-constr" target="_blank">Vector - Constructors, documentation, and benchmarks </a><a href="https://youtu.be/rjqnJbT7T1s?t=3134">🎥</a></h3>
-      <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting (Fellows Final Presentation)</a></h5>
+      <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/iris-hep-logo.png"></td>
     <td></td>
@@ -322,7 +339,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://indico.cern.ch/event/1150631/contributions/5014393/" target="_blank">Constructing HEP vectors and analyzing HEP data using Vector </a><a href="https://www.youtube.com/watch?v=4iveMzrbe7s">🎥</a></h3>
-      <h5><a href="https://indico.cern.ch/event/1150631/">5th International Workshop on Python in High Energy Physics (PyHEP)</a></h5>
+      <h5><a href="https://indico.cern.ch/event/1150631/">5th International Workshop on Python in High Energy Physics</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:30%" src="../assets/img/pyhep-logo.png"></td>
     <td></td>
@@ -356,7 +373,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://tw.pycon.org/2022/en-us/conference/talk/243" target="_blank">Code coverage through unit tests running in sub-processes/threads: Locally and automated on GitHub </a><a href="https://www.youtube.com/watch?v=iSwvTDy_IKw&list=PLqtzN042QpfdkQbkOlwtEJMBGZHHsvimo&index=50">🎥</a></h3>
-      <h5><a href="https://tw.pycon.org/2022">10th Annual Conference on Python - Asia-Pacific (PyCon APAC)</a></h5>
+      <h5><a href="https://tw.pycon.org/2022">PyCon APAC</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:35%" src="../assets/img/pyconapac-logo.svg"></td>
     <td></td>
@@ -373,7 +390,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://ep2022.europython.eu/session/code-coverage-through-unit-tests-running-in-sub-processes-threads-locally-and-automated-on-github" target="_blank">Code coverage through unit tests running in sub-processes/threads: Locally and automated on GitHub</a></h3>
-      <h5><a href="https://ep2022.europython.eu/">21st Annual Conference On Python - Europe (EuroPython)</a></h5>
+      <h5><a href="https://ep2022.europython.eu/">EuroPython 2022</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:80%" src="../assets/img/europython-logo.png"></td>
     <td></td>
@@ -390,7 +407,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://indico.cern.ch/event/1155138/#sc-1-9-saransh-chopra-vector-c" target="_blank">Vector - Constructors, documentation, and benchmarks </a><a href="https://youtu.be/fLt7BHuASpw?t=2627">🎥</a></h3>
-      <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting (Fellows Lightning Talks)</a></h5>
+      <h5><a href="https://iris-hep.org/">IRIS-HEP Topical Meeting</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/iris-hep-logo.png"></td>
     <td></td>
@@ -407,7 +424,7 @@ horizontal: false
   <tr>
     <td>
       <h3>Introduction to Git and GitHub [invited] <a href="https://www.youtube.com/watch?v=d0oEVdmIzo0">🎥</a></h3>
-      <h5><a href="https://www.iitm.ac.in">Indin Institute of Technology (IIT) Madras</a></h5>
+      <h5><a href="https://www.iitm.ac.in">Indin Institute of Technology Madras</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:35%" src="../assets/img/iitm-logo.png"></td>
     <td></td>
