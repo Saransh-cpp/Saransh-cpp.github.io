@@ -49,7 +49,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://paddyroddy.github.io/posters/euroscipy-2025.svg" target="_blank">Porting GLASS to the Python Array API</a></h3>
+      <h3><a href="https://paddyroddy.github.io/posters/euroscipy-2025/index.svg" target="_blank">Porting GLASS to the Python Array API</a></h3>
       <h5><a href="https://euroscipy.org">EuroSciPy 2025</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/euroscipy-logo.png"></td>
