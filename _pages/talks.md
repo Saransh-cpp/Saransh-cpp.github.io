@@ -32,8 +32,8 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://profiles.ucl.ac.uk/99635-saransh-chopra" target="_blank">Navigating through Research Software Engineering as an undergraduate [upcoming]</a></h3>
-      <h5><a href="https://symposium.enhancer.ch">EnhanceR Symposium 2025 (Swiss RSE in action)</a></h5>
+      <h3><a href="https://symposium.enhancer.ch/contributing/" target="_blank">Navigating through Research Software Engineering as an undergraduate</a></h3>
+      <h5><a href="https://symposium.enhancer.ch">EnhanceR Symposium 2025 (Swiss RSE in action)</a> (could not attend as the visa arrived late)</h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/enhancer-logo.svg"></td>
     <td></td>

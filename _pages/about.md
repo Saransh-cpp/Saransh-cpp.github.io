@@ -8,19 +8,23 @@ profile:
   align: justify
   image: SaranshChopra.jpeg
   address: >
-    London, United Kingdom
-    s.chopra@ucl.ac.uk
+    Lausanne, Switzerland
+    saransh.chopra@epfl.ch
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a master's (computational science and engineering) student at **École Polytechnique Fédérale de Lausanne** (Swiss Federal Technology Institute of Lausanne - **EPFL**). Before joining EPFL, I was a research software engineer at **UCL's Advanced Research Computing Centre**, where I worked on HPC and DevOps projects. Besides writing code, I also taught scientific computing courses and workshops at UCL and other places (**[/teaching](/teaching)**). Before UCL, I was a research software engineer at **CERN** (through the **Princeton Institute for Computational Science and Engineering (PICSciE)**), where I also wrote my bachelor's thesis - *Computational upgrades to the high energy physics analysis pipeline for future LHC/HL-LHC runs*. I hold an undergraduate degree in computer science and mathematics from the **University of Delhi (department rank 2)**.
+I am a master's (computational science and engineering) student at **École Polytechnique Fédérale de Lausanne** (Swiss Federal Technology Institute of Lausanne - **EPFL**).
 
-I have previously dabbled with {functional programming, theoretical computer science, type theory, and **[agda](https://wiki.portal.chalmers.se/agda/pmwiki.php){:target="_blank"}** (visiting student researcher under Prof. Jacques Carette at McMaster University)}, {more computational high-energy physics (research fellow under Dr. Henry Schreiner and Dr. Jim Pivarski at IRIS-HEP)}, {technical writing for ML frameworks (technical writer at FluxML, JuliaLang)}, {mathematical modeling of batteries (google summer of code)}, and {data science for social sciences + biomedical problems (a failed startup + a couple of projects/publications under my professors)}. Moreover, I develop and maintain different parts (infrastructure, developer tooling, code, docs, ...) of several open-source scientific software (**[/opensource](/opensource)**).
+Before joining EPFL, I was a research software engineer at **UCL's Advanced Research Computing Centre**, where I worked on HPC and DevOps projects. Even before UCL, I worked as a research software engineer at **CERN** (under the **Princeton Institute for Computational Science and Engineering**), writing software for computational high-energy physics. I hold an undergraduate degree in computer science and mathematics from the **University of Delhi (department rank 2)**. Besides writing code, I am also quite fond of teaching courses and workshops, broadly on scientific and high-performance computing, software engineering, and numerical mathematics (**[/teaching](/teaching)**).
 
-I am currently interested in **HPC**, **data-intensive computational science**, **computational mathematics**, **DevOps**, and **theoretical computer science**. I advocate for and am extremely passionate about **open-source** and **open-science**. My background makes me a jack of all trades, but a master of none (which is why I am going to grad school). Finally, I also possess a background in **android and backend development** (hackathon + personal + deployed projects), but I don't find them interesting anymore.
+Apart from the experiences above, I have previously dabbled with functional programming and type theory, more computational high-energy physics and numerical mathematics, technical writing for ML frameworks, mathematical modeling of batteries, and data science for social sciences + social good + biomedical problems (**[/experiences](/experiences)**). Moreover, I develop and maintain different parts (infrastructure, developer tooling, code, docs, ...) of several open-source scientific software (**[/opensource](/opensource)**).
+
+<!-- I have previously dabbled with {functional programming, theoretical computer science, type theory, and **[agda](https://wiki.portal.chalmers.se/agda/pmwiki.php){:target="_blank"}** (visiting student researcher under Prof. Jacques Carette at McMaster University)}, {more computational high-energy physics (research fellow under Dr. Henry Schreiner and Dr. Jim Pivarski at IRIS-HEP)}, {technical writing for ML frameworks (technical writer at FluxML, JuliaLang)}, {mathematical modeling of batteries (google summer of code)}, and {data science for social sciences + biomedical problems (a failed startup + a couple of projects/publications under my professors)}. Moreover, I develop and maintain different parts (infrastructure, developer tooling, code, docs, ...) of several open-source scientific software (**[/opensource](/opensource)**). -->
+
+I am currently interested in **HPC**, **data-intensive computational science**, **computational and numerical mathematics**, **DevOps**, and **theoretical computer science**. I advocate for and am extremely passionate about **open-source** and **open-science**. My background makes me a jack of all trades, but a master of none (which is why I am going to grad school). Finally, I also have some background in **android and backend development**, but I don't find them interesting anymore.
 
 <!-- ## current and past affiliations
 

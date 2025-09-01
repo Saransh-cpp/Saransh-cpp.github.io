@@ -15,6 +15,7 @@ main_repos:
   - UCL/rsd-engineeringcourse
   - UCL-ARC/rsd-summerschool
   - UCL-ARC/green-hpc-course
+  - UCL-ARC/python-tooling
   - osl-incubator/scicookie
   - pybamm-team/liionpack
   - pybamm-team/BattBot
@@ -22,9 +23,9 @@ main_repos:
 
 project_repos:
   - Saransh-cpp/polarising-content-on-indian-youtube-near-elections
-  - Saransh-cpp/OCRed
-  - Saransh-cpp/ChaoticEncryption.jl
-  - Saransh-cpp/releaseup
+  # - Saransh-cpp/OCRed
+  # - Saransh-cpp/ChaoticEncryption.jl
+  # - Saransh-cpp/releaseup
   - Saransh-cpp/rmstar
   - Saransh-cpp/MemeTastic
   - Saransh-cpp/PopItUp
