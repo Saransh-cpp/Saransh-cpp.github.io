@@ -76,8 +76,9 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ###### Dr. Sam Cunliffe
 ###### June 2025 - September 2025 | London, United Kingdom
 - “Generalist” staff member in the Research Software Engineering group of the Advanced Research Computing Centre. Mostly involved with the HPC, DevOps, and Education sub-groups, open-source research theme, and Python tooling.
-- Worked on GPU and automatic differentiation support to large-scale cosmological simulations ([GLASS](https://glass.readthedocs.io/stable/)) for ESA's Euclid space mission  (GPU embedded Computational Science and Engineering grant by EPCC + Euclid space mission grant by the UKSA).
-- Involved with observability and monitoring for UCL's XNAT service, and auditing UCL's HPC systems to make them more "green" and sustainable.
+- Added GPU and auto-differentiation support to large-scale cosmological simulations ([GLASS](https://glass.readthedocs.io/stable/)) for ESA's Euclid space mission  (GPU embedded Computational Science and Engineering grant by EPCC + Euclid space mission grant by the UKSA).
+- Involved with porting [UCL's XNAT](https://www.ucl.ac.uk/advanced-research-computing/ucl-xnat-service) service from VMs to an in-house [kubernetes-based cloud infrastructure](https://indico.egi.eu/event/6638/contributions/20466/).
+- Audited sustainability and user-behavior of UK's national tier 2 high performance computing cluster ([Young](https://mmmhub.ac.uk/young/)).
 - See [/teaching](/teaching) for teaching and community activities.
 
 ##### Assistant Research Software Engineer
@@ -92,9 +93,9 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ###### Dr. Jim Pivarski (Princeton University)
 ###### January 2024 - August 2024 | Geneva, Switzerland
 
-- Worked on autodiff (JAX) support for Awkward Arrays, added symbolic (SymPy) computing support to vector manipulations, and extended autodiff and distributed computing support to a few other libraries.
-- Implemented non-uniform rebinning for [boost-histogram](https://boost-histogram.readthedocs.io/en/latest/) and developed a new package for [histograms on CUDA](https://cuda-histogram.readthedocs.io/en/latest/).
-- Migrated the vector manipulation backend of the analysis framework ([Coffea](https://github.com/CoffeaTeam/coffea)) used at Fermilab and CMS.
+- Extended auto-differentiation support for [high-energy physics libraries](https://scikit-hep.org/#basic) operating on ragged and JSON-like data.
+- Added symbolic computing support and migrated the [vector manipulation](https://vector.readthedocs.io/en/latest/) backend of [Fermilab's analysis framework](https://coffea-hep.readthedocs.io/en/latest/).
+- Implemented a non-uniform rebinning algorithm and CUDA support for [high-energy physics histograms in Python](https://scikit-hep.org/#histogramming).
 
 ---
 
@@ -117,7 +118,7 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ###### Dr. Henry Schreiner (Princeton University), Dr. Jim Pivarski (Princeton University)
 ###### June 2022 - September 2022 | Remote
 
-- Co-authored a Python-based Lorentz vector manipulation library with support for ragged data and JIT compilation.
+- Co-authored a [Python-based Lorentz vector manipulation library](https://vector.readthedocs.io/en/latest/) with support for ragged data and JIT compilation.
 - Worked on Scientific Python's developer guides and tools, and fixed bugs in the Scikit-HEP ecosystem.
 
 ---
