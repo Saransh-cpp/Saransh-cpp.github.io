@@ -40,6 +40,7 @@ significant_repos:
   - scientific-python/cookie
 
 talk_misc_repos:
+  - Saransh-cpp/SwissPythonSummit25-GLASS-array-api
   - Saransh-cpp/MODE25-awkward-jax
   - Saransh-cpp/CHEP24-vector-sympy-backend
   - Saransh-cpp/PyHEP24-vector-sympy-backend
