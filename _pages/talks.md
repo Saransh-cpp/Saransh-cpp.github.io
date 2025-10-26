@@ -15,7 +15,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://www.python-summit.ch/recordings/" target="_blank">Using Python's array API standard for ESA's Euclid mission</a></h3>
+      <h3><a href="https://www.python-summit.ch/recordings/" target="_blank">Using Python's array API standard for ESA's Euclid mission</a><a href="https://media.ccc.de/v/sps25-56449-using-pythons-array-api-stan">🎥</a></h3>
       <h5><a href="https://www.python-summit.ch">Swiss Python Summit 2025</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/swiss-python-logo.svg"></td>
