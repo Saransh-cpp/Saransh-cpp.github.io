@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3><a href="https://rse.swiss/events/2025_12_04_rse_career_talks/" target="_blank">RSE Career Talks Panel [invited]</a></h3>
+      <h5><a href="https://rse.swiss">RSE Swiss</a>, <a href="https://ethz.ch">ETH Zurich</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:65%" src="../assets/img/eth-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3><a href="https://www.python-summit.ch/recordings/" target="_blank">Using Python's array API standard for ESA's Euclid mission </a><a href="https://media.ccc.de/v/sps25-56449-using-pythons-array-api-stan">🎥</a></h3>
       <h5><a href="https://www.python-summit.ch">Swiss Python Summit 2025</a></h5>
     </td>
