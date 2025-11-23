@@ -20,7 +20,7 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 - Master's in Computational Science and Engineering \| September 2025 - Present \| [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/){:target="_blank"}
 - Summer University on High-Performance Computing and Data Analytics \| July 2025 - July 2025 \| [Swiss National Supercomputing Centre](https://www.cscs.ch){:target="_blank"}
-- Bachelor's in Computater Science and Mathematics \| August 2020 - August 2024 \| [University of Delhi](https://www.du.ac.in){:target="_blank"}
+- Bachelor's of Technology in Computer Science and Mathematics \| August 2020 - August 2024 \| [University of Delhi](https://www.du.ac.in){:target="_blank"}
 
 ---
 
