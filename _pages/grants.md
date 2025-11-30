@@ -2,7 +2,7 @@
 layout: page
 title: grants
 permalink: /grants/
-description: awards, grants, achievements, prizes ...
+description: awards, grants, scholarships, achievements, prizes ...
 nav: true
 nav_order: 7
 horizontal: false
@@ -49,7 +49,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3>Travel and living grant</h3>
+      <h3>Travel and living scholarship</h3>
       <h5><a href="https://indico.cern.ch/event/1375573/">2nd Annual Developer's Workshop on Python in High Energy Physics</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/pyhep-logo.png"></td>
@@ -66,7 +66,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3>Travel and living bursary</h3>
+      <h3>Travel and living scholarship</h3>
       <h5><a href="https://rsecon24.society-rse.org">8th Annual Conference for Research Software Engineering</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/rse-con-logo.png"></td>
@@ -74,23 +74,6 @@ horizontal: false
   </tr>
 </table>
 
-<!-- <br> -->
-
-<!-- <table>
-  <colgroup>
-       <col span="1" style="width: 70%;">
-       <col span="1" style="width: 30%;">
-  </colgroup>
-  <tr>
-    <td>
-      <h3>Travel and living grant (based at <a href="https://home.cern">CERN</a>)</h3>
-      <h5><a href="https://www.princeton.edu">Princeton University</a></h5>
-    </td>
-    <td style="text-align: center"><img style="float: middle; width:20%" src="../assets/img/princeton-logo.png"></td>
-    <td></td>
-  </tr>
-</table>
-
 <br>
 
 <table>
@@ -100,24 +83,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://www.mitacs.ca/en/programs/globalink/globalink-research-internship">Mitacs Globalink Research Internship</a></h3>
-      <h5><a href="https://www.mitacs.ca/en#/">Mitacs</a> + <a href="http://www.shastriinstitute.org">Government of India (Shastri Indo-Canadian Institute)</a></h5>
-    </td>
-    <td style="text-align: center"><img style="float: middle; width:60%" src="../assets/img/mitacs-logo.jpg"></td>
-    <td></td>
-  </tr>
-</table> -->
-
-<br>
-
-<table>
-  <colgroup>
-       <col span="1" style="width: 70%;">
-       <col span="1" style="width: 30%;">
-  </colgroup>
-  <tr>
-    <td>
-      <h3>Grant to lead a talk virtually</h3>
+      <h3>Scholarship to lead a talk virtually</h3>
       <h5><a href="https://tw.pycon.org/2022">10th Annual Conference on Python - Asia-Pacific (PyCon APAC)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:35%" src="../assets/img/pyconapac-logo.svg"></td>
@@ -151,7 +117,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-        <h3>Grant to lead a talk in-person</h3>
+        <h3>Scholarship to lead a talk in-person</h3>
       <h5><a href="https://ep2022.europython.eu/">21st Annual Conference on Python - Europe (EuroPython)</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:80%" src="../assets/img/europython-logo.png"></td>
@@ -168,7 +134,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-        <h3>Grant to lead a 4 hour workshop in-person</h3>
+        <h3>Scholarship to lead a 4 hour workshop in-person</h3>
       <h5><a href="https://pycon.it/en/">21st Annual Conference on Python - Italy</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:80%" src="../assets/img/pycon-it-logo.png"></td>
@@ -177,23 +143,6 @@ horizontal: false
 </table>
 
 <br>
-
-<!-- <table>
-  <colgroup>
-       <col span="1" style="width: 75%;">
-       <col span="1" style="width: 25%;">
-  </colgroup>
-  <tr>
-    <td>
-      <h3><a href="https://www.faraday.ac.uk/awards-winners-2021" target="_blank">Faraday Institution’s Collaboration Award</a></h3>
-      <h5><a href="https://www.faraday.ac.uk">The Faraday Institution</a></h5>
-    </td>
-    <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/faraday-logo.png"></td>
-    <td></td>
-  </tr>
-</table>
-
-<br> -->
 
 <table>
   <colgroup>

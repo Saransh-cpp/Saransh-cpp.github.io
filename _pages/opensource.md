@@ -7,11 +7,9 @@ nav: true
 nav_order: 3
 ---
 
-<!-- I primarily contribute (or contributed) to (and in some cases maintain) **[PyBaMM ecosystem](https://github.com/pybamm-team/){:target="_blank"}**, **[Scikit-HEP/vector](https://github.com/scikit-hep/vector){:target="_blank"}** (and **[some surrounding packages](https://github.com/scikit-hep){:target="_blank"}**), **[Flux.jl](https://github.com/FluxML/Flux.jl){:target="_blank"}** (and **[some surrounding packages](https://github.com/FluxML){:target="_blank"}**), **[agda-stdlib](https://github.com/agda/agda-stdlib){:target="_blank}**, **[removestar](https://github.com/asmeurer/removestar){:target="_blank}**, and **[osl-incubator/scicookie](https://github.com/osl-incubator/scicookie){:target="_blank}**. My minor (or semi-major?) contributions are scattered all across GitHub (from the **[Scikit-HEP](https://github.com/scikit-hep/){:target="_blank"}** and **[Scientific Python](https://github.com/scientific-python/){:target="_blank"}** ecosystems to **[Zarr](https://github.com/zarr-developers/zarr-python){:target="_blank"}** and **[DeepXDE](https://github.com/lululxvi/deepxde){:target="_blank"}**).  -->
-
 Below is a list of projects I am involved with (as a maintainer, member, core-developer, contributor). I do NOT maintain all of the projects listed below. In fact, I am not even a "collaborator" for some of the projects mentioned here, but all of these projects have some significant contributions from me. I also voluntarily supervise students for programs like **[Google Summer of Code](https://summerofcode.withgoogle.com)**.
 
-Rest of my contributions on GitHub are scattered across Numerical Computing and HPC (Scientific Python + PyData + NumFOCUS affiliated) libraries.
+Rest of my contributions on GitHub are scattered across Computational Mathematics, Machine Learning, and HPC (Scientific Python + PyData + NumFOCUS affiliated) libraries.
 
 ---
 

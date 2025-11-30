@@ -44,7 +44,7 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ##### Master of Science in Computational Science and Engineering
 ###### September 2025 - Present | Lausanne, Switzerland
 
-- New here!
+- Coursework: Concurrent computing, Machine Learning, Programming concepts in scientific computing.
 
 ---
 
