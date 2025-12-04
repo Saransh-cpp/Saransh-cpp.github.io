@@ -12,6 +12,7 @@ main_repos:
   - scikit-hep/coffea
   - glass-dev/glass
   - asmeurer/removestar
+  - scientific-python/cookie
   - UCL/rsd-engineeringcourse
   - UCL-ARC/rsd-summerschool
   - UCL-ARC/green-hpc-course
@@ -23,9 +24,6 @@ main_repos:
 
 project_repos:
   - Saransh-cpp/polarising-content-on-indian-youtube-near-elections
-  # - Saransh-cpp/OCRed
-  # - Saransh-cpp/ChaoticEncryption.jl
-  # - Saransh-cpp/releaseup
   - Saransh-cpp/rmstar
   - Saransh-cpp/MemeTastic
   - Saransh-cpp/PopItUp
@@ -34,12 +32,8 @@ project_repos:
   - Saransh-cpp/ForMente
   - Saransh-cpp/ForMente-onWeb
 
-significant_repos:
-  - zarr-developers/zarr-python
-  - lululxvi/DeepXDE
-  - scientific-python/cookie
-
 talk_misc_repos:
+  - Saransh-cpp/ETHZ-navigating-through-RSE-as-undergrad
   - Saransh-cpp/SwissPythonSummit25-GLASS-array-api
   - Saransh-cpp/MODE25-awkward-jax
   - Saransh-cpp/CHEP24-vector-sympy-backend
@@ -52,12 +46,3 @@ talk_misc_repos:
   - Saransh-cpp/Papers
   # - Saransh-cpp/DSA
   # - Saransh-cpp/LearningProjects
-
-# small_repos:
-#   - bmcage/odes
-#   - sosy-lab/benchexec
-#   - colour-science/colour
-#   - idris-lang/Idris2
-#   - numpy/numpy
-#   - astropy/astropy
-#   - gallais/dot-analysis
