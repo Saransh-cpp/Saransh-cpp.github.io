@@ -8,7 +8,7 @@ nav_order: 2
 horizontal: false
 ---
 
-Below are my "formal" work experiences and educational qualifications. I also contribute to several open-source scientific software, and I consider that as an "experience" too (see **[/opensource](/opensource)**). I have also mentored several students and researchers who are new at writing code for research/scientific software (see **[/teaching](/teaching)**). Finally, programming can be learnt without any formal degrees; hence, my skills/abilities are not limited by my courses.
+Below are my "formal" work experiences and educational qualifications. I also contribute to several open-source scientific software, and I consider that as an "experience" too (see **[/opensource](/opensource)**). I have also mentored several students and researchers who are new at writing code for research/scientific software (see **[/teaching](/teaching)**). Finally, programming can be learnt without any formal degrees; hence, my skills/abilities are not limited to my courses.
 
 ---
 
@@ -18,9 +18,9 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 #### Education
 
-- Master's in Computational Science and Engineering \| September 2025 - Present \| [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/){:target="_blank"}
+- Master of Science in Computational Science and Engineering \| September 2025 - Present \| [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/){:target="_blank"}
 - Summer University on High-Performance Computing and Data Analytics \| July 2025 - July 2025 \| [Swiss National Supercomputing Centre](https://www.cscs.ch){:target="_blank"}
-- Bachelor's of Technology in Computer Science and Mathematics \| August 2020 - August 2024 \| [University of Delhi](https://www.du.ac.in){:target="_blank"}
+- Bachelor of Technology in Computer Science and Mathematics \| August 2020 - August 2024 \| [University of Delhi](https://www.du.ac.in){:target="_blank"}
 
 ---
 
@@ -75,6 +75,7 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ##### Research Software Engineer
 ###### Dr. Sam Cunliffe
 ###### June 2025 - September 2025 | London, United Kingdom
+
 - “Generalist” staff member in the Research Software Engineering group of the Advanced Research Computing Centre. Mostly involved with the HPC, DevOps, and Education sub-groups, open-source research theme, and Python tooling.
 - Added GPU and auto-differentiation support to large-scale cosmological simulations ([GLASS](https://glass.readthedocs.io/stable/)) for ESA's Euclid space mission  (GPU embedded Computational Science and Engineering grant by EPCC + Euclid space mission grant by the UKSA).
 - Involved with porting [UCL's XNAT](https://www.ucl.ac.uk/advanced-research-computing/ucl-xnat-service) service from VMs to an in-house [kubernetes-based cloud infrastructure](https://indico.egi.eu/event/6638/contributions/20466/).
@@ -84,6 +85,7 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ##### Assistant Research Software Engineer
 ###### Dr. Sam Cunliffe
 ###### August 2024 - June 2025 | London, United Kingdom
+
 - Same work, but with less degree of independence/leadership/ownership.
 
 ---
