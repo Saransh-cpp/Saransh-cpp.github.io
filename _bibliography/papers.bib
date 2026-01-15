@@ -111,8 +111,157 @@ html = {https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier
   author = {Thomas G. Tranter and Robert Timms and Valentin Sulzer and Ferran Brosa Planella and Gavin M. Wiggins and Suryanarayana V. Karra and Priyanshu Agarwal and Saransh Chopra and Srikanth Allu and Paul R. Shearing and Dan J. l. Brett},
   title = {liionpack: A Python package for simulating packs of batteries with PyBaMM},
   journal = {Journal of Open Source Software},
-  selected = {true},
+  selected = {false},
   abstract = {Electrification of transport and other energy intensive activities is of growing importance as it provides an underpinning method to reduce carbon emissions. With an increase in reliance on renewable sources of energy and a reduction in the use of more predictable fossil fuels in both stationary and mobile applications, energy storage will play a pivotal role and batteries are currently the most widely adopted and versatile form. Therefore, understanding how batteries work, how they degrade, and how to optimize and manage their operation at large scales is critical to achieving emission reduction targets. The electric vehicle (EV) industry requires a considerable number of batteries even for a single vehicle, sometimes numbering in the thousands if smaller cells are used, and the dynamics and degradation of these systems, as well as large stationary power systems, is not that well understood. As increases in the efficiency of a single battery become diminishing for standard commercially available chemistries, gains made at the system level become more important and can potentially be realised more quickly compared with developing new chemistries. Mathematical models and simulations provide a way to address these challenging questions and can aid the engineer and designers of batteries and battery management systems to provide longer lasting and more efficient energy storage systems.},
   html = {https://joss.theoj.org/papers/10.21105/joss.04051},
-  image = {../assets/img/liionpack.png}
+}
+
+@article{CHESS_EventAction_SemProj,
+  url = {https://saransh-cpp.github.io/Papers/embedded/flight_software/SemProj_CHESS_EventAction.pdf},
+  year = {2025},
+  journal = {EPFL Semester Project Report},
+  author = {Saransh Chopra},
+  title = {Design and Implementation of On-Board Autonomy for the CHESS Flight Software},
+  selected = {false},
+  abstract = {The space sector has recently witnessed a boom in CubeSats, a class of nano-satellite measuring 10 cm3
+(1U) or a multiple of it. The easy accessibility and cost-effectiveness of CubeSats has enabled people from
+academia, industry, and other sectors to build and launch satellites as secondary payloads on a bigger launch
+vehicle, facilitating scientific research in space. EPFL Spacecraft Team (EST)’s flagship mission, Constellation
+of High-Energy Swiss Satellites (CHESS), aims to launch two 3U CubeSats on two distinct orbits (circular and
+elliptical) around Earth to conduct spectroscopic analysis of Earth’s exospheric composition.
+In orbit, a CubeSat’s operations are governed by its Flight Software (FS). This software is responsible
+for interfacing with all hardware sub-systems, managing communications with ground stations, processing
+telecommands and telemetry, and ensuring overall system robustness through Fault Detection, Isolation, and
+Recovery. The On-Board Autonomy of FS is responsible for maintaining nominal operations in space
+without ground interventions, making automated decisions, and stabilizing the satellite in the occurrence of
+an unexpected faults. This project aims to set up the FS for CHESS, and designs and implements the On-
+Board Autonomy (EventAction) for the CHESS mission. The FS implemented as part of this project will be
+deployed on Pathfinder 0, the first fully-integrated test satellite planned to launch in Low Earth Orbit in
+2027. Concretely, this project contributes the following to EST’s CHESS mission:
+1. Set up the initial infrastructure and design of CHESS FS.
+2. Implementation of EventAction as an F` component.
+3. Finite State Machine governing the satellite’s global operating modes and managing transitions
+between them.
+4. A design for communication between EventAction and different FS sub-system managers via Triggers,
+created by a continuous stream of state-changing worthy information.
+5. A computational algorithm to process incoming triggers, make meaningful decisions, and execute ap-
+propriate responses. These include transitioning to a global SAFE state or its sub-states, and initiating
+stabilization procedures pending ground intervention.},
+  html = {https://saransh-cpp.github.io/Papers/embedded/flight_software/SemProj_CHESS_EventAction.pdf},
+}
+
+@article{btech_thesis,
+  url = {https://saransh-cpp.github.io/Papers/research_software_engineering/hep/thesis.pdf},
+  year = {2024},
+  journal = {Bachelor Thesis},
+  author = {Saransh Chopra},
+  title = {Computational upgrades to the high energy physics data analysis pipeline for future LHC/HL-LHC runs},
+  selected = {false},
+  abstract = {High Energy Physics experiments, such as the Large Hadron Collider at CERN, produce petabytes
+of data every year. Physicists require scalable and efficient scientific software to analyze and
+perform physics on the obtained data.elemedis The initial frameworks and scientific software
+developed for analyzing HEP data, such as ROOT, GEANT4, and BOOST, were written in C and C++;
+hence, such software had and still
+have a steep learning curve, especially for physicists with no programming background. Multiple
+HEP ecosystems have emerged in languages that are comparatively easy to pick up, such as the
+IRIS-HEP ecosystem in Python. This thesis began as a bid to implement the
+remaining pieces of Automatic Differentiation in Awkward Arrays, Vector, and Coffea
+but soon expanded to work on multiple other
+computational upgrades to the IRIS-HEP ecosystem. More specifically, this thesis extends the
+support of AD in Awkward Arrays, implements the Unified Histogram Interface for rebinning in
+boost-histogram, migrates Coffea’s vector algebra
+backend to Scikit-HEP/vector, and implements a symbolic backend in Vector. The work also
+includes several computational upgrades specifically in Vector to meet its rapidly growing user
+base. Finally, this thesis also includes development of a new Python package, cuda-histogram, to
+support Histogramming on GPUs for HEP data analysis pipelines. The work carried out in the past
+six months has already been integrated into the data analysis pipelines of physicists all around the
+globe. Furthermore, the upcoming upgrade of the Large Hadron Collider to the High-Luminosity
+Large Hadron Collider demands an even fine-grained suite of software, and the work carried out
+during this thesis adds up to these upgrades.},
+  html = {https://saransh-cpp.github.io/Papers/research_software_engineering/hep/thesis.pdf},
+}
+
+@article{mcmaster_report,
+  url = {https://saransh-cpp.github.io/Papers/theoretical_cs/type_theory/mcmaster_report.pdf},
+  year = {2023},
+  journal = {McMasterU Visiting Research Student Report},
+  author = {Saransh Chopra},
+  title = {Formalising Mathematics and Computing in Agda},
+  selected = {false},
+  abstract = {Type systems were originally devised to aid programmers in code development by validating
+variable passing, method interaction, and overall code structure to detect runtime errors at compile
+time. However, the Curry-Howard Isomorphism has propelled the evolution of
+type systems beyond their initial purpose, transforming them into tools not only for programming
+assistance but also for supporting mathematicians in theorem proving. This evolution has given rise
+to strongly typed functional programming languages, including Agda,
+Idris 2, Lean, and Coq, which leverage the Curry-Howard Isomorphism to act as proof assistants.
+In response to the growing requirement for strongly typed systems exhibiting this isomorphism, it
+becomes important to develop and distribute free and open-source software for researchers. This
+work aims to enhance Agda’s standard library and prepare it for
+version 2.0.0. The improvements encompass refactoring the library, introducing new functions
+and proofs, addressing mathematical bugs, streamlining the library’s dependency graph to reduce
+compile time, and incorporating concepts of finiteness. By undertaking these enhancements, the
+research contributes to the ongoing development of robust tools for both programming and formal
+mathematical reasoning, ultimately contributing to both, the fields of computing and mathematics.},
+  html = {https://saransh-cpp.github.io/Papers/theoretical_cs/type_theory/mcmaster_report.pdf},
+}
+
+@article{sofie_report,
+  url = {https://saransh-cpp.github.io/Papers/deep_learning/fast_inference/ML4SC_SOFIE.pdf},
+  year = {2025},
+  journal = {EPFL Machine Learning for Science Project Report},
+  author = {Francesco Derme and Pietro Fumagalli and Saransh Chopra},
+  title = {Towards handling 10Pb/s of data through Machine Learning at CERN’s Large Hadron Collider},
+  selected = {false},
+  abstract = {High Energy Physics (HEP) experiments, such as the
+Large Hadron Collider (LHC) at the European Organization
+for Nuclear Research (CERN), produce petabytes of data every
+second. Physicists are now actively integrating Machine Learning
+techniques in various parts of the pipeline to collect and analyze
+this data. Given the massive scale of these experiments, and
+the upcoming High Luminosity upgrade to LHC (HL-LHC), it’s
+becoming increasingly important to accelerate the inference of
+ML models beyond the supported capabilities of present day
+frameworks. The System for Optimized Fast Inference code
+Emit (SOFIE), is a C++ library developed by CERN for fast
+ML inference. SOFIE allows parsing a trained ML model into
+a highly-optimized C++ function, making it possible to run
+the inference process with minimal overhead and dependencies.
+CERN’s Machine Learning For Experimental Physics team has
+recently been experimenting with adding heterogeneous comput-
+ing support to SOFIE using the Alpaka library, allowing it to
+run inference on any device (including GPUs) while maintaining
+a single codebase. This paper extends SOFIE’s Alpaka backend
+with four new kernels, and adds related tests and documentation,
+allowing SOFIE to support inference on GPUs for more ML
+models. It further benchmarks the newly added operators against
+PyTorch implementations to showcase an increase in performance
+and the readiness to be used at scale.},
+  html = {https://saransh-cpp.github.io/Papers/deep_learning/fast_inference/ML4SC_SOFIE.pdf},
+}
+
+@article{SDL_report,
+  url = {https://saransh-cpp.github.io/Papers/deep_learning/computer_vision/synergic_deep_learning/Development_of_Synergic_Deep_Learning_model_for_Glioma_Tumor_Grading.pdf},
+  year = {2023},
+  journal = {DU Semester Project Report},
+  author = {Saransh Chopra and Harshvir Sandhu and Ishan Bansal},
+  title = {A Synergic Deep Learning Approach for Glioma Grading from Brain Tumor MRI Images},
+  selected = {false},
+  abstract = {Computer-aided diagnosis using deep learning approaches has made tremendous im-
+provements in medical imaging for automatically detecting tumor area, tumor type, and
+grade. These advancements, however, have been limited due to the fact that 1) medical
+images are often less in quantity, leading to overfitting, and 2) significant inter-class
+similarity and intra-class variation between the images. This study proposes a Synergic Deep Learning model with an AlexNet as a backbone for the automatic
+grading of glioma tumors. The Synergic Deep Learning architecture enables two pre-
+trained models to mutually learn from each other, allowing them to perform better than
+vanilla pre-trained models. Our study uses 417 T1-weighted sagittal tumor Magnetic
+Resonance Imaging (MRI) slices obtained from the REMBRANDT dataset. These
+417 slices are pre-processed and augmented before they are fed into the model, which
+then classifies the tumor into one of the three grades: oligodendro glioma, anaplastic
+glioma, and glioblastoma multiforme. The proposed architecture achieves accuracy of
+98.36%, showing that the model achieves excellent performance metrics even after being
+trained on an extremely small dataset. Finally, the proposed SDL model trained on less
+number of MRI images performs wither better or equally with other models trained on
+larger datasets in the literature.},
+  html = {https://saransh-cpp.github.io/Papers/deep_learning/computer_vision/synergic_deep_learning/Development_of_Synergic_Deep_Learning_model_for_Glioma_Tumor_Grading.pdf},
 }
