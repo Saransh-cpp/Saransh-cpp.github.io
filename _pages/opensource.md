@@ -60,6 +60,8 @@ Organization logos = contributions to multiple libraries of the ecosystem.
 
 ## Significant projects
 
+From mobile applications to HPC to DevOps (including personal, coursework, and team projects/work).
+
 {% if site.data.repositories.project_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-around align-items-center">
   {% for repo in site.data.repositories.project_repos %}
