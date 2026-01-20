@@ -56,33 +56,9 @@ Organization logos = contributions to multiple libraries of the ecosystem.
     <a href="https://github.com/scientific-python/" target="_blank"><img src="/assets/img/scientific-python-logo.svg" style="width: 150px"/></a>
 </div>
 
-<!-- {% if site.data.repositories.significant_repos %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-around align-items-center">
-  {% for repo in site.data.repositories.significant_repos %}
-    {% include repository/repo.html repository=repo %}
-  {% endfor %}
-</div>
-{% endif %} -->
-
 ---
 
-<!-- ## Small but nice contributions
-
-Small contributions (not a spam spelling fix in README) that I did spend some time on.
-
-{% if site.data.repositories.small_repos %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-around align-items-center">
-  {% for repo in site.data.repositories.small_repos %}
-    {% include repository/repo.html repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
-
----  -->
-
-## Personal projects
-
-Personal projects that have some significant number stars or downloads (or took a lot of time for me to develop).
+## Significant projects
 
 {% if site.data.repositories.project_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-around align-items-center">
