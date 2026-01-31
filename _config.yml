@@ -69,10 +69,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: Saransh-cpp
 gitlab_username: # GitLab user name
-twitter_username: saranshchopra7
+twitter_username: # twitter user name
 linkedin_username: saransh-cpp
 scholar_userid: # Google Scholar ID
-orcid_id: # ORCID ID
+orcid_id: 0000-0003-3046-7675
 medium_username: whiteviolin
 quora_username: # Quora username
 publons_id: # Publons ID
