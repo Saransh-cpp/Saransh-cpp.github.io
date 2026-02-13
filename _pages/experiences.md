@@ -26,11 +26,19 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 #### Work
 
+- AI Engineering Intern \| February 2026 - Present \| [Logitech](https://www.logitech.com/en-ch){:target="_blank"}
 - Research Software Engineer \| June 2025 - September 2025 \| [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 - Assistant Research Software Engineer \| August 2024 - June 2025 \| [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 - Research Software Engineer \| January 2024 - August 2024 \| [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}, [IRIS-HEP](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}
 - Visiting Student Researcher (Mitacs Globalink Research Intern) \| June 2023 - August 2023 \| [McMaster University](https://www.mcmaster.ca){:target="_blank"}
 - Research Fellow \| June 2022 - September 2022 \| [Institute for Research and Innovation in Software for High Energy Physics](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
+
+---
+
+#### Other work
+
+- Machine Learning Engineer \| September 2025 - Present \| [EPFL AI Team](https://epflaiteam.ch){:target="_blank"}, [CERN](https://home.cern){:target="_blank"}, [EPFL (École Polytechnique Fédérale de Lausanne)](https://www.epfl.ch/en/){:target="_blank"}
+- Flight Software Engineer \| September 2025 - Present \| [EPFL Spacecraft Team](https://www.epflspacecraftteam.ch){:target="_blank"}, [EPFL (École Polytechnique Fédérale de Lausanne)](https://www.epfl.ch/en/){:target="_blank"}
 - Technical Writer and Open-Source Developer \| May 2022 - October 2022 \| [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
 - Google Summer of Code Developer \| May 2021 - September 2021 \| [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 
@@ -40,11 +48,15 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 ---
 
-#### [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/){:target="_blank"}
+#### [EPFL (École Polytechnique Fédérale de Lausanne)](https://www.epfl.ch/en/){:target="_blank"}
 ##### Master of Science in Computational Science and Engineering
 ###### September 2025 - Present | Lausanne, Switzerland
 
-- Coursework: Concurrent computing, Machine Learning, Programming concepts in scientific computing.
+- Current grade: 5.125/6.
+- Notable projects:
+  - Semester project (with [EPFL Spacecraft Team](https://www.epflspacecraftteam.ch){:target="_blank"}): Design and implementation of On-Board Autonomy for the CHESS flight software.
+  - ML course project (with [CERN](https://home.cern){:target="_blank"}): Towards handling 10Pb/s of data through Machine Learning at CERN’s Large Hadron Collider.
+- Relevant coursework: Concurrent computing, machine learning, programming concepts in scientific computing.
 
 ---
 
@@ -52,7 +64,7 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ##### Summer University on High-Performance Computing and Data Analytics
 ###### July 2025 - July 2025 | Remote
 
-- Coursework: GPU architectures, GPU programming (CUDA), Programming model, Memory management, Performance optimization and scientific libraries, GPU-Accelerated Computing with Python, NumPy-like libraries for both CPUs and GPUS computing, Just-in-time compilation from Python code, Distributed workloads on HPC clusters.
+- Coursework: GPU architectures, GPU programming (CUDA), programming model, memory management, performance optimization and scientific libraries, GPU-Accelerated computing with Python, NumPy-like libraries for both CPU and GPU computing, Just-in-time compilation from Python code, distributed workloads on HPC clusters.
 
 ---
 
@@ -60,16 +72,29 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ##### Bachelor of Technology in Computer Science and Mathematics
 ###### September 2025 - Present | New Delhi, India
 
-- Grade: 9.5/10; department rank: 2/55; DUET 2020 All India Rank: 42/~10,000
-- Thesis at CERN: Computational upgrades to the high energy physics analysis pipeline for future LHC/HL-LHC runs.
+- Final grade: 9.5/10; department rank: 2/55; DUET 2020 All India Rank: 42/~10,000
+- Thesis at [CERN](https://home.cern){:target="_blank"}: Computational upgrades to the High Energy Physics analysis pipeline for future LHC/HL-LHC runs.
+- Notable projects:
+  - Semester project: A Synergic Deep Learning Approach for Glioma Grading from Brain Tumor MRI Images.
+  - Computational Social Systems course project: A Novel Model to Monitor and Measure Political and Governance Bias of News Channel’s Content on YouTube: Experimental Insights and Reflections.
 - Lead Organizer of Convoke 5.0 (annual TechFest) and HashHacks (24-hour-long hackathon) (managed 30+ volunteers and 300+ attendees).
 - Involved in leading several official teaching and mentoring workshops organised by CIC, including conducting yearly and one-time workshops. Some of the reports for these workshops are available on CIC’s website and some of them were lost with time.
 
 ---
 
-### Full-time experiences
+### Work
 
 ---
+
+#### [Logitech](https://www.logitech.com/en-ch){:target="_blank"}
+##### AI Engineering Intern
+###### Dr. Jonathan Dan
+###### February 2026 - Present | Vaud, Switzerland
+
+- Working with the Cognitive AI team at Logitech's technology office.
+
+---
+
 
 #### [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 ##### Research Software Engineer
@@ -101,10 +126,6 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 ---
 
-### Research internships
-
----
-
 #### [McMaster University](https://www.mcmaster.ca){:target="_blank"}
 ##### Visiting Student Researcher (Mitacs Globalink Research Intern)
 ###### Prof. Jacques Carette
@@ -125,7 +146,23 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 ---
 
-### Other experiences
+### Other work
+
+---
+
+#### [EPFL AI Team](https://epflaiteam.ch){:target="_blank"}, [CERN](https://home.cern){:target="_blank"}, [EPFL (École Polytechnique Fédérale de Lausanne)](https://www.epfl.ch/en/){:target="_blank"}
+##### Machine Learning Engineer
+###### September 2025 - Present | Lausanne, Switzerland (Part-Time)
+
+- Writing clustering algorithms to cluster calorimetric particle showers at CERN's Large Hadron Collider into a point cloud of lower dimensionality (dataset reduction without losing Physical properties) for fast ML-based simulations.
+
+---
+
+#### [EPFL Spacecraft Team](https://fluxml.ai){:target="_blank"}, [EPFL (École Polytechnique Fédérale de Lausanne)](https://www.epfl.ch/en/){:target="_blank"}
+##### Flight Software Engineer
+###### September 2025 - Present | Lausanne, Switzerland (Part-Time)
+
+- Designing and implementing On-Board Autonomy for the flight software of Constellation of High-Energy Swiss Satellites (CHESS) mission using NASA's F-prime framework (embedded C++).
 
 ---
 
