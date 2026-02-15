@@ -154,7 +154,7 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ##### Machine Learning Engineer
 ###### September 2025 - Present | Lausanne, Switzerland (Part-Time)
 
-- Writing clustering algorithms to cluster calorimetric particle showers at CERN's Large Hadron Collider into a point cloud of lower dimensionality (dataset reduction without losing Physical properties) for fast ML-based simulations.
+- Writing physics-aware clustering algorithms to compress particle shower data into lower dimensionality for efficient and fast ML-based high energy physics simulations.
 
 ---
 
