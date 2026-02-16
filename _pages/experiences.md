@@ -76,7 +76,7 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ##### Bachelor of Technology in Computer Science and Mathematics
 ###### September 2025 - Present | New Delhi, India
 
-- Final grade: 9.5/10; department rank: 2/55; DUET 2020 All India Rank: 42/~10,000
+- Final grade: 9.5/10; department rank: 2/55; entrance examination (DUET) 2020 All India Rank: 42/~10,000 (selected in a cohort of 59 students)
 - Thesis at [CERN](https://home.cern){:target="_blank"}: Computational upgrades to the High Energy Physics analysis pipeline for future LHC/HL-LHC runs.
 - Notable projects:
   - Semester project: A Synergic Deep Learning Approach for Glioma Grading from Brain Tumor MRI Images.
