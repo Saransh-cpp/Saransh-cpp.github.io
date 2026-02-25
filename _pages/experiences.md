@@ -37,8 +37,6 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 #### Other work
 
-- Machine Learning Engineer \| September 2025 - Present \| [EPFL AI Team](https://epflaiteam.ch){:target="_blank"}, [CERN](https://home.cern){:target="_blank"}, [EPFL (École Polytechnique Fédérale de Lausanne)](https://www.epfl.ch/en/){:target="_blank"}
-- Flight Software Engineer \| September 2025 - Present \| [EPFL Spacecraft Team](https://www.epflspacecraftteam.ch){:target="_blank"}, [EPFL (École Polytechnique Fédérale de Lausanne)](https://www.epfl.ch/en/){:target="_blank"}
 - Technical Writer and Open-Source Developer \| May 2022 - October 2022 \| [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
 - Google Summer of Code Developer \| May 2021 - September 2021 \| [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 
@@ -55,8 +53,11 @@ Below are my "formal" work experiences and educational qualifications. I also co
 - Current grade: 5.125/6.
 - Machine Learning Engineer @ [EPFL AI Team](https://epflaiteam.ch){:target="_blank"} (collaborating with [CERN](https://home.cern){:target="_blank"}) (September 2025 - Present)
   - Writing physics-aware clustering algorithms to compress particle shower data into lower dimensionality for efficient and fast ML-based high energy physics simulations.
-- Flight Software Engineer @ [EPFL Spacecraft Team](https://epflspacecraftteam.ch){:target="_blank"} (September 2025 - Present)
+- Flight Software Lead Engineer @ [EPFL Spacecraft Team](https://epflspacecraftteam.ch){:target="_blank"} (March 2026 - Present)
   - Designing and implementing On-Board Autonomy for the flight software of Constellation of High-Energy Swiss Satellites (CHESS) mission using NASA's F-prime framework (embedded C++).
+  - Managing/supervising a team of Flight Software Engineers.
+- Flight Software Engineer @ [EPFL Spacecraft Team](https://epflspacecraftteam.ch){:target="_blank"} (September 2025 - March 2026)
+  - Same work as above with no management/supervision responsibilities.
 - Notable projects:
   - Semester project (with [EPFL Spacecraft Team](https://www.epflspacecraftteam.ch){:target="_blank"}): Design and implementation of On-Board Autonomy for the CHESS flight software.
   - ML course project (with [CERN](https://home.cern){:target="_blank"}): Towards handling 10Pb/s of data through Machine Learning at CERN’s Large Hadron Collider.
