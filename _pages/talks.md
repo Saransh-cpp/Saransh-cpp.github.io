@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3><a href="https://indi.to/nvwyq" target="_blank">step2point: Enhancing data preparation for point-cloud-based fast simulation [upcoming]</a></h3>
+      <h5><a href="https://indico.cern.ch/event/1471803/contributions/6967990/">28th International Conference on Computing in High Energy and Nuclear Physics</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:55%" src="../assets/img/chep25-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3><a href="https://rse.swiss/events/2025_12_04_rse_career_talks/" target="_blank">RSE Career Talks Panel [invited]</a></h3>
       <h5><a href="https://rse.swiss">RSE Swiss</a>, <a href="https://ethz.ch">ETH Zurich</a></h5>
     </td>
@@ -69,7 +86,7 @@ horizontal: false
       <h3><a href="https://paddyroddy.github.io/posters/euroscipy-2025/index.svg" target="_blank">Porting GLASS to the Python Array API</a></h3>
       <h5><a href="https://euroscipy.org">EuroSciPy 2025</a></h5>
     </td>
-    <td style="text-align: center"><img style="float: middle; width:40%" src="../assets/img/euroscipy-logo.png"></td>
+    <td style="text-align: center"><img style="float: middle; width:35%" src="../assets/img/euroscipy-logo.png"></td>
     <td></td>
   </tr>
 </table>
