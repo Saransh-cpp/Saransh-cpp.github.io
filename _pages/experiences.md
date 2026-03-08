@@ -53,8 +53,8 @@ Below are my "formal" work experiences and educational qualifications. I also co
 - Current grade: 5.125/6.
 - Machine Learning Engineer @ [EPFL AI Team](https://epflaiteam.ch){:target="_blank"} (collaborating with [CERN](https://home.cern){:target="_blank"}) (September 2025 - Present)
   - Writing physics-aware clustering algorithms to compress particle shower data into lower dimensionality for efficient and fast ML-based high energy physics simulations.
-- Flight Software Lead Engineer @ [EPFL Spacecraft Team](https://epflspacecraftteam.ch){:target="_blank"} (March 2026 - Present)
-  - Designing and implementing On-Board Autonomy for the flight software of Constellation of High-Energy Swiss Satellites (CHESS) mission using NASA's F-prime framework (embedded C++).
+- Flight Software Subsystems Lead @ [EPFL Spacecraft Team](https://epflspacecraftteam.ch){:target="_blank"} (March 2026 - Present)
+  - Designing and implementing On-Board Autonomy for the flight software of Constellation of High-Energy Swiss Satellites (CHESS) mission using NASA's F-prime (embedded C++).
   - Managing/supervising a team of Flight Software Engineers.
 - Flight Software Engineer @ [EPFL Spacecraft Team](https://epflspacecraftteam.ch){:target="_blank"} (September 2025 - March 2026)
   - Same work as above with no management/supervision responsibilities.
