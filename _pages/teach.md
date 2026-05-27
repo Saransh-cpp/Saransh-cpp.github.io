@@ -20,6 +20,14 @@ My work on open-source software can also be considered a voluntary position. For
 
 ---
 
+#### [Research Software Maintenance Fund Panellist](https://www.software.ac.uk/programmes/research-software-maintenance-fund){:target="_blank"}
+##### [Software Sustainability Institute](https://www.software.ac.uk){:target="_blank"}
+###### September 2025 - September 2026 | Remote
+
+- Responsible to review grant proposals (over 2 rounds) involving (but not limited to) High Performance Computing for Mathematical and Physical Sciences.
+
+---
+
 #### [University College London](https://www.ucl.ac.uk){:target="_blank"}
 ###### August 2024 -- September 2025 | London, UK
 
