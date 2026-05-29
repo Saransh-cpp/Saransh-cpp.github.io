@@ -15,10 +15,27 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://indi.to/nvwyq" target="_blank">step2point: Enhancing data preparation for point-cloud-based fast simulation [upcoming]</a></h3>
+      <h3><a href="https://indi.to/nvwyq" target="_blank">step2point: Enhancing data preparation for point-cloud-based fast simulation</a></h3>
       <h5><a href="https://indico.cern.ch/event/1471803/contributions/6967990/">28th International Conference on Computing in High Energy and Nuclear Physics</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:55%" src="../assets/img/chep25-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
+      <h3><a href="https://paddyroddy.github.io/talks/porting-glass-to-the-python-array-api/" target="_blank">Porting GLASS to the Python Array API</a></h3>
+      <h5><a href="https://www.archer2.ac.uk/community/events/celebration-of-science-2026">ARCHER2 Celebration of Science 2026</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/archer2-logo.png"></td>
     <td></td>
   </tr>
 </table>

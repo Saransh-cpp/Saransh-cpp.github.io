@@ -26,7 +26,7 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 #### Work
 
-- AI Engineering Intern \| February 2026 - Present \| [Logitech](https://www.logitech.com/en-ch){:target="_blank"}
+- ML Engineering Intern \| February 2026 - Present \| [Logitech](https://www.logitech.com/en-ch){:target="_blank"}
 - Research Software Engineer \| June 2025 - September 2025 \| [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 - Assistant Research Software Engineer \| August 2024 - June 2025 \| [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 - Research Software Engineer \| January 2024 - August 2024 \| [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}, [IRIS-HEP](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}
@@ -92,7 +92,7 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ---
 
 #### [Logitech](https://www.logitech.com/en-ch){:target="_blank"}
-##### AI Engineering Intern
+##### ML Engineering Intern
 ###### Dr. Jonathan Dan
 ###### February 2026 - Present | Vaud, Switzerland
 
