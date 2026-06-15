@@ -23,6 +23,7 @@ main_repos:
   - smaranjitghose/DocLense
 
 project_repos:
+  - Saransh-cpp/ScalpeLB
   - Saransh-cpp/ORION
   - Saransh-cpp/ROOT
   - Saransh-cpp/SOFIE-ALPAKA
