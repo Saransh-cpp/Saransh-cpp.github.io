@@ -2,11 +2,62 @@
 layout: page
 title: talks
 permalink: /talks/
-description: talks, posters, workshops, ... (🎥 -> video links)
+description: talks, posters, workshops, ... (🎥 -> video links) (as a presenter / author / co-author)
 nav: true
 nav_order: 6
 horizontal: false
 ---
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
+      <h3><a href="https://paddyroddy.github.io/talks/the-python-array-api-standard/" target="_blank">The Python Array API Standard</a></h3>
+      <h5><a href="https://step-up.ac.uk/events/step-up-2026/">STEP-UP RSLondon Conference 2026</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:65%" src="../assets/img/step-up-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
+      <h3><a href="https://lausanne.aitinkerers.org/talks/rsvp_OB9lX3nGja8" target="_blank">Gaze tracking: implicit calibration is all you need</a></h3>
+      <h5><a href="https://lausanne.aitinkerers.org/p/ai-tinkerers-lausanne-june-2026-meetup">AI Tinkerers Lausanne Meetup, Logitech</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:65%" src="../assets/img/ai-tinkerers-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
+      <h3><a href="https://paddyroddy.github.io/posters/festival-of-digital-research-innovation-scholarship-2026/index.svg" target="_blank">Porting GLASS to the Python Array API: A Clear View to GPU Portability</a></h3>
+      <h5><a href="https://www.ucl.ac.uk/advanced-research-computing/events/2026/jun/festival-digital-research-innovation-scholarship">UCL Festival of Digital Research, Innovation & Scholarship 2026</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/ucl-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
 
 <table>
   <colgroup>
