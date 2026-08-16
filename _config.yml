@@ -85,7 +85,7 @@ dblp_url: # DBLP profile url
 stackoverflow_id: # stackoverflow id
 
 contact_note: >
-  talk to me about HPC, applied machine learning, computational mathematics, and open-source scientific software!
+  talk to me about machine learning engineering, HPC, scientific computing, and open-source scientific software!
 
 google_analytics:  # google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # google-site-verification ID (Google Search Console)

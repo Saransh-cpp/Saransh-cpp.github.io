@@ -2,7 +2,7 @@
 layout: page
 title: experiences
 permalink: /experiences/
-description: mostly computational science, high-performance computing, devops, and research software engineering, with some type theory, functional programming, machine learning, and non-research software engineering, ...
+description: mostly machine learning engineer, high-performance computing, devops, computational science, and research software engineering
 nav: true
 nav_order: 2
 horizontal: false
@@ -26,7 +26,8 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 #### Work
 
-- ML Engineering Intern \| February 2026 - Present \| [Logitech](https://www.logitech.com/en-ch){:target="_blank"}
+- Junior Machine Learning Engineer (part-time) \| August 2026 - Present \| [Logitech](https://www.logitech.com/en-ch){:target="_blank"}
+- Machine Learning Engineer Intern \| February 2026 - August 2026 \| [Logitech](https://www.logitech.com/en-ch){:target="_blank"}
 - Research Software Engineer \| June 2025 - September 2025 \| [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 - Assistant Research Software Engineer \| August 2024 - June 2025 \| [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 - Research Software Engineer \| January 2024 - August 2024 \| [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}, [IRIS-HEP](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}
@@ -75,7 +76,7 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 #### [University of Delhi](https://www.du.ac.in){:target="_blank"}
 ##### Bachelor of Technology in Computer Science and Mathematics
-###### September 2025 - Present | New Delhi, India
+###### August 2020 - August 2024 | New Delhi, India
 
 - Final grade: 9.5/10; department rank: 2/55; entrance examination (DUET) 2020 All India Rank: 42/~10,000 (selected in a cohort of 59 students)
 - Thesis at [CERN](https://home.cern){:target="_blank"}: Computational upgrades to the High Energy Physics analysis pipeline for future LHC/HL-LHC runs.
@@ -92,18 +93,28 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ---
 
 #### [Logitech](https://www.logitech.com/en-ch){:target="_blank"}
-##### ML Engineering Intern
-###### Dr. Jonathan Dan
-###### February 2026 - Present | Vaud, Switzerland
+##### Junior Machine Learning Engineer (part-time)
+###### August 2026 - Present | Vaud, Switzerland
 
-- Working with the Cognitive AI team at Logitech's technology office.
+- Working with the Video AI/ML team at Logitech’s Borel Innovation Center.
+
+---
+
+#### [Logitech](https://www.logitech.com/en-ch){:target="_blank"}
+##### Machine Learning Engineer Intern
+###### February 2026 - August 2026 | Vaud, Switzerland
+
+- Worked with the Cognitive AI team at Logitech’s Borel Innovation Center.
+- Collected two new datasets to evaluate and study gaze tracking models, calibration techniques, and the effect of environment (lighting and movement) conditions on the models/calibration heads/trackers.
+- Built a novel self-calibrating (through user interactions) ML model for gaze tracking through RGB webcams, closely matching (within ~1.2°) hardware eye-trackers across controlled environment conditioned. Paper under preparation.
+- Shipped a live demo (4K input, 30 Hz UI on an RTX 2080 Ti) with a multi-threaded backend for internal and public events hosted at Logitech, showing that RGB camera based gaze tracking can be used for user interactions in practical (in-the-wild; constantly changing) settings.
+- Involved in other internal projects/work.
 
 ---
 
 
 #### [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing){:target="_blank"}, [University College London](https://www.ucl.ac.uk){:target="_blank"}
 ##### Research Software Engineer
-###### Dr. Sam Cunliffe
 ###### June 2025 - September 2025 | London, United Kingdom
 
 - “Generalist” staff member in the Research Software Engineering group of the Advanced Research Computing Centre. Mostly involved with the HPC, DevOps, and Education sub-groups, open-source research theme, and Python tooling.
@@ -113,7 +124,6 @@ Below are my "formal" work experiences and educational qualifications. I also co
 - See [/teaching](/teaching) for teaching and community activities.
 
 ##### Assistant Research Software Engineer
-###### Dr. Sam Cunliffe
 ###### August 2024 - June 2025 | London, United Kingdom
 
 - Same work, but with less degree of independence/leadership/ownership.
@@ -122,7 +132,6 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 #### [CERN](https://home.cern){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
 ##### Research Software Engineer
-###### Dr. Jim Pivarski (Princeton University)
 ###### January 2024 - August 2024 | Geneva, Switzerland
 
 - Extended auto-differentiation support for [high-energy physics libraries](https://scikit-hep.org/#basic) operating on ragged and JSON-like data.
@@ -133,7 +142,6 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 #### [McMaster University](https://www.mcmaster.ca){:target="_blank"}
 ##### Visiting Student Researcher (Mitacs Globalink Research Intern)
-###### Prof. Jacques Carette
 ###### June 2023 - August 2023 | Hamilton, Ontario, Canada
 
 - Worked with functional programming, type theory, and logic to add proofs and algorithms for data containers and mathematical operations in [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)'s [standard library](https://github.com/agda/agda-stdlib).
@@ -143,7 +151,6 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 #### [IRIS-HEP](https://researchcomputing.princeton.edu/research/iris-hep-software-institute){:target="_blank"}, [Princeton University](https://www.princeton.edu){:target="_blank"}
 ##### Research Fellow
-###### Dr. Henry Schreiner (Princeton University), Dr. Jim Pivarski (Princeton University)
 ###### June 2022 - September 2022 | Remote
 
 - Co-authored a [Python-based Lorentz vector manipulation library](https://vector.readthedocs.io/en/latest/) with support for ragged data and JIT compilation.
@@ -157,12 +164,10 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 #### [FluxML](https://fluxml.ai){:target="_blank"}, [Julia Programming Language](https://julialang.org){:target="_blank"}
 ##### Technical Writer and Open-Source Developer
-###### Mr. Dhairya Gandhi (Julia Computing / JuliaHub)
 ###### May 2022 - October 2022 | Remote (Part-Time)
 
 ---
 
 #### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 ##### Open-Source Developer (Google Summer of Code)
-###### Dr. Valentin Sulzer (Carnegie Mellon University), Dr. Ferran Brosa Planella (University of Warwick), Dr. Robert Timms (University of Oxford)
 ###### May 2021 - September 2021 | Remote
