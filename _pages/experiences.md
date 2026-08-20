@@ -106,6 +106,7 @@ Below are my "formal" work experiences and educational qualifications. I also co
 
 - Worked with the Cognitive AI team at Logitech’s Borel Innovation Center.
 - Collected two new datasets to evaluate and study gaze tracking models, calibration techniques, and the effect of environment (lighting and movement) conditions on the models/calibration heads/trackers.
+- Fine-tuned DINOv3 ViT-H for gaze estimation by pooling and standardizing multiple gaze datasets, achieving SOTA results on MPIIFaceGaze and near-SOTA results on ETH-XGaze.
 - Built a novel self-calibrating (through user interactions) ML model for gaze tracking through RGB webcams, closely matching (within ~1.2°) hardware eye-trackers across controlled environment conditioned. Paper under preparation.
 - Shipped a live demo (4K input, 30 Hz UI on an RTX 2080 Ti) with a multi-threaded backend for internal and public events hosted at Logitech, showing that RGB camera based gaze tracking can be used for user interactions in practical (in-the-wild; constantly changing) settings.
 - Involved in other internal projects/work.
