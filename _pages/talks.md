@@ -15,7 +15,7 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
-      <h3><a href="https://virtual.oxfordabstracts.com/e/rsecon26/program" target="_blank">Porting GLASS to the Python Array API: A Clear View to GPU Portability</a></h3>
+      <h3><a href="https://connoraird.github.io/posters/rsecon-2026/" target="_blank">Porting GLASS to the Python Array API: A Clear View to GPU Portability</a></h3>
       <h5><a href="https://rsecon26.society-rse.org">10th International Conference on Research Software Engineering</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/rsecon26-logo.png"></td>
