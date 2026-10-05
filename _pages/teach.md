@@ -47,7 +47,7 @@ My work on open-source software can also be considered a voluntary position. For
 ##### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 ###### May - September 2025 | Remote
 
-- Supervisor for Medha, working on the project "[Adding a Dispatching Mechanism for Third Party Models](https://summerofcode.withgoogle.com/programs/2025/projects/3t9McTvW)."
+- Supervised Medha on the project "[Adding a Dispatching Mechanism for Third Party Models](https://summerofcode.withgoogle.com/programs/2025/projects/3t9McTvW)."
 
 ---
 
@@ -92,9 +92,9 @@ My work on open-source software can also be considered a voluntary position. For
 ##### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 ###### May - September 2024 | Remote
 
-- Supervisor for Santhosh, working on the project "[Migrate to scikit-build-core](https://summerofcode.withgoogle.com/programs/2024/projects/eU9Jznmr)."
-- Supervisor for Ankit, working on the project "[Dockerizing and Simplifying PyBaMM's Installation](https://summerofcode.withgoogle.com/programs/2024/projects/YyLzWWqr)."
-- Supervisor for Pradyot, working on the project "[Improve PyBaMM's testing infrastructure](https://summerofcode.withgoogle.com/programs/2024/projects/gnFfAnqb)."
+- Supervised Santhosh on the project "[Migrate to scikit-build-core](https://summerofcode.withgoogle.com/programs/2024/projects/eU9Jznmr)."
+- Supervised Ankit on the project "[Dockerizing and Simplifying PyBaMM's Installation](https://summerofcode.withgoogle.com/programs/2024/projects/YyLzWWqr)."
+- Supervised Pradyot on the project "[Improve PyBaMM's testing infrastructure](https://summerofcode.withgoogle.com/programs/2024/projects/gnFfAnqb)."
 
 ---
 
@@ -102,7 +102,7 @@ My work on open-source software can also be considered a voluntary position. For
 ##### [Open Science Labs (OSL)](https://opensciencelabs.org){:target="_blank"}
 ###### January - May 2024 | Remote
 
-- Supervisor for Naman, working on the project "[Improve Scicookie Documentation](https://opensciencelabs.org/programs/internship/cycles/2024-01/#scicookie)."
+- Supervised Naman on the project "[Improve Scicookie Documentation](https://opensciencelabs.org/programs/internship/cycles/2024-01/#scicookie)."
 
 ---
 
@@ -110,7 +110,7 @@ My work on open-source software can also be considered a voluntary position. For
 ##### [Open Science Labs (OSL)](https://opensciencelabs.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 ###### May - September 2023 | Remote
 
-- Supervisor for Ankit, working on the project "[Improve Scientific Python Cookiecutter](https://summerofcode.withgoogle.com/programs/2023/projects/26c9LZfd)."
+- Supervised Ankit on the project "[Improve Scientific Python Cookiecutter](https://summerofcode.withgoogle.com/programs/2023/projects/26c9LZfd)."
 
 ---
 
@@ -118,8 +118,8 @@ My work on open-source software can also be considered a voluntary position. For
 ##### [PyBaMM (Python Battery Mathematical Modeling)](https://pybamm.org){:target="_blank"}, [NumFOCUS](https://numfocus.org){:target="_blank"}
 ###### May - September 2023 | Remote
 
-- Supervisor for Arjun, working on the project "[Dockerizing and Simplifying PyBaMM's Installation](https://summerofcode.withgoogle.com/programs/2023/projects/vKlUTys3)."
-- Supervisor for Agriya, working on the project "[Enhancing Documentation Infrastructure of PyBaMM](https://summerofcode.withgoogle.com/programs/2023/projects/DdcerdTx)."
+- Supervised Arjun on the project "[Dockerizing and Simplifying PyBaMM's Installation](https://summerofcode.withgoogle.com/programs/2023/projects/vKlUTys3)."
+- Supervised Agriya on the project "[Enhancing Documentation Infrastructure of PyBaMM](https://summerofcode.withgoogle.com/programs/2023/projects/DdcerdTx)."
 
 ---
 
@@ -135,7 +135,7 @@ My work on open-source software can also be considered a voluntary position. For
 ##### [5th International Workshop on Python in High Energy Physics (PyHEP)](https://indico.cern.ch/event/1150631/){:target="_blank"}
 ###### May - September 2022 | Remote
 
-- Invited to mentor and assist researchers and students new to open-source scientific software development.
+- Unofficially supervised Vaibhav on the project "[Automate Benchmarking Infrastructure of PyBaMM](https://summerofcode.withgoogle.com/archive/2022/projects/4azgJFTu)."
 
 ---
 
