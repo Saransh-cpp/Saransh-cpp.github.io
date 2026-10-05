@@ -52,18 +52,20 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ###### September 2025 - Present | Lausanne, Switzerland
 
 - Current grade: 5.125/6.
-- Relevant coursework: Concurrent computing, machine learning, programming concepts in scientific computing.
+- Relevant HPC coursework: Concurrent computing, advanced multiprocessor architecture, programming concepts in scientific computing, parallel and high-performance computing, algorithms.
+- Relevant ML coursework: Machine learning, AI product management, image processing for earth observations.
 - Notable projects:
   - Semester project ([Perception & Activity Understanding Group](https://www.idiap.ch/en/scientific-research/perception-and-activity-understanding/) @ [IDIAP](https://www.idiap.ch/en/)): Depth Distillation for Geometric Gaze Following.
   - Semester project ([Robust Scalable Systems Software Lab](https://rs3lab.github.io){:target="_blank"}): Design and implementation of On-Board Autonomy for the CHESS flight software (6/6).
   - ML course project ([CERN](https://home.cern){:target="_blank"}): Towards handling 10Pb/s of data through Machine Learning at CERN’s Large Hadron Collider (8.5/10).
-- Lead Flight Software Engineer @ [EPFL Spacecraft Team](https://epflspacecraftteam.ch){:target="_blank"} (March 2026 - Present)
+- Lead Flight Software Engineer @ [EPFL Spacecraft Team](https://epflspacecraftteam.ch){:target="_blank"} (March 2026 - September 2026)
   - Designing and implementing On-Board Autonomy for the flight software of Constellation of High-Energy Swiss Satellites (CHESS) mission using NASA's F-prime (embedded C++).
-  - Managing/supervising a team of Flight Software Engineers.
+  - Managing/supervising a team of Flight Software Engineers working on CHESS subsystems.
 - Flight Software Engineer @ [EPFL Spacecraft Team](https://epflspacecraftteam.ch){:target="_blank"} (September 2025 - March 2026)
   - Same work as above with no management/supervision responsibilities.
-- Machine Learning Engineer @ [EPFL AI Team](https://epflaiteam.ch){:target="_blank"} (collaborating with [CERN](https://home.cern){:target="_blank"}) (September 2025 - Present)
-  - Writing physics-aware clustering algorithms to compress particle shower data into lower dimensionality for efficient and fast ML-based high energy physics simulations.
+- Machine Learning Engineer @ [EPFL AI Team](https://epflaiteam.ch){:target="_blank"} (collaborating with [CERN](https://home.cern){:target="_blank"}) (September 2025 - May 2026)
+  - Wrote physics-aware clustering algorithms to compress particle shower data into lower dimensionality for efficient and fast ML-based high energy physics simulations.
+  - Achieved an optimal compression of ~92% without losing physical properties of the shower.
 
 ---
 
