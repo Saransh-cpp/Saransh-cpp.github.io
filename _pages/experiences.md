@@ -52,8 +52,8 @@ Below are my "formal" work experiences and educational qualifications. I also co
 ###### September 2025 - Present | Lausanne, Switzerland
 
 - Current grade: 5.125/6.
-- Relevant HPC coursework: Concurrent computing, advanced multiprocessor architecture, programming concepts in scientific computing, parallel and high-performance computing, algorithms.
-- Relevant ML coursework: Machine learning, AI product management, image processing for earth observations.
+- Relevant HPC coursework: concurrent computing, advanced multiprocessor architecture, programming concepts in scientific computing, parallel and high-performance computing, algorithms.
+- Relevant ML coursework: machine learning, AI product management, image processing for earth observations.
 - Notable projects:
   - Semester project ([Perception & Activity Understanding Group](https://www.idiap.ch/en/scientific-research/perception-and-activity-understanding/) @ [IDIAP](https://www.idiap.ch/en/)): Depth Distillation for Geometric Gaze Following.
   - Semester project ([Robust Scalable Systems Software Lab](https://rs3lab.github.io){:target="_blank"}): Design and implementation of On-Board Autonomy for the CHESS flight software (6/6).
