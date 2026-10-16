@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3><a href="https://indico.global/event/15240/contributions/165256/" target="_blank">step2point: Optimising Point Cloud Representations for Fast Calorimeter Simulation</a></h3>
+      <h5><a href="https://indico.global/event/15240/">9th Workshop on Scientific Machine Learning for Fundamental Physics (ML4Jets 2026)</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:70%" src="../assets/img/ml4jets-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3><a href="https://connoraird.github.io/posters/rsecon-2026/" target="_blank">Porting GLASS to the Python Array API: A Clear View to GPU Portability</a></h3>
       <h5><a href="https://rsecon26.society-rse.org">10th International Conference on Research Software Engineering</a></h5>
     </td>
@@ -84,7 +101,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://indi.to/nvwyq" target="_blank">step2point: Enhancing data preparation for point-cloud-based fast simulation</a></h3>
-      <h5><a href="https://indico.cern.ch/event/1471803/contributions/6967990/">28th International Conference on Computing in High Energy and Nuclear Physics</a></h5>
+      <h5><a href="https://indico.cern.ch/event/1471803/">28th International Conference on Computing in High Energy and Nuclear Physics</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:55%" src="../assets/img/chep25-logo.png"></td>
     <td></td>
@@ -492,7 +509,7 @@ horizontal: false
   <tr>
     <td>
       <h3><a href="https://tw.pycon.org/2022/en-us/conference/talk/243" target="_blank">Code coverage through unit tests running in sub-processes/threads: Locally and automated on GitHub </a><a href="https://www.youtube.com/watch?v=iSwvTDy_IKw&list=PLqtzN042QpfdkQbkOlwtEJMBGZHHsvimo&index=50">🎥</a></h3>
-      <h5><a href="https://tw.pycon.org/2022">PyCon APAC</a></h5>
+      <h5><a href="https://tw.pycon.org/2022">PyCon APAC 2022</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:35%" src="../assets/img/pyconapac-logo.svg"></td>
     <td></td>
@@ -543,7 +560,7 @@ horizontal: false
   <tr>
     <td>
       <h3>Introduction to Git and GitHub [invited] <a href="https://www.youtube.com/watch?v=d0oEVdmIzo0">🎥</a></h3>
-      <h5><a href="https://www.iitm.ac.in">Indin Institute of Technology Madras</a></h5>
+      <h5><a href="https://www.iitm.ac.in">Indian Institute of Technology Madras</a></h5>
     </td>
     <td style="text-align: center"><img style="float: middle; width:35%" src="../assets/img/iitm-logo.png"></td>
     <td></td>
