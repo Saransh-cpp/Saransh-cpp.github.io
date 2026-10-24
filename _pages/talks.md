@@ -15,6 +15,23 @@ horizontal: false
   </colgroup>
   <tr>
     <td>
+      <h3><a href="https://indi.to/PFkr9" target="_blank">step2point: Optimising Point Cloud Representations for Fast Calorimeter Simulation</a></h3>
+      <h5><a href="https://indico.cern.ch/event/1691500/">8th Inter-Experimental LHC Machine Learning Workshop</a></h5>
+    </td>
+    <td style="text-align: center"><img style="float: middle; width:85%" src="../assets/img/iml-logo.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+  </colgroup>
+  <tr>
+    <td>
       <h3><a href="https://indico.global/event/15240/contributions/165256/" target="_blank">step2point: Optimising Point Cloud Representations for Fast Calorimeter Simulation</a></h3>
       <h5><a href="https://indico.global/event/15240/">9th Workshop on Scientific Machine Learning for Fundamental Physics (ML4Jets 2026)</a></h5>
     </td>
